@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ビジュアル逆引き辞典</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Visual Reverse Dictionary</p>
+          <h1>ビジュアル逆引き辞典</h1>
+        </div>
+        <div class="topbar-actions">
+          <button id="resetButton" class="ghost-button" type="button" title="検索条件をリセット">リセット</button>
+          <a class="ghost-button" href="../data/visual-dictionary.json" target="_blank" rel="noreferrer">JSON</a>
+        </div>
+      </header>
+
+      <nav class="tabbar" aria-label="メインタブ">
+        <button class="tab-button active" type="button" data-tab="visual">ビジュアル一覧</button>
+        <button class="tab-button" type="button" data-tab="dictionary">辞書詳細</button>
+        <button class="tab-button" type="button" data-tab="missing">代表画像未設定</button>
+      </nav>
+
+      <main id="visualTab" class="visual-index tab-page active">
+        <section class="visual-index-header">
+          <div>
+            <p class="eyebrow">Visual Index</p>
+            <h2>画像から名前を思い出す</h2>
+            <p>各ジャンルの代表画像を1枚ずつ並べる索引です。画像またはカードを選ぶと辞書詳細に移動します。</p>
+          </div>
+          <label class="field-label visual-filter-label" for="visualFilter">
+            絞り込み
+            <input id="visualFilter" class="search-input" type="search" placeholder="例: ネオン / gothic / concrete" />
+          </label>
+        </section>
+        <section id="visualGrid" class="visual-grid" aria-label="代表画像つきジャンル一覧"></section>
+      </main>
+
+      <main id="dictionaryTab" class="workspace tab-page">
+        <aside class="filter-panel" aria-label="検索とタグ">
+          <section class="search-section">
+            <label class="field-label" for="searchInput">検索</label>
+            <input
+              id="searchInput"
+              class="search-input"
+              type="search"
+              placeholder="例: ネオン 雨 探偵 / 真鍮 歯車 / 蛍光灯 学校"
+              autocomplete="off"
+            />
+          </section>
+
+          <section class="selected-tags" aria-live="polite">
+            <div class="panel-heading">
+              <h2>選択中</h2>
+              <span id="resultCount" class="count-pill">0件</span>
+            </div>
+            <div id="activeTags" class="tag-list empty-state">タグ未選択</div>
+          </section>
+
+          <section class="tag-browser">
+            <div class="panel-heading">
+              <h2>逆引きタグ</h2>
+            </div>
+            <div id="tagGroups" class="tag-groups"></div>
+          </section>
+        </aside>
+
+        <section class="results-panel" aria-label="検索結果">
+          <div class="results-toolbar">
+            <div>
+              <p class="eyebrow">Results</p>
+              <h2>候補</h2>
+            </div>
+            <select id="sortSelect" class="select-input" aria-label="並び替え">
+              <option value="score">一致度順</option>
+              <option value="name">名称順</option>
+              <option value="english">英語名順</option>
+            </select>
+          </div>
+          <div id="resultList" class="result-list"></div>
+        </section>
+
+        <section class="detail-panel" aria-label="詳細">
+          <div id="detailContent" class="detail-content empty-detail">
+            <p class="eyebrow">Detail</p>
+            <h2>候補を選択</h2>
+            <p>検索語やタグから項目を選ぶと、特徴、素材、光、似ている用語、AIキーワードを確認できます。</p>
+          </div>
+        </section>
+      </main>
+
+      <main id="missingTab" class="missing-page tab-page">
+        <section class="visual-index-header">
+          <div>
+            <p class="eyebrow">Missing Representative Images</p>
+            <h2>代表画像未設定一覧</h2>
+            <p>代表画像がまだ空の項目です。1ジャンル1枚を基本に、ライセンスと出典を確認して設定します。</p>
+          </div>
+          <span id="missingCount" class="count-pill">0件</span>
+        </section>
+        <section id="missingList" class="missing-list" aria-label="代表画像未設定項目"></section>
+      </main>
+    </div>
+
+    <template id="resultTemplate">
+      <article class="result-card">
+        <button class="result-button" type="button">
+          <span class="result-score"></span>
+          <span class="result-title"></span>
+          <span class="result-description"></span>
+          <span class="mini-tags"></span>
+        </button>
+      </article>
+    </template>
+
+    <script src="./app.js?v=20260701-detail-scroll"></script>
+  </body>
+</html>

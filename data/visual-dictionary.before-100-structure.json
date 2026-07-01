@@ -1,0 +1,6846 @@
+{
+  "schema_version": "1.0.0",
+  "title": "ビジュアル逆引き辞典",
+  "description": "頭の中にある見た目、雰囲気、色、素材、モチーフからジャンル名や美術様式を探すための辞書データ。",
+  "primary_language": "ja",
+  "generated_at": "2026-06-05",
+  "format_policy": {
+    "primary_data": "JSON",
+    "human_docs": "Markdown",
+    "reason": "JSONはアプリ化、検索、検証、画像参照の追加に強く、Markdownは人間がテンプレートや編集ルールを読みやすい。"
+  },
+  "image_reference_model": {
+    "representative": {
+      "asset_id": null,
+      "path": null,
+      "url": null,
+      "caption": null,
+      "license": null,
+      "credit": null
+    },
+    "thumbnail": {
+      "asset_id": null,
+      "path": null,
+      "url": null
+    },
+    "gallery": [],
+    "reference_urls": [],
+    "notes": ""
+  },
+  "tag_catalog": {
+    "visual_elements": [
+      "ネオン",
+      "雨",
+      "歯車",
+      "蒸気",
+      "黒煙",
+      "廃墟",
+      "巨大建築",
+      "高層ビル",
+      "義体",
+      "宗教建築",
+      "古城",
+      "蝋燭",
+      "触手",
+      "有機的",
+      "無機質",
+      "幾何学",
+      "流線形",
+      "配管",
+      "広告",
+      "瓦礫",
+      "塔",
+      "要塞",
+      "迷宮",
+      "アーチ",
+      "ドーム",
+      "空中都市",
+      "水上都市",
+      "水没都市",
+      "橋",
+      "温室",
+      "モジュール建築",
+      "プレハブ",
+      "空中回廊",
+      "地下都市",
+      "巨大ダム",
+      "巨大壁",
+      "発電施設",
+      "廃工場",
+      "駅舎",
+      "コンテナ",
+      "水路",
+      "庭園",
+      "記念碑",
+      "古代遺跡",
+      "モノリス"
+    ],
+    "materials": [
+      "真鍮",
+      "銅",
+      "鉄",
+      "コンクリート",
+      "ガラス",
+      "クローム",
+      "革",
+      "布",
+      "プラスチック",
+      "肉体",
+      "植物",
+      "木材",
+      "石材",
+      "軍用金属",
+      "防水素材",
+      "煉瓦",
+      "鋼鉄",
+      "タイル",
+      "アクリル",
+      "セラミック",
+      "竹",
+      "土",
+      "再生素材",
+      "金"
+    ],
+    "lighting_air": [
+      "強い逆光",
+      "雨",
+      "低照度",
+      "蛍光灯",
+      "霧",
+      "煤けた空気",
+      "湿気",
+      "乾いた空気",
+      "自然光",
+      "蝋燭光",
+      "宇宙光",
+      "無影灯",
+      "白く平坦な光",
+      "夕焼け",
+      "冷たい月光",
+      "水中光",
+      "砂塵",
+      "高所の風",
+      "温室光",
+      "非常灯"
+    ],
+    "mood": [
+      "退廃的",
+      "牧歌的",
+      "神秘的",
+      "不穏",
+      "未来的",
+      "中世風",
+      "産業革命風",
+      "戦間期風",
+      "荘厳",
+      "孤独",
+      "異物感",
+      "冒険的",
+      "軍事的",
+      "清潔",
+      "暴力的",
+      "記念碑的",
+      "閉塞的",
+      "荒涼",
+      "共同体的",
+      "無機質"
+    ],
+    "settings": [
+      "宇宙",
+      "地下",
+      "研究施設",
+      "学校",
+      "病院",
+      "商業施設",
+      "砂漠",
+      "雪原",
+      "森",
+      "海底",
+      "都市",
+      "古城",
+      "工場",
+      "駅",
+      "空港",
+      "荒野",
+      "戦場",
+      "空中",
+      "水上",
+      "水没都市",
+      "発電所",
+      "橋梁",
+      "要塞",
+      "庭園",
+      "港湾",
+      "ダム",
+      "塔",
+      "迷宮",
+      "居住区"
+    ],
+    "era_technology": [
+      "中世",
+      "古代",
+      "近世",
+      "ヴィクトリア朝",
+      "産業革命",
+      "戦間期",
+      "冷戦期",
+      "昭和レトロ",
+      "近未来",
+      "遠未来",
+      "崩壊後",
+      "代替歴史",
+      "バイオテクノロジー",
+      "宇宙文明",
+      "近代",
+      "現代",
+      "未来都市"
+    ],
+    "colors": [
+      "黒",
+      "白",
+      "灰色",
+      "錆色",
+      "真鍮色",
+      "金",
+      "銀",
+      "赤",
+      "青",
+      "緑",
+      "紫",
+      "シアン",
+      "マゼンタ",
+      "琥珀色",
+      "セピア",
+      "パステル",
+      "アースカラー",
+      "黄土色",
+      "透明",
+      "コバルトブルー"
+    ],
+    "motifs": [
+      "巨大企業",
+      "探偵",
+      "飛行船",
+      "蒸気機関",
+      "内燃機関",
+      "太陽光",
+      "遺伝子改造",
+      "宇宙戦艦",
+      "古代神",
+      "吸血鬼",
+      "聖堂",
+      "制服",
+      "防具",
+      "サバイバル",
+      "空の商業施設",
+      "モノリス",
+      "城塞",
+      "大聖堂",
+      "地下迷宮",
+      "巨大構造物",
+      "アーコロジー",
+      "空中庭園",
+      "浮遊都市",
+      "水中都市",
+      "コンテナ居住",
+      "工業地帯",
+      "鉄道駅",
+      "神殿",
+      "巨大記念碑",
+      "防空壕",
+      "温室都市",
+      "砂漠都市",
+      "水道橋",
+      "巨大橋"
+    ]
+  },
+  "entries": [
+    {
+      "id": "cyberpunk",
+      "name": "サイバーパンク",
+      "reading": "サイバーパンク",
+      "english_name": "Cyberpunk",
+      "short_description": "高度なテクノロジーと低い生活環境が同居する、ネオンと巨大企業の近未来。",
+      "visual_features": [
+        "雨に濡れた高層都市",
+        "密集した看板やホログラム広告",
+        "ケーブル、義体、監視カメラが生活空間に入り込む",
+        "上層の清潔さと下層の雑多さが強く分かれる"
+      ],
+      "common_motifs": [
+        "巨大企業",
+        "義体",
+        "ハッカー",
+        "監視社会",
+        "スラム街",
+        "電脳空間"
+      ],
+      "color_tendencies": [
+        "黒",
+        "シアン",
+        "マゼンタ",
+        "紫",
+        "酸性の緑"
+      ],
+      "material_feel": [
+        "濡れたアスファルト",
+        "ガラス",
+        "クローム",
+        "プラスチック",
+        "古いコンクリート"
+      ],
+      "light_air": "雨、夜、反射光、ネオン、湿気、排気の霞が重なる。",
+      "worldview_direction": "テクノロジーは進歩しているが、社会は不平等で退廃している。",
+      "near_terms": [
+        "neon_noir",
+        "biopunk",
+        "techwear",
+        "retrofuturism"
+      ],
+      "confusable_terms": [
+        {
+          "id": "neon_noir",
+          "difference": "ネオンノワールは犯罪劇や探偵ものの光と影が中心。サイバーパンクは社会構造、義体、電脳、巨大企業まで含む。"
+        },
+        {
+          "id": "techwear",
+          "difference": "テックウェアは主に衣服や装備の機能美。サイバーパンクは都市、社会、身体改造まで含む世界観。"
+        }
+      ],
+      "difference_notes": [
+        "ネオンがあるだけではサイバーパンクではなく、企業支配、身体拡張、都市格差があるとサイバーパンクらしくなる。"
+      ],
+      "ai_keywords": [
+        "cyberpunk city",
+        "rainy neon street",
+        "megacorporation skyline",
+        "cybernetic implants",
+        "wet asphalt reflections",
+        "high tech low life",
+        "近未来都市",
+        "義体",
+        "ネオン看板"
+      ],
+      "tags": {
+        "visual_elements": [
+          "ネオン",
+          "雨",
+          "高層ビル",
+          "義体",
+          "広告",
+          "配管"
+        ],
+        "materials": [
+          "ガラス",
+          "クローム",
+          "コンクリート",
+          "プラスチック"
+        ],
+        "lighting_air": [
+          "低照度",
+          "湿気",
+          "霧"
+        ],
+        "mood": [
+          "退廃的",
+          "未来的",
+          "不穏"
+        ],
+        "settings": [
+          "都市",
+          "地下",
+          "商業施設"
+        ],
+        "era_technology": [
+          "近未来"
+        ],
+        "colors": [
+          "黒",
+          "シアン",
+          "マゼンタ",
+          "紫"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "ネオン",
+          "義体",
+          "巨大企業",
+          "雨の高層都市"
+        ],
+        "secondary_cues": [
+          "ハッカー",
+          "監視カメラ",
+          "電脳空間"
+        ],
+        "avoid_confusing_with": [
+          "ネオンだけならネオンノワールも候補に入れる"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "neon city",
+        "rainy cyberpunk street",
+        "dystopian megacity",
+        "hologram alley",
+        "futuristic neon street"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/cyberpunk.png",
+        "image_url": "/app/generated/representatives/cyberpunk.png",
+        "source_page_url": "/app/generated/representatives/cyberpunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "サイバーパンクの生成代表画像。ネオン, 雨, 高層ビル, 義体, 広告",
+        "notes": "Generated replacement: stronger neon, rain, megacity, and corporate dystopia cues."
+      }
+    },
+    {
+      "id": "steampunk",
+      "name": "スチームパンク",
+      "reading": "スチームパンク",
+      "english_name": "Steampunk",
+      "short_description": "蒸気機関と歯車の機械文明が発達した、ヴィクトリア朝風の代替歴史。",
+      "visual_features": [
+        "真鍮や銅の機械",
+        "露出した歯車、バルブ、配管",
+        "革ベルト、ゴーグル、時計部品",
+        "上品な服飾と工業的な装置が同居する"
+      ],
+      "common_motifs": [
+        "飛行船",
+        "蒸気機関",
+        "歯車",
+        "発明家",
+        "懐中時計",
+        "機械仕掛けの義手"
+      ],
+      "color_tendencies": [
+        "真鍮色",
+        "銅色",
+        "セピア",
+        "焦げ茶",
+        "琥珀色"
+      ],
+      "material_feel": [
+        "真鍮",
+        "銅",
+        "革",
+        "木材",
+        "磨かれた鉄"
+      ],
+      "light_air": "暖色のランプ光、蒸気、煤、工房の熱気。",
+      "worldview_direction": "産業革命期のロマンと発明趣味を、空想科学として拡張する。",
+      "near_terms": [
+        "dieselpunk",
+        "victorian",
+        "retrofuturism",
+        "art_deco"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dieselpunk",
+          "difference": "スチームパンクは蒸気、真鍮、ヴィクトリア朝が核。ディーゼルパンクは内燃機関、鉄、黒煙、戦間期から第二次大戦風が核。"
+        },
+        {
+          "id": "victorian",
+          "difference": "ヴィクトリアンは時代様式。スチームパンクはそこに蒸気機械や発明SFを足したもの。"
+        }
+      ],
+      "difference_notes": [
+        "歯車だけでなく、蒸気、真鍮、発明家、ヴィクトリア朝風の服飾がそろうと判定しやすい。"
+      ],
+      "ai_keywords": [
+        "steampunk",
+        "brass gears",
+        "steam engine",
+        "Victorian inventor",
+        "airship",
+        "leather goggles",
+        "真鍮",
+        "歯車",
+        "蒸気機関"
+      ],
+      "tags": {
+        "visual_elements": [
+          "歯車",
+          "蒸気",
+          "配管"
+        ],
+        "materials": [
+          "真鍮",
+          "銅",
+          "革",
+          "木材"
+        ],
+        "lighting_air": [
+          "煤けた空気",
+          "蝋燭光",
+          "霧"
+        ],
+        "mood": [
+          "産業革命風",
+          "冒険的",
+          "神秘的"
+        ],
+        "settings": [
+          "工場",
+          "都市"
+        ],
+        "era_technology": [
+          "ヴィクトリア朝",
+          "産業革命",
+          "代替歴史"
+        ],
+        "colors": [
+          "真鍮色",
+          "琥珀色",
+          "セピア"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "歯車",
+          "蒸気",
+          "真鍮",
+          "飛行船"
+        ],
+        "secondary_cues": [
+          "革ゴーグル",
+          "懐中時計",
+          "ヴィクトリア朝"
+        ],
+        "avoid_confusing_with": [
+          "黒煙と軍用機が強い場合はディーゼルパンクも見る"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "steampunk machinery",
+        "brass gears",
+        "victorian steam engine",
+        "steampunk airship"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/steampunk.png",
+        "image_url": "/app/generated/representatives/steampunk.png",
+        "source_page_url": "/app/generated/representatives/steampunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "スチームパンクの生成代表画像。歯車, 蒸気, 配管, 真鍮, 銅",
+        "notes": "Generated replacement: clearer Victorian steam machinery, brass pipes, gears, and airship cues."
+      }
+    },
+    {
+      "id": "dieselpunk",
+      "name": "ディーゼルパンク",
+      "reading": "ディーゼルパンク",
+      "english_name": "Dieselpunk",
+      "short_description": "戦間期から第二次大戦前後の機械、軍事、工業感を誇張したレトロSF。",
+      "visual_features": [
+        "リベットだらけの金属外装",
+        "大型エンジン、プロペラ、装甲車",
+        "黒煙、油、鉄骨、軍需工場",
+        "アールデコや全体主義建築の硬い造形"
+      ],
+      "common_motifs": [
+        "内燃機関",
+        "飛行艇",
+        "装甲列車",
+        "防毒マスク",
+        "軍服",
+        "ラジオ塔"
+      ],
+      "color_tendencies": [
+        "鉄灰",
+        "オリーブ",
+        "黒",
+        "錆色",
+        "くすんだ赤"
+      ],
+      "material_feel": [
+        "鉄",
+        "軍用金属",
+        "油じみた革",
+        "コンクリート",
+        "煤"
+      ],
+      "light_air": "煙、サーチライト、工場の火花、乾いた戦場の空気。",
+      "worldview_direction": "近代工業と総力戦の時代を、重く硬い機械美として拡張する。",
+      "near_terms": [
+        "steampunk",
+        "art_deco",
+        "military_sf",
+        "retrofuturism"
+      ],
+      "confusable_terms": [
+        {
+          "id": "steampunk",
+          "difference": "蒸気と真鍮ならスチームパンク。内燃機関、黒煙、装甲、戦間期ならディーゼルパンク。"
+        },
+        {
+          "id": "art_deco",
+          "difference": "アールデコは装飾様式。ディーゼルパンクはその時代感に軍事や機械SFを足す。"
+        }
+      ],
+      "difference_notes": [
+        "色と素材が真鍮より鉄、発明工房より軍需工場に寄る。"
+      ],
+      "ai_keywords": [
+        "dieselpunk",
+        "interwar machinery",
+        "armored train",
+        "black smoke",
+        "propeller aircraft",
+        "industrial war machine",
+        "戦間期風",
+        "黒煙",
+        "装甲車"
+      ],
+      "tags": {
+        "visual_elements": [
+          "黒煙",
+          "巨大建築",
+          "流線形"
+        ],
+        "materials": [
+          "鉄",
+          "軍用金属",
+          "コンクリート",
+          "革"
+        ],
+        "lighting_air": [
+          "煤けた空気",
+          "乾いた空気",
+          "強い逆光"
+        ],
+        "mood": [
+          "戦間期風",
+          "軍事的",
+          "暴力的"
+        ],
+        "settings": [
+          "工場",
+          "戦場",
+          "都市"
+        ],
+        "era_technology": [
+          "戦間期",
+          "代替歴史"
+        ],
+        "colors": [
+          "灰色",
+          "錆色",
+          "黒"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "黒煙",
+          "内燃機関",
+          "装甲",
+          "戦間期風"
+        ],
+        "secondary_cues": [
+          "防毒マスク",
+          "プロペラ機",
+          "ラジオ塔"
+        ],
+        "avoid_confusing_with": [
+          "蒸気と真鍮が主役ならスチームパンク"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "dieselpunk machinery",
+        "interwar industrial design",
+        "art deco factory",
+        "armored train"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/dieselpunk.png",
+        "image_url": "/app/generated/representatives/dieselpunk.png",
+        "source_page_url": "/app/generated/representatives/dieselpunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ディーゼルパンクの生成代表画像。黒煙, 巨大建築, 流線形, 鉄, 軍用金属",
+        "notes": "Generated replacement: stronger diesel machinery, smokestacks, interwar industry, and militarized atmosphere."
+      }
+    },
+    {
+      "id": "solarpunk",
+      "name": "ソーラーパンク",
+      "reading": "ソーラーパンク",
+      "english_name": "Solarpunk",
+      "short_description": "自然、再生可能エネルギー、地域共同体が調和した明るい未来像。",
+      "visual_features": [
+        "植物に覆われた建築",
+        "太陽光パネルや風力設備が生活風景に溶け込む",
+        "曲線的で開放的な都市",
+        "人間、自然、テクノロジーの共存が見える"
+      ],
+      "common_motifs": [
+        "太陽光",
+        "屋上庭園",
+        "温室",
+        "自転車",
+        "水路",
+        "共同菜園"
+      ],
+      "color_tendencies": [
+        "緑",
+        "白",
+        "金",
+        "青",
+        "アースカラー"
+      ],
+      "material_feel": [
+        "植物",
+        "木材",
+        "ガラス",
+        "白いセラミック",
+        "再生素材"
+      ],
+      "light_air": "明るい自然光、澄んだ空気、湿った植物の気配。",
+      "worldview_direction": "未来を破滅ではなく、修復、共生、持続可能性として描く。",
+      "near_terms": [
+        "retrofuturism",
+        "cyberpunk",
+        "post_apocalyptic"
+      ],
+      "confusable_terms": [
+        {
+          "id": "cyberpunk",
+          "difference": "サイバーパンクは都市格差と退廃。ソーラーパンクは共同体、緑化、再生可能エネルギーが中心。"
+        },
+        {
+          "id": "post_apocalyptic",
+          "difference": "崩壊後に緑が戻っただけならポストアポカリプス寄り。意図的な共生社会が見えるとソーラーパンク。"
+        }
+      ],
+      "difference_notes": [
+        "植物と未来技術があるだけでなく、暮らしや共同体が前向きに設計されているかを見る。"
+      ],
+      "ai_keywords": [
+        "solarpunk city",
+        "green architecture",
+        "solar panels",
+        "community garden",
+        "bright sustainable future",
+        "植物建築",
+        "再生可能エネルギー",
+        "牧歌的な未来"
+      ],
+      "tags": {
+        "visual_elements": [
+          "有機的",
+          "巨大建築"
+        ],
+        "materials": [
+          "植物",
+          "木材",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "自然光",
+          "夕焼け"
+        ],
+        "mood": [
+          "牧歌的",
+          "未来的",
+          "清潔"
+        ],
+        "settings": [
+          "都市",
+          "森",
+          "海底"
+        ],
+        "era_technology": [
+          "近未来"
+        ],
+        "colors": [
+          "緑",
+          "白",
+          "金",
+          "アースカラー"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "太陽光",
+          "緑化建築",
+          "自然光",
+          "持続可能な都市"
+        ],
+        "secondary_cues": [
+          "温室",
+          "共同菜園",
+          "水路"
+        ],
+        "avoid_confusing_with": [
+          "荒廃した緑化なら荒廃都市やポストアポカリプスも候補"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "solarpunk architecture",
+        "green futuristic city",
+        "solar panels garden",
+        "sustainable city"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Solarpunk%2C_a_positive_possible_near-future.jpg/500px-Solarpunk%2C_a_positive_possible_near-future.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Solarpunk%2C_a_positive_possible_near-future.jpg",
+        "source_page_url": "https://commons.wikimedia.org/wiki/File:Solarpunk,_a_positive_possible_near-future.jpg",
+        "source": "Wikimedia Commons",
+        "creator": "Prototyperspective",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "alt": "ソーラーパンクを象徴する参考画像: 太陽光、緑化建築、自然光、持続可能な都市",
+        "notes": "明るい近未来・持続可能性の参考として暫定選定。"
+      }
+    },
+    {
+      "id": "biopunk",
+      "name": "バイオパンク",
+      "reading": "バイオパンク",
+      "english_name": "Biopunk",
+      "short_description": "遺伝子、培養器官、企業研究施設など、生物工学を軸にしたパンク系SF。",
+      "visual_features": [
+        "培養槽や透明なチューブ",
+        "有機的な機械や人工臓器",
+        "清潔な研究施設と不気味な肉体素材の対比",
+        "皮膚、粘液、細胞、発光する生体組織"
+      ],
+      "common_motifs": [
+        "遺伝子改造",
+        "クローン",
+        "培養槽",
+        "人工臓器",
+        "生体兵器",
+        "研究企業"
+      ],
+      "color_tendencies": [
+        "白",
+        "緑",
+        "赤",
+        "青",
+        "半透明"
+      ],
+      "material_feel": [
+        "ガラス",
+        "肉体",
+        "ゲル",
+        "プラスチック",
+        "ステンレス"
+      ],
+      "light_air": "無影灯、蛍光灯、滅菌された空気、培養液の発光。",
+      "worldview_direction": "身体や生命が技術、商品、兵器として扱われる不安を描く。",
+      "near_terms": [
+        "body_horror",
+        "cyberpunk",
+        "cosmic_horror"
+      ],
+      "confusable_terms": [
+        {
+          "id": "body_horror",
+          "difference": "バイオパンクは生物工学や社会制度が中心。ボディホラーは身体変形そのものの恐怖が中心。"
+        },
+        {
+          "id": "cyberpunk",
+          "difference": "サイバーパンクは機械や情報技術寄り。バイオパンクは遺伝子、細胞、器官、培養が主役。"
+        }
+      ],
+      "difference_notes": [
+        "研究施設、企業、培養技術があるとバイオパンク。痛みや変形の描写が主目的ならボディホラー。"
+      ],
+      "ai_keywords": [
+        "biopunk laboratory",
+        "genetic engineering",
+        "organic machine",
+        "cloning vat",
+        "bioengineered creature",
+        "研究施設",
+        "培養槽",
+        "有機的な機械"
+      ],
+      "tags": {
+        "visual_elements": [
+          "有機的",
+          "触手",
+          "義体"
+        ],
+        "materials": [
+          "肉体",
+          "ガラス",
+          "プラスチック"
+        ],
+        "lighting_air": [
+          "蛍光灯",
+          "無影灯",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "不穏",
+          "未来的",
+          "清潔"
+        ],
+        "settings": [
+          "研究施設",
+          "病院",
+          "地下"
+        ],
+        "era_technology": [
+          "近未来",
+          "バイオテクノロジー"
+        ],
+        "colors": [
+          "白",
+          "緑",
+          "赤"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "培養槽",
+          "遺伝子改造",
+          "有機的な機械",
+          "研究施設"
+        ],
+        "secondary_cues": [
+          "クローン",
+          "人工臓器",
+          "生体兵器"
+        ],
+        "avoid_confusing_with": [
+          "身体変形の恐怖だけならボディホラーも見る"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "biopunk laboratory",
+        "genetic engineering lab",
+        "organic technology",
+        "bioengineering facility"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/biopunk.png",
+        "image_url": "/app/generated/representatives/biopunk.png",
+        "source_page_url": "/app/generated/representatives/biopunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "バイオパンクの生成代表画像。有機的, 触手, 義体, 肉体, ガラス",
+        "notes": "Generated replacement: clearer biotech laboratory, glass tanks, organic growth, and bio-machine cues."
+      }
+    },
+    {
+      "id": "retrofuturism",
+      "name": "レトロフューチャー",
+      "reading": "レトロフューチャー",
+      "english_name": "Retrofuturism",
+      "short_description": "過去の時代が想像した未来を再現する、懐かしい未来像。",
+      "visual_features": [
+        "丸みのある宇宙船や家電",
+        "クローム、プラスチック、パステルカラー",
+        "古い広告、万博、宇宙開発ブーム風",
+        "未来なのに古い印刷物のような質感"
+      ],
+      "common_motifs": [
+        "ロケット",
+        "宇宙服",
+        "家庭用ロボット",
+        "空飛ぶ車",
+        "万博パビリオン",
+        "アナログ計器"
+      ],
+      "color_tendencies": [
+        "パステル",
+        "赤",
+        "水色",
+        "白",
+        "銀"
+      ],
+      "material_feel": [
+        "クローム",
+        "プラスチック",
+        "ガラス",
+        "エナメル塗装"
+      ],
+      "light_air": "明るく広告的な照明、清潔だが少し作り物めいた空気。",
+      "worldview_direction": "昔の楽観的な未来像を、懐かしさと皮肉を含めて楽しむ。",
+      "near_terms": [
+        "solarpunk",
+        "space_opera",
+        "art_deco",
+        "dieselpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "space_opera",
+          "difference": "スペースオペラは宇宙冒険の物語規模。レトロフューチャーは過去の未来デザイン様式。"
+        },
+        {
+          "id": "art_deco",
+          "difference": "アールデコは幾何学的な装飾美。レトロフューチャーは古い未来予想図の質感が中心。"
+        }
+      ],
+      "difference_notes": [
+        "年代感のある未来予想図、古い広告、丸いロケットが強い手がかり。"
+      ],
+      "ai_keywords": [
+        "retrofuturism",
+        "1950s future",
+        "vintage space age",
+        "chrome rocket",
+        "atomic age design",
+        "古い未来",
+        "宇宙開発レトロ",
+        "万博風"
+      ],
+      "tags": {
+        "visual_elements": [
+          "流線形",
+          "広告",
+          "幾何学"
+        ],
+        "materials": [
+          "クローム",
+          "プラスチック",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "自然光",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "未来的",
+          "冒険的",
+          "清潔"
+        ],
+        "settings": [
+          "宇宙",
+          "都市",
+          "商業施設"
+        ],
+        "era_technology": [
+          "昭和レトロ",
+          "冷戦期",
+          "代替歴史"
+        ],
+        "colors": [
+          "パステル",
+          "白",
+          "銀",
+          "赤"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "古い未来",
+          "丸いロケット",
+          "クローム",
+          "パステル"
+        ],
+        "secondary_cues": [
+          "万博",
+          "家庭用ロボット",
+          "空飛ぶ車"
+        ],
+        "avoid_confusing_with": [
+          "宇宙戦争や帝国の物語規模が主役ならスペースオペラ"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "retrofuturism",
+        "vintage space age",
+        "atomic age design",
+        "retro future city"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/retrofuturism.png",
+        "image_url": "/app/generated/representatives/retrofuturism.png",
+        "source_page_url": "/app/generated/representatives/retrofuturism.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "レトロフューチャーの生成代表画像。流線形, 広告, 幾何学, クローム, プラスチック",
+        "notes": "Generated replacement: stronger mid-century old-future architecture, bubble cars, chrome curves, and optimistic space-age cues."
+      }
+    },
+    {
+      "id": "space_opera",
+      "name": "スペースオペラ",
+      "reading": "スペースオペラ",
+      "english_name": "Space Opera",
+      "short_description": "銀河規模の冒険、戦争、王朝、英雄譚を描く壮大な宇宙SF。",
+      "visual_features": [
+        "巨大宇宙船や艦隊",
+        "惑星、星雲、宇宙港",
+        "王宮、軍服、儀礼的な衣装",
+        "個人より文明や帝国のスケールが大きい"
+      ],
+      "common_motifs": [
+        "宇宙戦艦",
+        "銀河帝国",
+        "惑星国家",
+        "異星人",
+        "宇宙騎士",
+        "古代文明"
+      ],
+      "color_tendencies": [
+        "深い青",
+        "黒",
+        "金",
+        "白",
+        "星雲色"
+      ],
+      "material_feel": [
+        "金属",
+        "ガラス",
+        "装飾的な石材",
+        "制服生地"
+      ],
+      "light_air": "宇宙光、艦橋の計器光、星雲の色、荘厳な逆光。",
+      "worldview_direction": "宇宙を舞台に、国家、血統、戦争、冒険を大きな物語として描く。",
+      "near_terms": [
+        "military_sf",
+        "retrofuturism",
+        "cosmic_horror"
+      ],
+      "confusable_terms": [
+        {
+          "id": "military_sf",
+          "difference": "ミリタリーSFは軍事運用や戦術が中心。スペースオペラは銀河規模の冒険や英雄譚が中心。"
+        },
+        {
+          "id": "cosmic_horror",
+          "difference": "宇宙的スケールでも、畏怖と理解不能さが中心ならコズミックホラー。"
+        }
+      ],
+      "difference_notes": [
+        "宇宙、艦隊、帝国、英雄譚がセットならスペースオペラ。軍の現実感が主ならミリタリーSF。"
+      ],
+      "ai_keywords": [
+        "space opera",
+        "galactic empire",
+        "massive starship fleet",
+        "alien royal court",
+        "epic space battle",
+        "銀河帝国",
+        "宇宙戦艦",
+        "星雲"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大建築",
+          "高層ビル"
+        ],
+        "materials": [
+          "ガラス",
+          "軍用金属",
+          "石材"
+        ],
+        "lighting_air": [
+          "宇宙光",
+          "強い逆光"
+        ],
+        "mood": [
+          "荘厳",
+          "冒険的",
+          "未来的"
+        ],
+        "settings": [
+          "宇宙",
+          "都市",
+          "戦場"
+        ],
+        "era_technology": [
+          "遠未来",
+          "宇宙文明"
+        ],
+        "colors": [
+          "黒",
+          "青",
+          "金",
+          "白"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "宇宙戦艦",
+          "銀河帝国",
+          "巨大艦隊",
+          "惑星規模"
+        ],
+        "secondary_cues": [
+          "王族",
+          "宇宙港",
+          "異星人"
+        ],
+        "avoid_confusing_with": [
+          "戦術と兵站の描写が主ならミリタリーSF"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "space opera starship",
+        "galactic empire fleet",
+        "epic space battle",
+        "space station"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/space_opera.png",
+        "image_url": "/app/generated/representatives/space_opera.png",
+        "source_page_url": "/app/generated/representatives/space_opera.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "スペースオペラの生成代表画像。巨大建築, 高層ビル, ガラス, 軍用金属, 石材",
+        "notes": "Generated replacement: clearer galactic scale with starships, orbital structures, planet horizon, and epic space-opera mood."
+      }
+    },
+    {
+      "id": "dark_fantasy",
+      "name": "ダークファンタジー",
+      "reading": "ダークファンタジー",
+      "english_name": "Dark Fantasy",
+      "short_description": "魔法や怪物のある幻想世界を、陰惨さ、呪い、死の気配で描くファンタジー。",
+      "visual_features": [
+        "荒れた城塞や廃村",
+        "黒い森、墓地、呪われた遺跡",
+        "傷ついた鎧や古い武器",
+        "英雄的というより不吉で重い"
+      ],
+      "common_motifs": [
+        "呪い",
+        "不死者",
+        "古い王国",
+        "血",
+        "黒い森",
+        "朽ちた王冠"
+      ],
+      "color_tendencies": [
+        "黒",
+        "灰色",
+        "深紅",
+        "暗い緑",
+        "煤けた金"
+      ],
+      "material_feel": [
+        "錆びた鉄",
+        "石材",
+        "古布",
+        "骨",
+        "泥"
+      ],
+      "light_air": "曇天、冷たい月光、煙、湿った土の匂い。",
+      "worldview_direction": "幻想世界の美しさより、犠牲、呪い、運命の暗さを前面に出す。",
+      "near_terms": [
+        "gothic_fantasy",
+        "cosmic_horror",
+        "post_apocalyptic"
+      ],
+      "confusable_terms": [
+        {
+          "id": "gothic_fantasy",
+          "difference": "ゴシックファンタジーは古城、聖堂、蝋燭、吸血鬼などの様式美が強い。ダークファンタジーはより広く陰惨な幻想世界を含む。"
+        },
+        {
+          "id": "cosmic_horror",
+          "difference": "コズミックホラーは人間の理解を超える宇宙的恐怖。ダークファンタジーは呪い、魔物、王国などファンタジー内の暗さ。"
+        }
+      ],
+      "difference_notes": [
+        "ゴシック様式に限定されない、暗いファンタジー全般の上位カテゴリとして使える。"
+      ],
+      "ai_keywords": [
+        "dark fantasy",
+        "cursed kingdom",
+        "ruined castle",
+        "black forest",
+        "undead knight",
+        "呪われた王国",
+        "黒い森",
+        "朽ちた鎧"
+      ],
+      "tags": {
+        "visual_elements": [
+          "廃墟",
+          "古城",
+          "蝋燭"
+        ],
+        "materials": [
+          "鉄",
+          "石材",
+          "布"
+        ],
+        "lighting_air": [
+          "低照度",
+          "冷たい月光",
+          "霧"
+        ],
+        "mood": [
+          "中世風",
+          "不穏",
+          "退廃的"
+        ],
+        "settings": [
+          "古城",
+          "森",
+          "地下"
+        ],
+        "era_technology": [
+          "中世"
+        ],
+        "colors": [
+          "黒",
+          "灰色",
+          "赤"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "呪い",
+          "黒い森",
+          "朽ちた城",
+          "不死者"
+        ],
+        "secondary_cues": [
+          "墓地",
+          "傷ついた鎧",
+          "古い王冠"
+        ],
+        "avoid_confusing_with": [
+          "古城と蝋燭の様式美が主ならゴシックファンタジーも候補"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "dark fantasy castle",
+        "cursed kingdom",
+        "dark fantasy forest",
+        "undead knight"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/dark_fantasy.png",
+        "image_url": "/app/generated/representatives/dark_fantasy.png",
+        "source_page_url": "/app/generated/representatives/dark_fantasy.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ダークファンタジーの生成代表画像。廃墟, 古城, 蝋燭, 鉄, 石材",
+        "notes": "Generated replacement: stronger cursed fortress, dead forest, storm sky, and dark fantasy atmosphere."
+      }
+    },
+    {
+      "id": "gothic_fantasy",
+      "name": "ゴシックファンタジー",
+      "reading": "ゴシックファンタジー",
+      "english_name": "Gothic Fantasy",
+      "short_description": "古城、聖堂、吸血鬼、蝋燭などのゴシック様式を幻想世界に組み込むジャンル。",
+      "visual_features": [
+        "尖塔、アーチ、ステンドグラス",
+        "古城や大聖堂の垂直性",
+        "蝋燭、黒いドレス、棺、薔薇",
+        "宗教的な荘厳さと退廃が重なる"
+      ],
+      "common_motifs": [
+        "吸血鬼",
+        "古城",
+        "聖堂",
+        "棺",
+        "薔薇",
+        "血",
+        "黒い礼服"
+      ],
+      "color_tendencies": [
+        "黒",
+        "深紅",
+        "白",
+        "金",
+        "紫"
+      ],
+      "material_feel": [
+        "石材",
+        "ベルベット",
+        "レース",
+        "銀",
+        "古い木材"
+      ],
+      "light_air": "蝋燭光、月光、ステンドグラス越しの色光、古い室内の冷気。",
+      "worldview_direction": "死、信仰、血統、禁忌を美しく不穏な様式で描く。",
+      "near_terms": [
+        "dark_fantasy",
+        "victorian",
+        "cosmic_horror"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dark_fantasy",
+          "difference": "ダークファンタジーは暗い幻想全般。ゴシックファンタジーは宗教建築、古城、蝋燭、吸血鬼などの様式が明確。"
+        },
+        {
+          "id": "victorian",
+          "difference": "ヴィクトリアンは19世紀風の生活様式。ゴシックファンタジーは中世的な城や宗教性、怪奇性が強い。"
+        }
+      ],
+      "difference_notes": [
+        "尖塔、アーチ、蝋燭、吸血鬼、聖堂の比重が大きいほどゴシックファンタジー。"
+      ],
+      "ai_keywords": [
+        "gothic fantasy",
+        "vampire castle",
+        "cathedral interior",
+        "candlelit hall",
+        "stained glass",
+        "古城",
+        "蝋燭",
+        "吸血鬼"
+      ],
+      "tags": {
+        "visual_elements": [
+          "宗教建築",
+          "古城",
+          "蝋燭"
+        ],
+        "materials": [
+          "石材",
+          "布",
+          "木材"
+        ],
+        "lighting_air": [
+          "蝋燭光",
+          "冷たい月光",
+          "低照度"
+        ],
+        "mood": [
+          "神秘的",
+          "不穏",
+          "荘厳",
+          "中世風"
+        ],
+        "settings": [
+          "古城",
+          "地下"
+        ],
+        "era_technology": [
+          "中世",
+          "近世"
+        ],
+        "colors": [
+          "黒",
+          "赤",
+          "金",
+          "紫"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "古城",
+          "宗教建築",
+          "蝋燭",
+          "吸血鬼"
+        ],
+        "secondary_cues": [
+          "ステンドグラス",
+          "棺",
+          "薔薇"
+        ],
+        "avoid_confusing_with": [
+          "様式より荒廃や呪いが主ならダークファンタジー"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "gothic castle",
+        "gothic cathedral interior",
+        "candlelit castle hall",
+        "vampire castle"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/gothic_fantasy.png",
+        "image_url": "/app/generated/representatives/gothic_fantasy.png",
+        "source_page_url": "/app/generated/representatives/gothic_fantasy.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ゴシックファンタジーの生成代表画像。宗教建築, 古城, 蝋燭, 石材, 布",
+        "notes": "Generated replacement: clearer gothic castle/cathedral interior, pointed arches, stained glass, candlelight, and moonlit decay."
+      }
+    },
+    {
+      "id": "cosmic_horror",
+      "name": "コズミックホラー",
+      "reading": "コズミックホラー",
+      "english_name": "Cosmic Horror",
+      "short_description": "人間の理解を超える宇宙的存在や真理に触れる恐怖。",
+      "visual_features": [
+        "巨大すぎる存在や構造物",
+        "触手、目、異常な星空",
+        "遠近感や幾何学が壊れた空間",
+        "人間が小さく無力に見える構図"
+      ],
+      "common_motifs": [
+        "古代神",
+        "触手",
+        "禁書",
+        "深海",
+        "狂気",
+        "星辰",
+        "異界の門"
+      ],
+      "color_tendencies": [
+        "黒",
+        "深緑",
+        "紫",
+        "灰色",
+        "病的な青"
+      ],
+      "material_feel": [
+        "濡れた石",
+        "粘液",
+        "古紙",
+        "海藻",
+        "異物めいた肉"
+      ],
+      "light_air": "星明かり、海霧、底知れない暗さ、現実感の薄い空気。",
+      "worldview_direction": "人間中心の世界観を崩し、理解不能なスケールの恐怖を描く。",
+      "near_terms": [
+        "body_horror",
+        "dark_fantasy",
+        "space_opera"
+      ],
+      "confusable_terms": [
+        {
+          "id": "body_horror",
+          "difference": "ボディホラーは身体の変質が中心。コズミックホラーは宇宙的真理や不可解な存在への畏怖が中心。"
+        },
+        {
+          "id": "space_opera",
+          "difference": "宇宙規模でも英雄的な冒険ならスペースオペラ。無力感と理解不能さが主ならコズミックホラー。"
+        }
+      ],
+      "difference_notes": [
+        "触手だけでなく、巨大さ、理解不能さ、人間の無力感があるかを見る。"
+      ],
+      "ai_keywords": [
+        "cosmic horror",
+        "eldritch god",
+        "impossible geometry",
+        "tentacles",
+        "ancient forbidden tome",
+        "深海の古代神",
+        "触手",
+        "理解不能な巨大存在"
+      ],
+      "tags": {
+        "visual_elements": [
+          "触手",
+          "巨大建築",
+          "有機的"
+        ],
+        "materials": [
+          "石材",
+          "肉体"
+        ],
+        "lighting_air": [
+          "宇宙光",
+          "霧",
+          "低照度"
+        ],
+        "mood": [
+          "不穏",
+          "神秘的",
+          "異物感"
+        ],
+        "settings": [
+          "宇宙",
+          "海底",
+          "地下"
+        ],
+        "era_technology": [
+          "古代",
+          "宇宙文明"
+        ],
+        "colors": [
+          "黒",
+          "緑",
+          "紫",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "触手",
+          "古代神",
+          "理解不能",
+          "巨大すぎる存在"
+        ],
+        "secondary_cues": [
+          "禁書",
+          "深海",
+          "異常な星空"
+        ],
+        "avoid_confusing_with": [
+          "身体変形だけが主ならボディホラー"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "cosmic horror",
+        "eldritch horror",
+        "impossible geometry",
+        "ancient cosmic entity"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/cosmic_horror.png",
+        "image_url": "/app/generated/representatives/cosmic_horror.png",
+        "source_page_url": "/app/generated/representatives/cosmic_horror.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "コズミックホラーの生成代表画像。触手, 巨大建築, 有機的, 石材, 肉体",
+        "notes": "Generated replacement: stronger cyclopean ruins, cosmic void, and unknowable-scale dread."
+      }
+    },
+    {
+      "id": "body_horror",
+      "name": "ボディホラー",
+      "reading": "ボディホラー",
+      "english_name": "Body Horror",
+      "short_description": "身体の変形、侵食、融合、損壊によって不快感や恐怖を生む表現。",
+      "visual_features": [
+        "人体の境界が崩れる",
+        "皮膚、骨、内臓、歯、目が異常に強調される",
+        "機械や異物と肉体が融合する",
+        "美しさより生理的な違和感が強い"
+      ],
+      "common_motifs": [
+        "変身",
+        "寄生",
+        "肉体融合",
+        "余分な目や口",
+        "変異",
+        "医療器具"
+      ],
+      "color_tendencies": [
+        "赤",
+        "白",
+        "黄土色",
+        "紫",
+        "黒"
+      ],
+      "material_feel": [
+        "肉体",
+        "骨",
+        "粘液",
+        "医療用金属",
+        "濡れた布"
+      ],
+      "light_air": "手術室の冷たい光、湿った暗がり、近距離で逃げ場のない圧迫感。",
+      "worldview_direction": "自分の身体が自分のものではなくなる恐怖を描く。",
+      "near_terms": [
+        "biopunk",
+        "cosmic_horror",
+        "dark_fantasy"
+      ],
+      "confusable_terms": [
+        {
+          "id": "biopunk",
+          "difference": "バイオパンクは生物工学の社会や技術。ボディホラーは身体変質による恐怖表現。"
+        },
+        {
+          "id": "cosmic_horror",
+          "difference": "コズミックホラーは宇宙的・形而上的な恐怖。ボディホラーは身体の直接的な違和感。"
+        }
+      ],
+      "difference_notes": [
+        "ジャンルというより表現技法として他ジャンルに混ざることも多い。"
+      ],
+      "ai_keywords": [
+        "body horror",
+        "organic mutation",
+        "flesh transformation",
+        "medical horror",
+        "distorted anatomy",
+        "身体変異",
+        "肉体融合",
+        "寄生"
+      ],
+      "tags": {
+        "visual_elements": [
+          "有機的",
+          "触手"
+        ],
+        "materials": [
+          "肉体",
+          "軍用金属"
+        ],
+        "lighting_air": [
+          "無影灯",
+          "低照度",
+          "湿気"
+        ],
+        "mood": [
+          "不穏",
+          "異物感",
+          "暴力的"
+        ],
+        "settings": [
+          "病院",
+          "研究施設",
+          "地下"
+        ],
+        "era_technology": [
+          "バイオテクノロジー"
+        ],
+        "colors": [
+          "赤",
+          "白",
+          "黒",
+          "紫"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "身体変形",
+          "肉体融合",
+          "寄生",
+          "異常な解剖"
+        ],
+        "secondary_cues": [
+          "手術室",
+          "歯や目の増殖",
+          "粘液"
+        ],
+        "avoid_confusing_with": [
+          "遺伝子企業や培養技術が主ならバイオパンク"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "body horror art",
+        "organic mutation",
+        "medical horror",
+        "flesh transformation"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/body_horror.png",
+        "image_url": "/app/generated/representatives/body_horror.png",
+        "source_page_url": "/app/generated/representatives/body_horror.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ボディホラーの生成代表画像。有機的, 触手, 肉体, 軍用金属, 病院",
+        "notes": "Generated replacement: symbolic body horror with clinical room, organic membrane, distorted hand silhouette, and unsettling non-gory transformation cues."
+      }
+    },
+    {
+      "id": "liminal_space",
+      "name": "リミナルスペース",
+      "reading": "リミナルスペース",
+      "english_name": "Liminal Space",
+      "short_description": "本来は人が通過する場所が空っぽになり、日常が妙に不気味に見える空間表現。",
+      "visual_features": [
+        "誰もいない廊下やロビー",
+        "似た構造が反復する",
+        "生活感はあるのに人の気配が抜け落ちている",
+        "少し古い商業施設、学校、ホテル、プールなど"
+      ],
+      "common_motifs": [
+        "空の商業施設",
+        "学校の廊下",
+        "病院",
+        "ホテルの廊下",
+        "屋内プール",
+        "蛍光灯"
+      ],
+      "color_tendencies": [
+        "白",
+        "黄色",
+        "ベージュ",
+        "薄緑",
+        "くすんだ青"
+      ],
+      "material_feel": [
+        "カーペット",
+        "ビニール床",
+        "蛍光灯カバー",
+        "壁紙",
+        "安いタイル"
+      ],
+      "light_air": "白く平坦な蛍光灯、無音、空調だけが残ったような空気。",
+      "worldview_direction": "怖い怪物ではなく、日常空間のずれによる不安を描く。",
+      "near_terms": [
+        "brutalism",
+        "ruined_city",
+        "neon_noir"
+      ],
+      "confusable_terms": [
+        {
+          "id": "ruined_city",
+          "difference": "荒廃都市は壊れた都市。リミナルスペースは壊れていなくても、空っぽで過渡的な場所が不気味。"
+        },
+        {
+          "id": "brutalism",
+          "difference": "ブルータリズムは建築様式。リミナルスペースは空間の空虚さや人の不在が中心。"
+        }
+      ],
+      "difference_notes": [
+        "廃墟よりも、営業中のはずなのに誰もいないような違和感が重要。"
+      ],
+      "ai_keywords": [
+        "liminal space",
+        "empty mall corridor",
+        "fluorescent lights",
+        "abandoned school hallway",
+        "uncanny empty interior",
+        "誰もいない廊下",
+        "空の商業施設",
+        "蛍光灯"
+      ],
+      "tags": {
+        "visual_elements": [
+          "無機質"
+        ],
+        "materials": [
+          "プラスチック",
+          "布",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "蛍光灯",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "不穏",
+          "孤独",
+          "異物感"
+        ],
+        "settings": [
+          "学校",
+          "病院",
+          "商業施設",
+          "駅",
+          "空港"
+        ],
+        "era_technology": [
+          "昭和レトロ",
+          "冷戦期"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "誰もいない",
+          "蛍光灯",
+          "空の商業施設",
+          "通過空間"
+        ],
+        "secondary_cues": [
+          "反復する廊下",
+          "学校",
+          "病院",
+          "ホテル"
+        ],
+        "avoid_confusing_with": [
+          "破壊や自然侵食が強ければ荒廃都市"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "liminal space",
+        "empty mall corridor",
+        "empty school hallway",
+        "fluorescent hallway"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/liminal_space.png",
+        "image_url": "/app/generated/representatives/liminal_space.png",
+        "source_page_url": "/app/generated/representatives/liminal_space.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "リミナルスペースの生成代表画像。無機質, プラスチック, 布, ガラス, 学校",
+        "notes": "Generated replacement: clearer liminal corridor with fluorescent lighting, empty commercial-school transition, repeating doors, and uncanny stillness."
+      }
+    },
+    {
+      "id": "brutalism",
+      "name": "ブルータリズム",
+      "reading": "ブルータリズム",
+      "english_name": "Brutalism",
+      "short_description": "打ち放しコンクリートと巨大な量塊で構成される、無骨で彫刻的な建築様式。",
+      "visual_features": [
+        "巨大なコンクリートの面",
+        "窓が小さく、構造が重い",
+        "反復する幾何学ブロック",
+        "装飾より素材と量感が前面に出る"
+      ],
+      "common_motifs": [
+        "集合住宅",
+        "庁舎",
+        "大学",
+        "要塞的な建物",
+        "階段",
+        "モノリス"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "白",
+        "黒",
+        "くすんだ緑"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鉄",
+        "粗い石材",
+        "古いガラス"
+      ],
+      "light_air": "曇天、硬い影、冷たい外気、反響する静けさ。",
+      "worldview_direction": "人間より建築の量塊が強く見える、制度、公共性、圧迫感の美学。",
+      "near_terms": [
+        "liminal_space",
+        "post_apocalyptic",
+        "ruined_city"
+      ],
+      "confusable_terms": [
+        {
+          "id": "liminal_space",
+          "difference": "リミナルスペースは人の不在による違和感。ブルータリズムはコンクリート量塊の建築様式。"
+        },
+        {
+          "id": "post_apocalyptic",
+          "difference": "ブルータリズム自体は崩壊後ではない。壊れてサバイバル感が出るとポストアポカリプスに寄る。"
+        }
+      ],
+      "difference_notes": [
+        "巨大な打ち放しコンクリート、幾何学、公共建築感が強いかを見る。"
+      ],
+      "ai_keywords": [
+        "brutalist architecture",
+        "raw concrete",
+        "massive geometric building",
+        "monolithic structure",
+        "concrete megastructure",
+        "打ち放しコンクリート",
+        "巨大建築",
+        "無機質"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大建築",
+          "無機質",
+          "幾何学"
+        ],
+        "materials": [
+          "コンクリート",
+          "鉄",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "強い逆光",
+          "白く平坦な光",
+          "乾いた空気"
+        ],
+        "mood": [
+          "不穏",
+          "孤独",
+          "荘厳"
+        ],
+        "settings": [
+          "都市",
+          "学校",
+          "地下"
+        ],
+        "era_technology": [
+          "冷戦期",
+          "近未来"
+        ],
+        "colors": [
+          "灰色",
+          "白",
+          "黒"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "打ち放しコンクリート",
+          "巨大建築",
+          "幾何学ブロック",
+          "無機質"
+        ],
+        "secondary_cues": [
+          "公共建築",
+          "要塞感",
+          "反復する窓"
+        ],
+        "avoid_confusing_with": [
+          "空っぽの廊下や商業施設が主ならリミナルスペース"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "brutalist architecture",
+        "raw concrete building",
+        "concrete megastructure",
+        "brutalist interior"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/brutalism.png",
+        "image_url": "/app/generated/representatives/brutalism.png",
+        "source_page_url": "/app/generated/representatives/brutalism.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ブルータリズムの生成代表画像。巨大建築, 無機質, 幾何学, コンクリート, 鉄",
+        "notes": "Generated replacement: clearer brutalist architecture with raw concrete slabs, monumental stairs, deep shadows, and austere mass."
+      }
+    },
+    {
+      "id": "art_deco",
+      "name": "アールデコ",
+      "reading": "アールデコ",
+      "english_name": "Art Deco",
+      "short_description": "幾何学、左右対称、流線形、豪華素材を特徴とする近代装飾様式。",
+      "visual_features": [
+        "扇形、階段状、ジグザグ模様",
+        "金属光沢と高級素材",
+        "左右対称の構図",
+        "摩天楼、劇場、豪華客船のような近代感"
+      ],
+      "common_motifs": [
+        "摩天楼",
+        "劇場",
+        "豪華客船",
+        "太陽光線模様",
+        "金装飾",
+        "幾何学パターン"
+      ],
+      "color_tendencies": [
+        "金",
+        "黒",
+        "白",
+        "エメラルド",
+        "深い青"
+      ],
+      "material_feel": [
+        "金属",
+        "大理石",
+        "漆",
+        "ガラス",
+        "磨かれた木材"
+      ],
+      "light_air": "劇場照明、磨かれた床の反射、都会的で華やかな空気。",
+      "worldview_direction": "近代化の高揚感、富、速度、都会的な洗練を様式化する。",
+      "near_terms": [
+        "dieselpunk",
+        "retrofuturism",
+        "victorian"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dieselpunk",
+          "difference": "ディーゼルパンクは機械と軍事の世界観。アールデコは装飾、建築、デザインの様式。"
+        },
+        {
+          "id": "retrofuturism",
+          "difference": "レトロフューチャーは昔の未来像。アールデコは幾何学的な近代装飾。"
+        }
+      ],
+      "difference_notes": [
+        "金、黒、幾何学、左右対称、摩天楼感がそろうとアールデコ。"
+      ],
+      "ai_keywords": [
+        "art deco",
+        "geometric luxury",
+        "gold and black",
+        "1920s skyscraper lobby",
+        "sunburst pattern",
+        "幾何学装飾",
+        "金と黒",
+        "摩天楼"
+      ],
+      "tags": {
+        "visual_elements": [
+          "幾何学",
+          "流線形",
+          "高層ビル"
+        ],
+        "materials": [
+          "ガラス",
+          "クローム",
+          "木材",
+          "石材"
+        ],
+        "lighting_air": [
+          "強い逆光",
+          "低照度"
+        ],
+        "mood": [
+          "荘厳",
+          "戦間期風",
+          "清潔"
+        ],
+        "settings": [
+          "都市",
+          "商業施設"
+        ],
+        "era_technology": [
+          "戦間期"
+        ],
+        "colors": [
+          "金",
+          "黒",
+          "白",
+          "緑"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "幾何学",
+          "金と黒",
+          "左右対称",
+          "摩天楼"
+        ],
+        "secondary_cues": [
+          "劇場",
+          "豪華客船",
+          "太陽光線模様"
+        ],
+        "avoid_confusing_with": [
+          "黒煙や軍事機械が主ならディーゼルパンク"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "art deco architecture",
+        "art deco lobby",
+        "gold black geometric design",
+        "1920s skyscraper"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/art_deco.png",
+        "image_url": "/app/generated/representatives/art_deco.png",
+        "source_page_url": "/app/generated/representatives/art_deco.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "アールデコの生成代表画像。幾何学, 流線形, 高層ビル, ガラス, クローム",
+        "notes": "Generated replacement: stronger Art Deco cues with stepped skyscraper geometry, brass, marble, sunburst ornament, and glamorous symmetry."
+      }
+    },
+    {
+      "id": "victorian",
+      "name": "ヴィクトリアン",
+      "reading": "ヴィクトリアン",
+      "english_name": "Victorian",
+      "short_description": "19世紀イギリスの服飾、室内装飾、都市景観を思わせる歴史様式。",
+      "visual_features": [
+        "レース、フリル、コルセット、礼服",
+        "重厚な木製家具と壁紙",
+        "ガス灯、馬車、霧の街路",
+        "上流階級と産業都市の両方の気配"
+      ],
+      "common_motifs": [
+        "ガス灯",
+        "馬車",
+        "懐中時計",
+        "レース",
+        "書斎",
+        "紳士淑女"
+      ],
+      "color_tendencies": [
+        "深緑",
+        "ボルドー",
+        "茶",
+        "黒",
+        "クリーム"
+      ],
+      "material_feel": [
+        "木材",
+        "革",
+        "布",
+        "真鍮",
+        "壁紙"
+      ],
+      "light_air": "ガス灯の暖色、霧、重いカーテン越しの薄暗さ。",
+      "worldview_direction": "近代化しつつある社会の礼節、階級、装飾過多な暮らしを表す。",
+      "near_terms": [
+        "steampunk",
+        "gothic_fantasy",
+        "art_deco"
+      ],
+      "confusable_terms": [
+        {
+          "id": "steampunk",
+          "difference": "ヴィクトリアンは歴史様式。スチームパンクはそこに蒸気機械や空想発明を加える。"
+        },
+        {
+          "id": "gothic_fantasy",
+          "difference": "ゴシックファンタジーは古城や宗教建築の怪奇性。ヴィクトリアンは19世紀の服飾と室内文化。"
+        }
+      ],
+      "difference_notes": [
+        "機械より服飾、家具、ガス灯、階級社会の雰囲気が中心。"
+      ],
+      "ai_keywords": [
+        "Victorian interior",
+        "gaslight street",
+        "lace dress",
+        "19th century London",
+        "mahogany study",
+        "ヴィクトリア朝",
+        "ガス灯",
+        "レース"
+      ],
+      "tags": {
+        "visual_elements": [
+          "蝋燭",
+          "宗教建築"
+        ],
+        "materials": [
+          "木材",
+          "革",
+          "布",
+          "真鍮"
+        ],
+        "lighting_air": [
+          "蝋燭光",
+          "霧",
+          "低照度"
+        ],
+        "mood": [
+          "産業革命風",
+          "神秘的"
+        ],
+        "settings": [
+          "都市",
+          "古城"
+        ],
+        "era_technology": [
+          "ヴィクトリア朝",
+          "産業革命"
+        ],
+        "colors": [
+          "緑",
+          "赤",
+          "黒",
+          "琥珀色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "ガス灯",
+          "レース",
+          "19世紀",
+          "重厚な木製家具"
+        ],
+        "secondary_cues": [
+          "馬車",
+          "紳士淑女",
+          "霧の街路"
+        ],
+        "avoid_confusing_with": [
+          "蒸気機械や歯車が主ならスチームパンク"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "victorian interior",
+        "victorian street gaslight",
+        "19th century london street",
+        "victorian study"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/victorian.png",
+        "image_url": "/app/generated/representatives/victorian.png",
+        "source_page_url": "/app/generated/representatives/victorian.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ヴィクトリアンの生成代表画像。蝋燭, 宗教建築, 木材, 革, 布",
+        "notes": "Generated replacement: clearer Victorian street architecture with bay windows, brickwork, gas lamps, wrought iron, and fog."
+      }
+    },
+    {
+      "id": "techwear",
+      "name": "テックウェア",
+      "reading": "テックウェア",
+      "english_name": "Techwear",
+      "short_description": "機能性、防水性、都市移動を重視した近未来的な服飾スタイル。",
+      "visual_features": [
+        "黒を基調にした多層レイヤー",
+        "止水ジップ、ストラップ、ポケット",
+        "フード、マスク、軽量素材",
+        "身体の動きと収納性を意識したシルエット"
+      ],
+      "common_motifs": [
+        "フードジャケット",
+        "カーゴパンツ",
+        "防水素材",
+        "マスク",
+        "スリングバッグ",
+        "機能ポケット"
+      ],
+      "color_tendencies": [
+        "黒",
+        "灰色",
+        "白",
+        "オリーブ",
+        "小さな蛍光色"
+      ],
+      "material_feel": [
+        "防水素材",
+        "ナイロン",
+        "ゴム",
+        "マットなプラスチック",
+        "軽量金属"
+      ],
+      "light_air": "都市の曇天、雨、硬い反射、無駄の少ない清潔さ。",
+      "worldview_direction": "未来都市で生きるための実用服として、身体と道具の境界を整理する。",
+      "near_terms": [
+        "cyberpunk",
+        "military_sf",
+        "neon_noir"
+      ],
+      "confusable_terms": [
+        {
+          "id": "cyberpunk",
+          "difference": "テックウェアは服飾スタイル。サイバーパンクは都市と社会の世界観。"
+        },
+        {
+          "id": "military_sf",
+          "difference": "ミリタリーSFは戦闘組織や兵器が中心。テックウェアは日常的な都市機能服。"
+        }
+      ],
+      "difference_notes": [
+        "黒い服だけでなく、防水、収納、可動性、都市移動の機能が見えるかを見る。"
+      ],
+      "ai_keywords": [
+        "techwear outfit",
+        "urban tactical fashion",
+        "black waterproof jacket",
+        "functional straps",
+        "futuristic streetwear",
+        "防水ジャケット",
+        "黒い機能服",
+        "都市装備"
+      ],
+      "tags": {
+        "visual_elements": [
+          "無機質",
+          "義体"
+        ],
+        "materials": [
+          "防水素材",
+          "プラスチック",
+          "軍用金属",
+          "布"
+        ],
+        "lighting_air": [
+          "雨",
+          "乾いた空気",
+          "低照度"
+        ],
+        "mood": [
+          "未来的",
+          "清潔",
+          "軍事的"
+        ],
+        "settings": [
+          "都市",
+          "地下"
+        ],
+        "era_technology": [
+          "近未来"
+        ],
+        "colors": [
+          "黒",
+          "灰色",
+          "白"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "黒い機能服",
+          "止水ジップ",
+          "ストラップ",
+          "防水素材"
+        ],
+        "secondary_cues": [
+          "フード",
+          "マスク",
+          "スリングバッグ"
+        ],
+        "avoid_confusing_with": [
+          "都市社会や義体が主ならサイバーパンク"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "techwear outfit",
+        "urban techwear fashion",
+        "black waterproof jacket",
+        "futuristic streetwear"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/techwear.png",
+        "image_url": "/app/generated/representatives/techwear.png",
+        "source_page_url": "/app/generated/representatives/techwear.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "テックウェアの生成代表画像。無機質, 義体, 防水素材, プラスチック, 軍用金属",
+        "notes": "Generated replacement: clearer black technical clothing, modular straps, rain shell, and urban utility."
+      }
+    },
+    {
+      "id": "military_sf",
+      "name": "ミリタリーSF",
+      "reading": "ミリタリーエスエフ",
+      "english_name": "Military Science Fiction",
+      "short_description": "未来技術を使った軍隊、戦術、兵器、兵站を中心に描くSF。",
+      "visual_features": [
+        "パワードスーツや装甲服",
+        "軍用宇宙船、輸送機、基地",
+        "階級章、制服、部隊識別",
+        "実用性と作戦行動が見える装備"
+      ],
+      "common_motifs": [
+        "宇宙海兵隊",
+        "パワードアーマー",
+        "ドロップシップ",
+        "基地",
+        "戦術端末",
+        "軍用ドローン"
+      ],
+      "color_tendencies": [
+        "オリーブ",
+        "灰色",
+        "黒",
+        "砂色",
+        "白"
+      ],
+      "material_feel": [
+        "軍用金属",
+        "複合装甲",
+        "布",
+        "防水素材",
+        "マット塗装"
+      ],
+      "light_air": "基地照明、戦場の粉塵、艦内の警告灯、実戦的な暗さ。",
+      "worldview_direction": "未来の戦争を、組織、装備、戦術、補給の現実感で描く。",
+      "near_terms": [
+        "space_opera",
+        "dieselpunk",
+        "techwear"
+      ],
+      "confusable_terms": [
+        {
+          "id": "space_opera",
+          "difference": "スペースオペラは英雄譚や帝国の壮大さ。ミリタリーSFは部隊運用や戦術の現実感。"
+        },
+        {
+          "id": "techwear",
+          "difference": "テックウェアは服飾。ミリタリーSFは軍隊、兵器、作戦が中心。"
+        }
+      ],
+      "difference_notes": [
+        "武器だけでなく、部隊、階級、基地、兵站が見えるとミリタリーSF。"
+      ],
+      "ai_keywords": [
+        "military sci fi",
+        "powered armor squad",
+        "space marine dropship",
+        "futuristic battlefield",
+        "orbital military base",
+        "未来軍隊",
+        "パワードスーツ",
+        "宇宙海兵隊"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大建築",
+          "無機質"
+        ],
+        "materials": [
+          "軍用金属",
+          "防水素材",
+          "鉄"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "強い逆光",
+          "低照度"
+        ],
+        "mood": [
+          "軍事的",
+          "未来的",
+          "暴力的"
+        ],
+        "settings": [
+          "宇宙",
+          "戦場",
+          "地下",
+          "砂漠",
+          "雪原"
+        ],
+        "era_technology": [
+          "近未来",
+          "遠未来"
+        ],
+        "colors": [
+          "灰色",
+          "黒",
+          "白"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "未来軍隊",
+          "パワードアーマー",
+          "基地",
+          "部隊運用"
+        ],
+        "secondary_cues": [
+          "ドロップシップ",
+          "軍用ドローン",
+          "階級章"
+        ],
+        "avoid_confusing_with": [
+          "王朝や銀河帝国の冒険が主ならスペースオペラ"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "military science fiction armor",
+        "powered armor squad",
+        "futuristic military base",
+        "space marine dropship"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/military_sf.png",
+        "image_url": "/app/generated/representatives/military_sf.png",
+        "source_page_url": "/app/generated/representatives/military_sf.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ミリタリーSFの生成代表画像。巨大建築, 無機質, 軍用金属, 防水素材, 鉄",
+        "notes": "Generated replacement: replaces toy-like image with futuristic military vehicles, base structures, and exosuit silhouettes."
+      }
+    },
+    {
+      "id": "post_apocalyptic",
+      "name": "ポストアポカリプス",
+      "reading": "ポストアポカリプス",
+      "english_name": "Post-apocalyptic",
+      "short_description": "文明崩壊後の世界で、廃墟、物資不足、サバイバルを描くジャンル。",
+      "visual_features": [
+        "壊れた道路や建物",
+        "即席の防具、改造車、物資袋",
+        "砂、雪、植物、放射能など環境に飲まれた都市",
+        "かつての文明の名残が生活資源になる"
+      ],
+      "common_motifs": [
+        "サバイバル",
+        "改造車",
+        "廃墟",
+        "ガスマスク",
+        "スクラップ",
+        "シェルター"
+      ],
+      "color_tendencies": [
+        "錆色",
+        "砂色",
+        "灰色",
+        "黒",
+        "退色した青"
+      ],
+      "material_feel": [
+        "錆びた鉄",
+        "布",
+        "革",
+        "瓦礫",
+        "割れたガラス"
+      ],
+      "light_air": "乾いた空気、粉塵、強い日差し、または凍った静けさ。",
+      "worldview_direction": "終わった文明の残骸を使って、生存と再建を描く。",
+      "near_terms": [
+        "ruined_city",
+        "dieselpunk",
+        "solarpunk",
+        "dark_fantasy"
+      ],
+      "confusable_terms": [
+        {
+          "id": "ruined_city",
+          "difference": "荒廃都市は都市景観の状態。ポストアポカリプスは崩壊後の生活、危険、サバイバルまで含む。"
+        },
+        {
+          "id": "solarpunk",
+          "difference": "緑化していても、再建された共生社会が中心ならソーラーパンク。物資不足と崩壊後の生存が中心ならポストアポカリプス。"
+        }
+      ],
+      "difference_notes": [
+        "廃墟だけでなく、崩壊後の生活、資源、危険、移動手段が見えるかを見る。"
+      ],
+      "ai_keywords": [
+        "post apocalyptic",
+        "survivor camp",
+        "rusted vehicle",
+        "abandoned highway",
+        "wasteland city",
+        "文明崩壊後",
+        "サバイバル",
+        "荒野"
+      ],
+      "tags": {
+        "visual_elements": [
+          "廃墟",
+          "瓦礫",
+          "黒煙"
+        ],
+        "materials": [
+          "鉄",
+          "革",
+          "布",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "強い逆光",
+          "霧"
+        ],
+        "mood": [
+          "退廃的",
+          "不穏",
+          "孤独"
+        ],
+        "settings": [
+          "砂漠",
+          "雪原",
+          "都市",
+          "荒野"
+        ],
+        "era_technology": [
+          "崩壊後"
+        ],
+        "colors": [
+          "錆色",
+          "灰色",
+          "黒"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "文明崩壊後",
+          "サバイバル",
+          "スクラップ",
+          "改造車"
+        ],
+        "secondary_cues": [
+          "シェルター",
+          "ガスマスク",
+          "物資袋"
+        ],
+        "avoid_confusing_with": [
+          "都市の壊れた見た目だけなら荒廃都市"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "post apocalyptic wasteland",
+        "abandoned highway",
+        "survivor camp",
+        "rusted vehicle"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/post_apocalyptic.png",
+        "image_url": "/app/generated/representatives/post_apocalyptic.png",
+        "source_page_url": "/app/generated/representatives/post_apocalyptic.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ポストアポカリプスの生成代表画像。廃墟, 瓦礫, 黒煙, 鉄, 革",
+        "notes": "Generated replacement: stronger abandoned city, overgrown street, rusted vehicles, and collapse cues."
+      }
+    },
+    {
+      "id": "ruined_city",
+      "name": "荒廃都市",
+      "reading": "こうはいとし",
+      "english_name": "Ruined City",
+      "short_description": "建物、道路、インフラが朽ち、都市としての機能を失った景観。",
+      "visual_features": [
+        "割れた窓、崩れたビル、倒れた電柱",
+        "植物に侵食された道路や駅",
+        "人が消えた都市の静けさ",
+        "瓦礫、錆、放置車両が目立つ"
+      ],
+      "common_motifs": [
+        "廃ビル",
+        "放置車両",
+        "崩落した道路",
+        "植物侵食",
+        "駅",
+        "割れた看板"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "錆色",
+        "退色した緑",
+        "黒",
+        "くすんだ青"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "錆びた鉄",
+        "割れたガラス",
+        "瓦礫",
+        "植物"
+      ],
+      "light_air": "無音、曇天、粉塵、湿った廃墟臭、または植物の濃い空気。",
+      "worldview_direction": "都市が機能を失った状態そのものを見せ、喪失や時間経過を感じさせる。",
+      "near_terms": [
+        "post_apocalyptic",
+        "liminal_space",
+        "brutalism"
+      ],
+      "confusable_terms": [
+        {
+          "id": "post_apocalyptic",
+          "difference": "荒廃都市は景観の分類。ポストアポカリプスは崩壊後の生活やサバイバルまで含む。"
+        },
+        {
+          "id": "liminal_space",
+          "difference": "リミナルスペースは壊れていない空間の空虚さ。荒廃都市は破壊、放置、時間経過が明確。"
+        }
+      ],
+      "difference_notes": [
+        "人物やサバイバル装備がなくても成立する。都市の死骸として扱える。"
+      ],
+      "ai_keywords": [
+        "ruined city",
+        "abandoned urban landscape",
+        "overgrown street",
+        "collapsed skyscraper",
+        "empty train station",
+        "荒廃都市",
+        "廃ビル",
+        "植物に侵食された道路"
+      ],
+      "tags": {
+        "visual_elements": [
+          "廃墟",
+          "高層ビル",
+          "瓦礫"
+        ],
+        "materials": [
+          "コンクリート",
+          "鉄",
+          "ガラス",
+          "植物"
+        ],
+        "lighting_air": [
+          "霧",
+          "乾いた空気",
+          "自然光"
+        ],
+        "mood": [
+          "退廃的",
+          "孤独",
+          "不穏"
+        ],
+        "settings": [
+          "都市",
+          "駅",
+          "商業施設"
+        ],
+        "era_technology": [
+          "崩壊後"
+        ],
+        "colors": [
+          "灰色",
+          "錆色",
+          "緑"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "廃ビル",
+          "割れた窓",
+          "放置車両",
+          "植物侵食"
+        ],
+        "secondary_cues": [
+          "崩落道路",
+          "駅",
+          "割れた看板"
+        ],
+        "avoid_confusing_with": [
+          "崩壊後の人間生活が主ならポストアポカリプス"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "ruined city",
+        "abandoned city overgrown",
+        "collapsed skyscraper",
+        "empty train station"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/ruined_city.png",
+        "image_url": "/app/generated/representatives/ruined_city.png",
+        "source_page_url": "/app/generated/representatives/ruined_city.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "荒廃都市の生成代表画像。廃墟, 高層ビル, 瓦礫, コンクリート, 鉄",
+        "notes": "Generated replacement: stronger abandoned urban core, collapsed facades, vegetation, and deserted city scale."
+      }
+    },
+    {
+      "id": "neon_noir",
+      "name": "ネオンノワール",
+      "reading": "ネオンノワール",
+      "english_name": "Neon Noir",
+      "short_description": "フィルムノワールの犯罪的で陰影の強い雰囲気を、ネオン光の都市に置き換えた表現。",
+      "visual_features": [
+        "夜の路地、雨、反射するネオン",
+        "強い明暗差と人物のシルエット",
+        "探偵、バー、モーテル、路地裏",
+        "近未来とは限らず、都市の孤独と犯罪性が中心"
+      ],
+      "common_motifs": [
+        "探偵",
+        "煙草",
+        "バー",
+        "雨の窓",
+        "路地裏",
+        "赤い看板",
+        "拳銃"
+      ],
+      "color_tendencies": [
+        "黒",
+        "赤",
+        "青",
+        "紫",
+        "マゼンタ"
+      ],
+      "material_feel": [
+        "濡れたアスファルト",
+        "ガラス",
+        "金属",
+        "革",
+        "古い壁"
+      ],
+      "light_air": "雨、煙、ネオンの反射、濃い影、孤独な夜の空気。",
+      "worldview_direction": "未来技術よりも、都市の犯罪、孤独、欲望、影を重視する。",
+      "near_terms": [
+        "cyberpunk",
+        "techwear",
+        "liminal_space"
+      ],
+      "confusable_terms": [
+        {
+          "id": "cyberpunk",
+          "difference": "サイバーパンクは義体や巨大企業などの世界設定が重要。ネオンノワールはネオン照明と犯罪劇のムードが中心。"
+        },
+        {
+          "id": "techwear",
+          "difference": "黒い服や都市感があっても、探偵的な陰影と犯罪ムードが主ならネオンノワール。"
+        }
+      ],
+      "difference_notes": [
+        "ネオン、雨、影、探偵、バー、犯罪の気配がそろうとネオンノワール。高度な未来社会は必須ではない。"
+      ],
+      "ai_keywords": [
+        "neon noir",
+        "rainy alley",
+        "detective silhouette",
+        "neon sign reflections",
+        "urban crime atmosphere",
+        "雨の路地裏",
+        "探偵",
+        "ネオン反射"
+      ],
+      "tags": {
+        "visual_elements": [
+          "ネオン",
+          "雨",
+          "広告"
+        ],
+        "materials": [
+          "ガラス",
+          "革",
+          "鉄"
+        ],
+        "lighting_air": [
+          "低照度",
+          "湿気",
+          "霧"
+        ],
+        "mood": [
+          "退廃的",
+          "不穏",
+          "孤独"
+        ],
+        "settings": [
+          "都市",
+          "地下",
+          "商業施設"
+        ],
+        "era_technology": [
+          "近未来",
+          "冷戦期"
+        ],
+        "colors": [
+          "黒",
+          "赤",
+          "青",
+          "紫",
+          "マゼンタ"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "雨の路地",
+          "探偵",
+          "ネオン反射",
+          "濃い影"
+        ],
+        "secondary_cues": [
+          "バー",
+          "煙草",
+          "モーテル",
+          "犯罪"
+        ],
+        "avoid_confusing_with": [
+          "義体、ハッカー、巨大企業が強ければサイバーパンク"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "neon noir",
+        "rainy neon alley",
+        "detective silhouette neon",
+        "neon bar night"
+      ],
+      "selected_images": [],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/neon_noir.png",
+        "image_url": "/app/generated/representatives/neon_noir.png",
+        "source_page_url": "/app/generated/representatives/neon_noir.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ネオンノワールの生成代表画像。ネオン, 雨, 広告, ガラス, 革",
+        "notes": "Generated replacement: stronger neon noir image with rainy alley, neon reflections, detective silhouette, smoky doorway, and noir lighting."
+      }
+    },
+    {
+      "id": "castlepunk",
+      "name": "城塞美学",
+      "reading": "じょうさいびがく",
+      "english_name": "Fortress Aesthetic",
+      "short_description": "城塞、城壁、塔、跳ね橋を主役にした、中世要塞の視覚カテゴリ。",
+      "visual_features": [
+        "厚い城壁と門楼",
+        "塔や胸壁がシルエットを作る",
+        "石造建築と軍事的な生活空間が同居する"
+      ],
+      "common_motifs": [
+        "城塞",
+        "跳ね橋",
+        "城壁",
+        "塔",
+        "旗",
+        "堀"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "黒",
+        "赤",
+        "黄土色"
+      ],
+      "material_feel": [
+        "石材",
+        "鉄",
+        "木材"
+      ],
+      "light_air": "曇天、冷たい風、松明や蝋燭の小さな光が似合う。",
+      "worldview_direction": "権力、防衛、封建社会、籠城の緊張感を建築から見せる。",
+      "near_terms": [
+        "dark_fantasy",
+        "gothic_fantasy",
+        "bunkerpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "gothic_fantasy",
+          "difference": "ゴシックファンタジーは聖堂や吸血鬼的な様式美。城塞美学は軍事的な城塞構造が中心。"
+        },
+        {
+          "id": "bunkerpunk",
+          "difference": "バンカー美学は近現代の防護施設。城塞美学は石造の中世要塞。"
+        }
+      ],
+      "difference_notes": [
+        "古城の怪奇性より、城壁、門、堀、塔など防衛建築としての読みやすさを重視する。"
+      ],
+      "ai_keywords": [
+        "城塞美学",
+        "Fortress Aesthetic",
+        "キャッスルパンク",
+        "Castlepunk",
+        "castlepunk",
+        "fortress city",
+        "medieval castle walls",
+        "stone keep",
+        "drawbridge",
+        "城塞都市",
+        "城壁",
+        "中世要塞"
+      ],
+      "tags": {
+        "visual_elements": [
+          "古城",
+          "要塞",
+          "塔",
+          "巨大壁"
+        ],
+        "materials": [
+          "石材",
+          "鉄",
+          "木材"
+        ],
+        "lighting_air": [
+          "冷たい月光",
+          "蝋燭光",
+          "霧"
+        ],
+        "mood": [
+          "中世風",
+          "荘厳",
+          "不穏"
+        ],
+        "settings": [
+          "古城",
+          "要塞",
+          "塔"
+        ],
+        "era_technology": [
+          "中世"
+        ],
+        "colors": [
+          "灰色",
+          "黒",
+          "赤"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "城塞",
+          "城壁",
+          "塔",
+          "跳ね橋"
+        ],
+        "secondary_cues": [
+          "堀",
+          "旗",
+          "門楼"
+        ],
+        "avoid_confusing_with": [
+          "尖塔や聖堂美が主ならゴシックファンタジー"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "castle fortress",
+        "medieval fortress city",
+        "stone castle walls",
+        "drawbridge castle"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/castlepunk.png",
+        "image_url": "/app/generated/representatives/castlepunk.png",
+        "source_page_url": "/app/generated/representatives/castlepunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "城塞美学の生成代表画像。古城, 要塞, 塔, 巨大壁, 石材",
+        "notes": "Generated replacement: clearer fortress silhouette with concentric walls, towers, gatehouse, and defensive architecture."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "cathedralpunk",
+      "name": "大聖堂ゴシック",
+      "reading": "だいせいどうゴシック",
+      "english_name": "Cathedral Gothic",
+      "short_description": "大聖堂、尖塔、ステンドグラス、祭壇の垂直性を強調する宗教建築の視覚カテゴリ。",
+      "visual_features": [
+        "極端に高い天井と尖塔",
+        "ステンドグラスの色光",
+        "柱、アーチ、祭壇が反復する",
+        "都市そのものが聖堂化する"
+      ],
+      "common_motifs": [
+        "大聖堂",
+        "ステンドグラス",
+        "尖塔",
+        "祭壇",
+        "聖像",
+        "回廊"
+      ],
+      "color_tendencies": [
+        "黒",
+        "金",
+        "紫",
+        "赤",
+        "青"
+      ],
+      "material_feel": [
+        "石材",
+        "ガラス",
+        "金",
+        "布"
+      ],
+      "light_air": "色付きの光、香煙、低照度、広い空間の反響。",
+      "worldview_direction": "信仰、権威、罪、儀式を建築の巨大さで感じさせる。",
+      "near_terms": [
+        "gothic_fantasy",
+        "templepunk",
+        "monumentpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "gothic_fantasy",
+          "difference": "ゴシックファンタジーは怪奇や吸血鬼まで含む。大聖堂ゴシックは大聖堂建築そのものが主役。"
+        },
+        {
+          "id": "templepunk",
+          "difference": "神殿建築は古代神殿や遺跡寄り。大聖堂ゴシックは西洋聖堂的な垂直性とステンドグラスが中心。"
+        }
+      ],
+      "difference_notes": [
+        "宗教建築の装飾だけでなく、建物のスケールと垂直性が世界観を支配しているかを見る。"
+      ],
+      "ai_keywords": [
+        "大聖堂ゴシック",
+        "Cathedral Gothic",
+        "カテドラルパンク",
+        "Cathedralpunk",
+        "cathedralpunk",
+        "massive gothic cathedral",
+        "stained glass megastructure",
+        "cathedral city",
+        "尖塔",
+        "大聖堂都市"
+      ],
+      "tags": {
+        "visual_elements": [
+          "宗教建築",
+          "アーチ",
+          "塔",
+          "巨大建築"
+        ],
+        "materials": [
+          "石材",
+          "ガラス",
+          "布"
+        ],
+        "lighting_air": [
+          "蝋燭光",
+          "低照度",
+          "強い逆光"
+        ],
+        "mood": [
+          "荘厳",
+          "神秘的",
+          "不穏"
+        ],
+        "settings": [
+          "都市",
+          "塔",
+          "古城"
+        ],
+        "era_technology": [
+          "中世",
+          "近世"
+        ],
+        "colors": [
+          "黒",
+          "金",
+          "紫",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "大聖堂",
+          "尖塔",
+          "ステンドグラス",
+          "祭壇"
+        ],
+        "secondary_cues": [
+          "聖像",
+          "回廊",
+          "香煙"
+        ],
+        "avoid_confusing_with": [
+          "古代遺跡や神殿なら神殿建築"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "massive gothic cathedral",
+        "stained glass cathedral interior",
+        "cathedral city",
+        "cathedral spires"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/719902f9-b9cb-4cf4-bf6f-14025e74deb0/thumb/",
+        "image_url": "https://live.staticflickr.com/3672/13491018885_3cd0e662af_b.jpg",
+        "source_page_url": "https://www.flickr.com/photos/76253421@N04/13491018885",
+        "source": "Openverse",
+        "creator": "JackPeasePhotography",
+        "license": "by 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "大聖堂ゴシックの参考画像。宗教建築, アーチ, 塔, 巨大建築, 石材",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "dungeonpunk",
+      "name": "ダンジョン美学",
+      "reading": "ダンジョンびがく",
+      "english_name": "Dungeon Aesthetic",
+      "short_description": "地下迷宮、罠、石室、格子扉を、探索できる建造物として見せる視覚カテゴリ。",
+      "visual_features": [
+        "石造の通路が迷路状に続く",
+        "扉、格子、階段、罠が多い",
+        "地下なのに生活や機械の痕跡がある"
+      ],
+      "common_motifs": [
+        "地下迷宮",
+        "石室",
+        "罠",
+        "格子扉",
+        "宝物庫",
+        "階段"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "黒",
+        "琥珀色",
+        "緑"
+      ],
+      "material_feel": [
+        "石材",
+        "鉄",
+        "木材",
+        "タイル"
+      ],
+      "light_air": "松明、湿気、低い天井、地下の反響音。",
+      "worldview_direction": "建物そのものを冒険対象にし、探索、危険、未知の層構造を強調する。",
+      "near_terms": [
+        "dark_fantasy",
+        "subterranean_punk",
+        "templepunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dark_fantasy",
+          "difference": "ダークファンタジーは暗い幻想全般。ダンジョン美学は迷宮建築と探索導線が中心。"
+        },
+        {
+          "id": "subterranean_punk",
+          "difference": "地下都市美学は地下都市や地下生活。ダンジョン美学は罠と探索の建造物。"
+        }
+      ],
+      "difference_notes": [
+        "地下であることだけでなく、通路、部屋、罠、鍵、階層が視覚的に読めるかが重要。"
+      ],
+      "ai_keywords": [
+        "ダンジョン美学",
+        "Dungeon Aesthetic",
+        "ダンジョンパンク",
+        "Dungeonpunk",
+        "dungeonpunk",
+        "underground dungeon architecture",
+        "stone labyrinth",
+        "fantasy dungeon corridor",
+        "地下迷宮",
+        "石造迷宮"
+      ],
+      "tags": {
+        "visual_elements": [
+          "迷宮",
+          "地下都市",
+          "アーチ",
+          "蝋燭"
+        ],
+        "materials": [
+          "石材",
+          "鉄",
+          "タイル"
+        ],
+        "lighting_air": [
+          "低照度",
+          "蝋燭光",
+          "湿気"
+        ],
+        "mood": [
+          "不穏",
+          "閉塞的",
+          "中世風"
+        ],
+        "settings": [
+          "地下",
+          "迷宮"
+        ],
+        "era_technology": [
+          "中世"
+        ],
+        "colors": [
+          "灰色",
+          "黒",
+          "琥珀色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "地下迷宮",
+          "石室",
+          "罠",
+          "格子扉"
+        ],
+        "secondary_cues": [
+          "宝物庫",
+          "階段",
+          "松明"
+        ],
+        "avoid_confusing_with": [
+          "地下生活や都市機能が主なら地下都市美学"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "underground dungeon corridor",
+        "stone labyrinth architecture",
+        "fantasy dungeon room",
+        "torchlit dungeon"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/ddfa5ffb-2518-4a51-afbb-f551488a8674/thumb/",
+        "image_url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvd2sxNzMwOTc3Ni13aWtpbWVkaWEtaW1hZ2Uta3A2bHdmdW0uanBn.jpg",
+        "source_page_url": "https://www.rawpixel.com/image/3340745/free-photo-image-art-cc0-corridor",
+        "source": "Openverse",
+        "creator": "",
+        "license": "cc0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "ダンジョン美学の参考画像。迷宮, 地下都市, アーチ, 蝋燭, 石材",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "towerpunk",
+      "name": "垂直都市",
+      "reading": "すいちょくとし",
+      "english_name": "Vertical City",
+      "short_description": "塔、超高層、垂直居住区、空中回廊を主役にした高層建築の視覚カテゴリ。",
+      "visual_features": [
+        "地面より垂直方向の移動が目立つ",
+        "塔と塔を空中回廊がつなぐ",
+        "下層と上層で生活圏が分かれる"
+      ],
+      "common_motifs": [
+        "塔",
+        "空中回廊",
+        "展望台",
+        "エレベーター",
+        "高層居住区",
+        "風"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "青",
+        "白",
+        "銀"
+      ],
+      "material_feel": [
+        "ガラス",
+        "鋼鉄",
+        "コンクリート"
+      ],
+      "light_air": "高所の風、強い逆光、雲、遠景の霞。",
+      "worldview_direction": "都市や社会を垂直方向の階層として見せる。",
+      "near_terms": [
+        "cyberpunk",
+        "skycitypunk",
+        "megastructure_punk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "cyberpunk",
+          "difference": "サイバーパンクは社会と技術の退廃。垂直都市は塔や高層構造そのものが主役。"
+        },
+        {
+          "id": "skycitypunk",
+          "difference": "空中都市は都市全体が空に浮く。垂直都市は地上から伸びる垂直建築が中心。"
+        }
+      ],
+      "difference_notes": [
+        "高層ビルではなく、塔という垂直構造が景観と社会を決めているかを見る。"
+      ],
+      "ai_keywords": [
+        "垂直都市",
+        "Vertical City",
+        "タワーパンク",
+        "Towerpunk",
+        "towerpunk",
+        "vertical city towers",
+        "skybridges",
+        "high-rise megacity",
+        "空中回廊"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "高層ビル",
+          "空中回廊",
+          "巨大建築"
+        ],
+        "materials": [
+          "ガラス",
+          "鋼鉄",
+          "コンクリート"
+        ],
+        "lighting_air": [
+          "高所の風",
+          "強い逆光",
+          "霧"
+        ],
+        "mood": [
+          "未来的",
+          "荘厳",
+          "孤独"
+        ],
+        "settings": [
+          "都市",
+          "塔",
+          "空中"
+        ],
+        "era_technology": [
+          "近未来",
+          "未来都市"
+        ],
+        "colors": [
+          "灰色",
+          "青",
+          "白",
+          "銀"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "塔",
+          "垂直都市",
+          "空中回廊",
+          "高層居住区"
+        ],
+        "secondary_cues": [
+          "展望台",
+          "雲",
+          "エレベーター"
+        ],
+        "avoid_confusing_with": [
+          "都市が浮いているなら空中都市"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "vertical city towers",
+        "skybridge architecture",
+        "tower city concept",
+        "high-rise megastructure"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/towerpunk.png",
+        "image_url": "/app/generated/representatives/towerpunk.png",
+        "source_page_url": "/app/generated/representatives/towerpunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "垂直都市の生成代表画像。塔, 高層ビル, 空中回廊, 巨大建築, ガラス",
+        "notes": "Generated replacement: clearer vertical city, stacked towers, skybridges, and layered infrastructure."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "bridgepunk",
+      "name": "橋梁都市",
+      "reading": "きょうりょうとし",
+      "english_name": "Bridge Urbanism",
+      "short_description": "巨大橋、橋上都市、高架歩廊など、接続構造を主役にした都市・建築の視覚カテゴリ。",
+      "visual_features": [
+        "都市や谷を巨大橋が貫く",
+        "橋の上や下に生活空間がある",
+        "ケーブル、鉄骨、支柱が景観を支配する"
+      ],
+      "common_motifs": [
+        "巨大橋",
+        "吊り橋",
+        "高架歩廊",
+        "橋上市場",
+        "支柱",
+        "ケーブル"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "赤",
+        "錆色",
+        "青"
+      ],
+      "material_feel": [
+        "鋼鉄",
+        "コンクリート",
+        "鉄"
+      ],
+      "light_air": "風、霧、下方の水面や谷から来る湿気。",
+      "worldview_direction": "離れた場所をつなぐインフラが、そのまま都市や生活圏になる。",
+      "near_terms": [
+        "railpunk",
+        "megastructure_punk",
+        "floating_city_punk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "railpunk",
+          "difference": "鉄道建築は鉄道と駅。橋梁都市は橋梁と接続構造が中心。"
+        },
+        {
+          "id": "megastructure_punk",
+          "difference": "メガストラクチャーは巨大構造物全般。橋梁都市は橋に特化。"
+        }
+      ],
+      "difference_notes": [
+        "橋が背景ではなく、建物、街路、社会の骨格になっていると橋梁都市。"
+      ],
+      "ai_keywords": [
+        "橋梁都市",
+        "Bridge Urbanism",
+        "ブリッジパンク",
+        "Bridgepunk",
+        "bridgepunk",
+        "city on a bridge",
+        "giant suspension bridge city",
+        "elevated walkway city",
+        "巨大橋",
+        "橋上都市"
+      ],
+      "tags": {
+        "visual_elements": [
+          "橋",
+          "巨大建築",
+          "空中回廊"
+        ],
+        "materials": [
+          "鋼鉄",
+          "コンクリート",
+          "鉄"
+        ],
+        "lighting_air": [
+          "霧",
+          "高所の風",
+          "自然光"
+        ],
+        "mood": [
+          "未来的",
+          "記念碑的",
+          "孤独"
+        ],
+        "settings": [
+          "橋梁",
+          "都市",
+          "水上"
+        ],
+        "era_technology": [
+          "近代",
+          "近未来"
+        ],
+        "colors": [
+          "灰色",
+          "赤",
+          "錆色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "巨大橋",
+          "橋上都市",
+          "高架歩廊",
+          "ケーブル"
+        ],
+        "secondary_cues": [
+          "支柱",
+          "谷",
+          "水面"
+        ],
+        "avoid_confusing_with": [
+          "鉄道や駅が主役なら鉄道建築"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "city on a bridge",
+        "giant bridge architecture",
+        "suspension bridge city",
+        "elevated walkway city"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/9c9d14a7-ccaf-41da-865b-b2b764994643/thumb/",
+        "image_url": "https://live.staticflickr.com/3939/15625122592_fbfed71257_b.jpg",
+        "source_page_url": "https://www.flickr.com/photos/76825766@N03/15625122592",
+        "source": "Openverse",
+        "creator": "Nelson Lourenço",
+        "license": "by 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "橋梁都市の参考画像。橋, 巨大建築, 空中回廊, 鋼鉄, コンクリート",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "aqueductpunk",
+      "name": "水道橋都市",
+      "reading": "すいどうきょうとし",
+      "english_name": "Aqueduct Urbanism",
+      "short_description": "水道橋、水路、高架水路、水門を主役にした水インフラ建築の視覚カテゴリ。",
+      "visual_features": [
+        "アーチ状の水道橋が連続する",
+        "都市に水路や樋が張り巡らされる",
+        "石造インフラと水の流れが景観を作る"
+      ],
+      "common_motifs": [
+        "水道橋",
+        "水路",
+        "貯水槽",
+        "アーチ",
+        "噴水",
+        "水門"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "青",
+        "緑",
+        "白"
+      ],
+      "material_feel": [
+        "石材",
+        "煉瓦",
+        "タイル"
+      ],
+      "light_air": "水の反射光、湿気、苔、涼しい空気。",
+      "worldview_direction": "水の供給や制御が都市の形と権力を決める。",
+      "near_terms": [
+        "dampunk",
+        "floating_city_punk",
+        "templepunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dampunk",
+          "difference": "ダム建築は貯水と巨大堤体。水道橋都市は水を運ぶ水路・水道橋が中心。"
+        },
+        {
+          "id": "floating_city_punk",
+          "difference": "水上都市は水面に住む。水道橋都市は水を都市に通す建築。"
+        }
+      ],
+      "difference_notes": [
+        "水が背景ではなく、アーチ、水門、水路として建築の骨格になっているかを見る。"
+      ],
+      "ai_keywords": [
+        "水道橋都市",
+        "Aqueduct Urbanism",
+        "アクエダクトパンク",
+        "Aqueductpunk",
+        "aqueductpunk",
+        "ancient aqueduct city",
+        "water channel architecture",
+        "stone aqueduct arches",
+        "水道橋",
+        "水路都市"
+      ],
+      "tags": {
+        "visual_elements": [
+          "水路",
+          "アーチ",
+          "巨大建築"
+        ],
+        "materials": [
+          "石材",
+          "煉瓦",
+          "タイル"
+        ],
+        "lighting_air": [
+          "自然光",
+          "湿気",
+          "霧"
+        ],
+        "mood": [
+          "荘厳",
+          "神秘的",
+          "共同体的"
+        ],
+        "settings": [
+          "都市",
+          "水上",
+          "庭園"
+        ],
+        "era_technology": [
+          "古代",
+          "近世"
+        ],
+        "colors": [
+          "灰色",
+          "青",
+          "緑"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "水道橋",
+          "水路",
+          "アーチ",
+          "水門"
+        ],
+        "secondary_cues": [
+          "貯水槽",
+          "噴水",
+          "苔"
+        ],
+        "avoid_confusing_with": [
+          "巨大な堤体が主ならダム建築"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "aqueduct city",
+        "stone aqueduct arches",
+        "water channel architecture",
+        "ancient water infrastructure"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/aqueductpunk.png",
+        "image_url": "/app/generated/representatives/aqueductpunk.png",
+        "source_page_url": "/app/generated/representatives/aqueductpunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "水道橋都市の生成代表画像。水路, アーチ, 巨大建築, 石材, 煉瓦",
+        "notes": "Generated replacement: stronger aqueduct urbanism with repeated arches, elevated water channels, and civic water infrastructure."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "dampunk",
+      "name": "ダム建築",
+      "reading": "ダムけんちく",
+      "english_name": "Dam Architecture",
+      "short_description": "巨大ダム、堤体、発電施設、放水路を主役にした水力インフラの視覚カテゴリ。",
+      "visual_features": [
+        "巨大なコンクリート壁が谷を塞ぐ",
+        "放水路や発電設備が見える",
+        "人間よりインフラが圧倒的に大きい"
+      ],
+      "common_motifs": [
+        "巨大ダム",
+        "放水路",
+        "発電施設",
+        "水門",
+        "監視通路",
+        "貯水池"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "青",
+        "白",
+        "錆色"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "鉄"
+      ],
+      "light_air": "水しぶき、霧、強い日差し、硬い反響音。",
+      "worldview_direction": "自然を制御する巨大インフラの権力と危うさを見せる。",
+      "near_terms": [
+        "brutalism",
+        "aqueductpunk",
+        "megastructure_punk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "brutalism",
+          "difference": "ブルータリズムは建築様式。ダム建築は水力インフラと制御構造が中心。"
+        },
+        {
+          "id": "aqueductpunk",
+          "difference": "水道橋都市は水を運ぶ。ダム建築は水を堰き止めて制御する。"
+        }
+      ],
+      "difference_notes": [
+        "巨大な壁、放水、発電、貯水池がそろうとダム建築として使いやすい。"
+      ],
+      "ai_keywords": [
+        "ダム建築",
+        "Dam Architecture",
+        "ダムパンク",
+        "Dampunk",
+        "dampunk",
+        "massive hydroelectric dam",
+        "concrete spillway",
+        "industrial waterworks",
+        "巨大ダム",
+        "水力発電施設"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大ダム",
+          "巨大壁",
+          "発電施設"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄",
+          "鉄"
+        ],
+        "lighting_air": [
+          "霧",
+          "自然光",
+          "強い逆光"
+        ],
+        "mood": [
+          "記念碑的",
+          "無機質",
+          "不穏"
+        ],
+        "settings": [
+          "ダム",
+          "発電所",
+          "荒野"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "灰色",
+          "青",
+          "白"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "巨大ダム",
+          "放水路",
+          "発電施設",
+          "貯水池"
+        ],
+        "secondary_cues": [
+          "水門",
+          "監視通路",
+          "霧"
+        ],
+        "avoid_confusing_with": [
+          "水路やアーチが主なら水道橋都市"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "massive hydroelectric dam",
+        "concrete dam spillway",
+        "industrial waterworks",
+        "dam megastructure"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/dampunk.png",
+        "image_url": "/app/generated/representatives/dampunk.png",
+        "source_page_url": "/app/generated/representatives/dampunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ダム建築の生成代表画像。巨大ダム, 巨大壁, 発電施設, コンクリート, 鋼鉄",
+        "notes": "Generated replacement: stronger dam megastructure with curved concrete wall, spillways, turbine halls, and canyon scale."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "bunkerpunk",
+      "name": "バンカー美学",
+      "reading": "バンカーびがく",
+      "english_name": "Bunker Aesthetic",
+      "short_description": "地下壕、防空壕、シェルター、要塞化したコンクリート空間を主役にする視覚カテゴリ。",
+      "visual_features": [
+        "厚いコンクリート壁と低い天井",
+        "非常灯、隔壁、金属扉",
+        "外界から切り離された閉塞的な居住空間"
+      ],
+      "common_motifs": [
+        "防空壕",
+        "シェルター",
+        "隔壁",
+        "非常灯",
+        "監視室",
+        "備蓄庫"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "黒",
+        "赤",
+        "緑"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "鉄"
+      ],
+      "light_air": "非常灯、低い換気音、乾いた閉塞感。",
+      "worldview_direction": "防衛、隔離、災害、冷戦的な不安を建築で表現する。",
+      "near_terms": [
+        "brutalism",
+        "post_apocalyptic",
+        "subterranean_punk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "post_apocalyptic",
+          "difference": "ポストアポカリプスは崩壊後の生活全般。バンカー美学は防護施設そのものが中心。"
+        },
+        {
+          "id": "brutalism",
+          "difference": "ブルータリズムは外観の量塊美。バンカー美学は閉鎖・防護・地下性が強い。"
+        }
+      ],
+      "difference_notes": [
+        "厚い壁、隔壁、非常灯、備蓄という生存設備が見えるかを見る。"
+      ],
+      "ai_keywords": [
+        "バンカー美学",
+        "Bunker Aesthetic",
+        "バンカーパンク",
+        "Bunkerpunk",
+        "bunkerpunk",
+        "underground bunker interior",
+        "concrete shelter",
+        "cold war bunker",
+        "防空壕",
+        "地下シェルター"
+      ],
+      "tags": {
+        "visual_elements": [
+          "地下都市",
+          "要塞",
+          "巨大壁"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄",
+          "鉄"
+        ],
+        "lighting_air": [
+          "非常灯",
+          "低照度",
+          "乾いた空気"
+        ],
+        "mood": [
+          "閉塞的",
+          "不穏",
+          "軍事的"
+        ],
+        "settings": [
+          "地下",
+          "要塞",
+          "居住区"
+        ],
+        "era_technology": [
+          "冷戦期",
+          "現代"
+        ],
+        "colors": [
+          "灰色",
+          "黒",
+          "赤"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "防空壕",
+          "シェルター",
+          "隔壁",
+          "非常灯"
+        ],
+        "secondary_cues": [
+          "備蓄庫",
+          "監視室",
+          "厚い壁"
+        ],
+        "avoid_confusing_with": [
+          "崩壊後の屋外生活が中心ならポストアポカリプス"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "underground bunker interior",
+        "concrete fallout shelter",
+        "cold war bunker",
+        "bunker corridor"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/4c2b5912-5039-4576-bd4e-c421bdfb3074/thumb/",
+        "image_url": "https://live.staticflickr.com/5496/30570672971_bc53c5ae7c_b.jpg",
+        "source_page_url": "https://www.flickr.com/photos/10978503@N00/30570672971",
+        "source": "Openverse",
+        "creator": "Glen Bowman",
+        "license": "by 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "バンカー美学の参考画像。地下都市, 要塞, 巨大壁, コンクリート, 鋼鉄",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "arcologypunk",
+      "name": "アーコロジー",
+      "reading": "アーコロジー",
+      "english_name": "Arcology",
+      "short_description": "都市、住居、農業、交通を巨大建築内にまとめる自己完結型都市構想。",
+      "visual_features": [
+        "建物単体が都市規模になる",
+        "内部に居住区、庭園、交通、商業がある",
+        "外観は巨大な人工山や塔に見える"
+      ],
+      "common_motifs": [
+        "アーコロジー",
+        "巨大居住区",
+        "内部庭園",
+        "交通層",
+        "空中回廊",
+        "居住モジュール"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "緑",
+        "青"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "ガラス",
+        "鋼鉄",
+        "植物"
+      ],
+      "light_air": "人工光と自然光が混ざり、巨大室内の空気感がある。",
+      "worldview_direction": "都市問題、人口密度、持続可能性、管理社会を巨大建築として見せる。",
+      "near_terms": [
+        "megastructure_punk",
+        "solarpunk",
+        "cyberpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "megastructure_punk",
+          "difference": "メガストラクチャーは巨大構造物全般。アーコロジーは都市機能が内部に完結する。"
+        },
+        {
+          "id": "solarpunk",
+          "difference": "ソーラーパンクは共生と持続可能性が価値観の中心。アーコロジーは自己完結都市の構造が中心。"
+        }
+      ],
+      "difference_notes": [
+        "巨大建築の中に生活や都市機能が階層化されているとアーコロジー。"
+      ],
+      "ai_keywords": [
+        "アーコロジー",
+        "Arcology",
+        "アーコロジーパンク",
+        "Arcologypunk",
+        "arcologypunk",
+        "arcology megastructure",
+        "self contained city building",
+        "vertical city interior",
+        "自己完結都市"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大建築",
+          "空中回廊",
+          "庭園",
+          "モジュール建築"
+        ],
+        "materials": [
+          "コンクリート",
+          "ガラス",
+          "鋼鉄",
+          "植物"
+        ],
+        "lighting_air": [
+          "自然光",
+          "温室光",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "未来的",
+          "清潔",
+          "共同体的"
+        ],
+        "settings": [
+          "都市",
+          "居住区",
+          "庭園"
+        ],
+        "era_technology": [
+          "近未来",
+          "未来都市"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "緑",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "アーコロジー",
+          "自己完結都市",
+          "巨大居住区",
+          "内部庭園"
+        ],
+        "secondary_cues": [
+          "交通層",
+          "居住モジュール",
+          "空中回廊"
+        ],
+        "avoid_confusing_with": [
+          "単に大きいだけならメガストラクチャー"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "arcology megastructure",
+        "self contained city building",
+        "vertical city interior",
+        "arcology concept architecture"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/f47ea224-fba9-4a51-8f35-34f431558e10/thumb/",
+        "image_url": "https://live.staticflickr.com/2464/4048624372_4954d0300b_b.jpg",
+        "source_page_url": "https://www.flickr.com/photos/94064020@N00/4048624372",
+        "source": "Openverse",
+        "creator": "JasonParis",
+        "license": "by 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "アーコロジーの参考画像。巨大建築, 空中回廊, 庭園, モジュール建築, コンクリート",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "megastructure_punk",
+      "name": "メガストラクチャー",
+      "reading": "メガストラクチャー",
+      "english_name": "Megastructure",
+      "short_description": "人間のスケールを超える巨大構造物そのものを主役にした建築・SFの視覚カテゴリ。",
+      "visual_features": [
+        "構造物が地平線を支配する",
+        "人間や車が点のように小さい",
+        "都市、橋、壁、塔が一体化する"
+      ],
+      "common_motifs": [
+        "巨大構造物",
+        "巨大壁",
+        "支柱",
+        "空中回廊",
+        "都市基盤",
+        "モノリス"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "白",
+        "黒",
+        "青"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "ガラス"
+      ],
+      "light_air": "強い逆光、遠景の霞、巨大空間の無音。",
+      "worldview_direction": "人間よりも構造物が大きい世界の畏怖、制度、圧迫感を見せる。",
+      "near_terms": [
+        "brutalism",
+        "arcologypunk",
+        "towerpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "brutalism",
+          "difference": "ブルータリズムはコンクリート様式。メガストラクチャーは素材を問わず巨大構造が中心。"
+        },
+        {
+          "id": "arcologypunk",
+          "difference": "アーコロジーは都市機能が建物内に完結する。メガストラクチャーは巨大さ自体が主役。"
+        }
+      ],
+      "difference_notes": [
+        "建築物の用途より、圧倒的なスケール感で逆引きするときに使う。"
+      ],
+      "ai_keywords": [
+        "メガストラクチャー",
+        "Megastructure",
+        "メガストラクチャーパンク",
+        "Megastructure Punk",
+        "megastructure punk",
+        "colossal architecture",
+        "giant urban structure",
+        "massive concrete city",
+        "巨大構造物",
+        "巨大建築"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大建築",
+          "巨大壁",
+          "空中回廊",
+          "モノリス"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "強い逆光",
+          "霧",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "記念碑的",
+          "荘厳",
+          "不穏"
+        ],
+        "settings": [
+          "都市",
+          "塔",
+          "橋梁"
+        ],
+        "era_technology": [
+          "近未来",
+          "未来都市"
+        ],
+        "colors": [
+          "灰色",
+          "白",
+          "黒",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "巨大構造物",
+          "巨大壁",
+          "人間が小さい",
+          "都市基盤"
+        ],
+        "secondary_cues": [
+          "支柱",
+          "モノリス",
+          "遠景の霞"
+        ],
+        "avoid_confusing_with": [
+          "打ち放しコンクリート様式が主ならブルータリズム"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "colossal architecture",
+        "giant urban structure",
+        "megastructure city",
+        "massive architectural scale"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/7c52766f-0916-41be-97b4-5902b265518d/thumb/",
+        "image_url": "https://live.staticflickr.com/8148/7243379908_5f40d656a8_b.jpg",
+        "source_page_url": "https://www.flickr.com/photos/44343967@N00/7243379908",
+        "source": "Openverse",
+        "creator": "準建築人手札網站 Forgemind ArchiMedia",
+        "license": "by 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "メガストラクチャーの参考画像。巨大建築, 巨大壁, 空中回廊, モノリス, コンクリート",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "concretepunk",
+      "name": "コンクリート建築",
+      "reading": "コンクリートけんちく",
+      "english_name": "Concrete Architecture",
+      "short_description": "コンクリートの壁、床、階段、地下通路を無骨に押し出す建築の視覚カテゴリ。",
+      "visual_features": [
+        "打ち放しや荒いコンクリート面",
+        "階段、スロープ、地下通路が多い",
+        "装飾が少なく硬い印象"
+      ],
+      "common_motifs": [
+        "コンクリート壁",
+        "階段",
+        "地下通路",
+        "立体駐車場",
+        "擁壁",
+        "高架下"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "白",
+        "黒"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鉄",
+        "ガラス"
+      ],
+      "light_air": "白く平坦な光、冷たい反射、乾いた粉っぽさ。",
+      "worldview_direction": "都市の地味な硬さ、公共空間、無骨な機能性を見せる。",
+      "near_terms": [
+        "brutalism",
+        "bunkerpunk",
+        "liminal_space"
+      ],
+      "confusable_terms": [
+        {
+          "id": "brutalism",
+          "difference": "ブルータリズムは建築様式としての量塊美。コンクリート建築は素材感と都市の硬さを広く扱う。"
+        },
+        {
+          "id": "liminal_space",
+          "difference": "リミナルスペースは不在感。コンクリート建築は素材と構造の硬さが中心。"
+        }
+      ],
+      "difference_notes": [
+        "巨大でなくても、コンクリートの質感が画面を支配していれば使える。"
+      ],
+      "ai_keywords": [
+        "コンクリート建築",
+        "Concrete Architecture",
+        "コンクリートパンク",
+        "Concretepunk",
+        "concretepunk",
+        "raw concrete corridor",
+        "concrete urban stairway",
+        "underground concrete passage",
+        "コンクリート空間"
+      ],
+      "tags": {
+        "visual_elements": [
+          "無機質",
+          "地下都市",
+          "巨大建築"
+        ],
+        "materials": [
+          "コンクリート",
+          "鉄",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "白く平坦な光",
+          "乾いた空気",
+          "低照度"
+        ],
+        "mood": [
+          "無機質",
+          "孤独",
+          "閉塞的"
+        ],
+        "settings": [
+          "都市",
+          "地下",
+          "商業施設"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "灰色",
+          "白",
+          "黒"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "コンクリート壁",
+          "地下通路",
+          "階段",
+          "高架下"
+        ],
+        "secondary_cues": [
+          "立体駐車場",
+          "擁壁",
+          "粉っぽさ"
+        ],
+        "avoid_confusing_with": [
+          "建築様式としての巨大量塊ならブルータリズム"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "raw concrete corridor",
+        "concrete urban stairway",
+        "underground concrete passage",
+        "concrete architecture texture"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/concretepunk.png",
+        "image_url": "/app/generated/representatives/concretepunk.png",
+        "source_page_url": "/app/generated/representatives/concretepunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "コンクリート建築の生成代表画像。無機質, 地下都市, 巨大建築, コンクリート, 鉄",
+        "notes": "Generated replacement: stronger raw concrete, monumental stairs, hard shadows, and brutal spatial mass."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "glasspunk",
+      "name": "ガラス建築",
+      "reading": "ガラスけんちく",
+      "english_name": "Glass Architecture",
+      "short_description": "透明な外皮、ガラスの高層建築、反射する都市景観を主役にした建築の視覚カテゴリ。",
+      "visual_features": [
+        "ガラス面と反射が画面を支配する",
+        "透明なアトリウムやドーム",
+        "内外の境界が曖昧になる"
+      ],
+      "common_motifs": [
+        "ガラスドーム",
+        "アトリウム",
+        "透明回廊",
+        "高層ファサード",
+        "反射",
+        "温室"
+      ],
+      "color_tendencies": [
+        "透明",
+        "白",
+        "青",
+        "銀"
+      ],
+      "material_feel": [
+        "ガラス",
+        "鋼鉄",
+        "アクリル"
+      ],
+      "light_air": "強い自然光、反射、清潔な空気、少し冷たい透明感。",
+      "worldview_direction": "都市の清潔さ、企業性、透明性と監視性を同時に感じさせる。",
+      "near_terms": [
+        "cyberpunk",
+        "greenhousepunk",
+        "arcologypunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "cyberpunk",
+          "difference": "サイバーパンクは退廃と社会構造。ガラス建築は透明素材と反射する建築が主役。"
+        },
+        {
+          "id": "greenhousepunk",
+          "difference": "温室建築は植物と栽培空間。ガラス建築はガラス素材と反射性が中心。"
+        }
+      ],
+      "difference_notes": [
+        "ガラスが単なる窓ではなく、都市の質感そのものになっているかを見る。"
+      ],
+      "ai_keywords": [
+        "ガラス建築",
+        "Glass Architecture",
+        "グラスパンク",
+        "Glasspunk",
+        "glasspunk",
+        "glass city architecture",
+        "transparent atrium",
+        "futuristic glass dome",
+        "透明都市"
+      ],
+      "tags": {
+        "visual_elements": [
+          "ドーム",
+          "高層ビル",
+          "温室"
+        ],
+        "materials": [
+          "ガラス",
+          "鋼鉄",
+          "アクリル"
+        ],
+        "lighting_air": [
+          "自然光",
+          "強い逆光",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "清潔",
+          "未来的",
+          "無機質"
+        ],
+        "settings": [
+          "都市",
+          "商業施設",
+          "庭園"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "透明",
+          "白",
+          "青",
+          "銀"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "ガラスドーム",
+          "透明回廊",
+          "反射",
+          "アトリウム"
+        ],
+        "secondary_cues": [
+          "高層ファサード",
+          "清潔感",
+          "企業ロビー"
+        ],
+        "avoid_confusing_with": [
+          "植物栽培が主なら温室建築"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "glass city architecture",
+        "transparent atrium",
+        "futuristic glass dome",
+        "glass skyscraper facade"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/glasspunk.png",
+        "image_url": "/app/generated/representatives/glasspunk.png",
+        "source_page_url": "/app/generated/representatives/glasspunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "ガラス建築の生成代表画像。ドーム, 高層ビル, 温室, ガラス, 鋼鉄",
+        "notes": "Generated replacement: clearer glass architecture with transparent towers, atrium bridges, reflections, and crisp daylight."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "greenhousepunk",
+      "name": "温室建築",
+      "reading": "おんしつけんちく",
+      "english_name": "Greenhouse Architecture",
+      "short_description": "温室、ガラス屋根、栽培設備、植物に満ちた建築を主役にした視覚カテゴリ。",
+      "visual_features": [
+        "ガラス屋根と植物がセットになる",
+        "室内に畑や樹木がある",
+        "配管や灌漑設備が生活空間に見える"
+      ],
+      "common_motifs": [
+        "温室",
+        "屋内庭園",
+        "灌漑",
+        "植物棚",
+        "ガラス屋根",
+        "水滴"
+      ],
+      "color_tendencies": [
+        "緑",
+        "白",
+        "透明",
+        "アースカラー"
+      ],
+      "material_feel": [
+        "ガラス",
+        "植物",
+        "鋼鉄",
+        "木材"
+      ],
+      "light_air": "温室光、湿気、植物の匂い、水滴の反射。",
+      "worldview_direction": "建築を栽培装置として扱い、暮らしと植物生産を結びつける。",
+      "near_terms": [
+        "solarpunk",
+        "glasspunk",
+        "arcologypunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "solarpunk",
+          "difference": "ソーラーパンクは社会全体の共生思想。温室建築は温室建築と栽培空間に特化。"
+        },
+        {
+          "id": "glasspunk",
+          "difference": "ガラス建築は透明素材。温室建築は植物と栽培設備が中心。"
+        }
+      ],
+      "difference_notes": [
+        "植物が装飾ではなく、建築の目的や機能になっていると温室建築。"
+      ],
+      "ai_keywords": [
+        "温室建築",
+        "Greenhouse Architecture",
+        "温室パンク",
+        "Greenhousepunk",
+        "greenhousepunk",
+        "greenhouse city",
+        "indoor botanical architecture",
+        "glass roof garden",
+        "温室都市",
+        "屋内庭園"
+      ],
+      "tags": {
+        "visual_elements": [
+          "温室",
+          "庭園",
+          "有機的"
+        ],
+        "materials": [
+          "ガラス",
+          "植物",
+          "木材",
+          "鋼鉄"
+        ],
+        "lighting_air": [
+          "温室光",
+          "湿気",
+          "自然光"
+        ],
+        "mood": [
+          "牧歌的",
+          "清潔",
+          "共同体的"
+        ],
+        "settings": [
+          "庭園",
+          "都市",
+          "居住区"
+        ],
+        "era_technology": [
+          "近未来",
+          "未来都市"
+        ],
+        "colors": [
+          "緑",
+          "白",
+          "透明",
+          "アースカラー"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "温室",
+          "屋内庭園",
+          "ガラス屋根",
+          "灌漑"
+        ],
+        "secondary_cues": [
+          "植物棚",
+          "水滴",
+          "湿気"
+        ],
+        "avoid_confusing_with": [
+          "都市思想や太陽光が主ならソーラーパンク"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "greenhouse city",
+        "indoor botanical architecture",
+        "glass roof garden",
+        "urban greenhouse interior"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/greenhousepunk.png",
+        "image_url": "/app/generated/representatives/greenhousepunk.png",
+        "source_page_url": "/app/generated/representatives/greenhousepunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "温室建築の生成代表画像。温室, 庭園, 有機的, ガラス, 植物",
+        "notes": "Generated replacement: clearer greenhouse architecture with glass ribs, humid botanical interior, and cultivation infrastructure."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "bamboopunk",
+      "name": "竹建築",
+      "reading": "たけけんちく",
+      "english_name": "Bamboo Architecture",
+      "short_description": "竹、木組み、軽い足場、自然素材の構造美を主役にする建築の視覚カテゴリ。",
+      "visual_features": [
+        "竹の骨組みが露出する",
+        "軽く編まれた構造体",
+        "仮設と自然建築の中間に見える"
+      ],
+      "common_motifs": [
+        "竹足場",
+        "木組み",
+        "編み込み",
+        "高床",
+        "吊り橋",
+        "村落"
+      ],
+      "color_tendencies": [
+        "緑",
+        "黄土色",
+        "アースカラー",
+        "白"
+      ],
+      "material_feel": [
+        "竹",
+        "木材",
+        "布",
+        "土"
+      ],
+      "light_air": "自然光、木陰、湿った森の空気。",
+      "worldview_direction": "工業素材ではなく、軽い自然素材で作る未来・共同体・仮設性を見せる。",
+      "near_terms": [
+        "solarpunk",
+        "greenhousepunk",
+        "desertpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "solarpunk",
+          "difference": "ソーラーパンクは持続可能な未来社会全体。竹建築は竹や木組みの建築言語に特化。"
+        },
+        {
+          "id": "greenhousepunk",
+          "difference": "温室建築はガラスと植物栽培。竹建築は竹構造と自然素材。"
+        }
+      ],
+      "difference_notes": [
+        "植物そのものより、竹や木材が構造体として読めるかを見る。"
+      ],
+      "ai_keywords": [
+        "竹建築",
+        "Bamboo Architecture",
+        "バンブーパンク",
+        "Bamboopunk",
+        "bamboopunk",
+        "bamboo architecture",
+        "bamboo scaffold city",
+        "organic bamboo structure",
+        "竹足場"
+      ],
+      "tags": {
+        "visual_elements": [
+          "有機的",
+          "橋",
+          "庭園"
+        ],
+        "materials": [
+          "竹",
+          "木材",
+          "布",
+          "土"
+        ],
+        "lighting_air": [
+          "自然光",
+          "湿気",
+          "高所の風"
+        ],
+        "mood": [
+          "牧歌的",
+          "共同体的",
+          "神秘的"
+        ],
+        "settings": [
+          "森",
+          "庭園",
+          "水上"
+        ],
+        "era_technology": [
+          "近未来",
+          "現代"
+        ],
+        "colors": [
+          "緑",
+          "黄土色",
+          "アースカラー"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "竹足場",
+          "木組み",
+          "編み込み",
+          "高床"
+        ],
+        "secondary_cues": [
+          "吊り橋",
+          "村落",
+          "自然光"
+        ],
+        "avoid_confusing_with": [
+          "ガラス温室と植物栽培なら温室建築"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "bamboo architecture",
+        "bamboo scaffold city",
+        "organic bamboo structure",
+        "bamboo pavilion"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/43cb4c67-3d03-4961-a363-ae08519e190c/thumb/",
+        "image_url": "https://live.staticflickr.com/2826/9613274431_acf40de4bb_b.jpg",
+        "source_page_url": "https://www.flickr.com/photos/44343967@N00/9613274431",
+        "source": "Openverse",
+        "creator": "準建築人手札網站 Forgemind ArchiMedia",
+        "license": "by 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "竹建築の参考画像。有機的, 橋, 庭園, 竹, 木材",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "desertpunk",
+      "name": "砂漠建築",
+      "reading": "さばくけんちく",
+      "english_name": "Desert Architecture",
+      "short_description": "砂漠都市、日干し煉瓦、要塞集落、乾いたインフラを主役にした建築の視覚カテゴリ。",
+      "visual_features": [
+        "砂色の建物が地形に溶ける",
+        "日除け、厚い壁、中庭が多い",
+        "水や影が貴重な設計になっている"
+      ],
+      "common_motifs": [
+        "砂漠都市",
+        "日干し煉瓦",
+        "中庭",
+        "日除け布",
+        "井戸",
+        "要塞集落"
+      ],
+      "color_tendencies": [
+        "黄土色",
+        "錆色",
+        "白",
+        "アースカラー"
+      ],
+      "material_feel": [
+        "土",
+        "煉瓦",
+        "布",
+        "石材"
+      ],
+      "light_air": "砂塵、強い日差し、乾いた空気、夕焼け。",
+      "worldview_direction": "乾燥地帯で生きるための建築、交易、防衛、水管理を見せる。",
+      "near_terms": [
+        "post_apocalyptic",
+        "castlepunk",
+        "bamboopunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "post_apocalyptic",
+          "difference": "ポストアポカリプスは文明崩壊後。砂漠建築は砂漠環境に適応した建築が中心。"
+        },
+        {
+          "id": "castlepunk",
+          "difference": "城塞美学は中世城塞。砂漠建築は乾燥地と砂色の生活建築。"
+        }
+      ],
+      "difference_notes": [
+        "砂漠は舞台ではなく、建築の厚み、日陰、水管理に影響しているかを見る。"
+      ],
+      "ai_keywords": [
+        "砂漠建築",
+        "Desert Architecture",
+        "デザートパンク",
+        "Desertpunk",
+        "desertpunk architecture",
+        "desert fortress city",
+        "adobe desert city",
+        "sandstone settlement",
+        "砂漠都市",
+        "日干し煉瓦"
+      ],
+      "tags": {
+        "visual_elements": [
+          "要塞",
+          "水路",
+          "庭園"
+        ],
+        "materials": [
+          "土",
+          "煉瓦",
+          "布",
+          "石材"
+        ],
+        "lighting_air": [
+          "砂塵",
+          "強い逆光",
+          "夕焼け"
+        ],
+        "mood": [
+          "荒涼",
+          "牧歌的",
+          "不穏"
+        ],
+        "settings": [
+          "砂漠",
+          "要塞",
+          "荒野"
+        ],
+        "era_technology": [
+          "近世",
+          "崩壊後"
+        ],
+        "colors": [
+          "黄土色",
+          "錆色",
+          "白",
+          "アースカラー"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "砂漠都市",
+          "日干し煉瓦",
+          "中庭",
+          "日除け"
+        ],
+        "secondary_cues": [
+          "井戸",
+          "要塞集落",
+          "交易"
+        ],
+        "avoid_confusing_with": [
+          "文明崩壊後のサバイバルが主ならポストアポカリプス"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "desert fortress city",
+        "adobe desert architecture",
+        "sandstone settlement",
+        "desert city courtyard"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/0794ee1b-ec7d-4a65-a235-3f6eb47c4ff0/thumb/",
+        "image_url": "https://live.staticflickr.com/6034/6271487951_89aaf46f25_b.jpg",
+        "source_page_url": "https://www.flickr.com/photos/67769030@N07/6271487951",
+        "source": "Openverse",
+        "creator": "Arian Zwegers",
+        "license": "by 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "砂漠建築の参考画像。要塞, 水路, 庭園, 土, 煉瓦",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "floating_city_punk",
+      "name": "水上都市",
+      "reading": "すいじょうとし",
+      "english_name": "Floating City",
+      "short_description": "水上都市、浮桟橋、船上建築、港湾居住区を主役にした水辺都市の視覚カテゴリ。",
+      "visual_features": [
+        "建物が水面や浮桟橋の上に並ぶ",
+        "橋、船、港湾設備が生活空間になる",
+        "水位や潮の変化が都市の形を決める"
+      ],
+      "common_motifs": [
+        "水上都市",
+        "浮桟橋",
+        "船上住宅",
+        "港湾",
+        "ロープ",
+        "市場"
+      ],
+      "color_tendencies": [
+        "青",
+        "白",
+        "錆色",
+        "アースカラー"
+      ],
+      "material_feel": [
+        "木材",
+        "鉄",
+        "鋼鉄",
+        "再生素材"
+      ],
+      "light_air": "水面反射、潮風、湿気、朝夕の霧。",
+      "worldview_direction": "陸地ではなく水面を生活基盤にする共同体や交易を見せる。",
+      "near_terms": [
+        "aqueductpunk",
+        "submerged_city_punk",
+        "bridgepunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "submerged_city_punk",
+          "difference": "水没都市は水中や沈んだ都市。水上都市は水面上で生活する。"
+        },
+        {
+          "id": "aqueductpunk",
+          "difference": "水道橋都市は水を運ぶインフラ。水上都市は水面に住む都市。"
+        }
+      ],
+      "difference_notes": [
+        "水辺ではなく、水面そのものが地面の代わりになっているかを見る。"
+      ],
+      "ai_keywords": [
+        "水上都市",
+        "Floating City",
+        "水上都市パンク",
+        "Floating City Punk",
+        "floating city architecture",
+        "water city settlement",
+        "floating platform houses",
+        "harbor settlement",
+        "浮桟橋"
+      ],
+      "tags": {
+        "visual_elements": [
+          "水上都市",
+          "橋",
+          "水路"
+        ],
+        "materials": [
+          "木材",
+          "鉄",
+          "鋼鉄",
+          "再生素材"
+        ],
+        "lighting_air": [
+          "湿気",
+          "霧",
+          "自然光"
+        ],
+        "mood": [
+          "共同体的",
+          "牧歌的",
+          "不穏"
+        ],
+        "settings": [
+          "水上",
+          "港湾",
+          "海底"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "青",
+          "白",
+          "錆色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "水上都市",
+          "浮桟橋",
+          "船上住宅",
+          "港湾"
+        ],
+        "secondary_cues": [
+          "ロープ",
+          "市場",
+          "潮風"
+        ],
+        "avoid_confusing_with": [
+          "都市が水中に沈んでいるなら水没都市"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "floating city architecture",
+        "water city settlement",
+        "floating platform houses",
+        "harbor settlement"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/floating_city_punk.png",
+        "image_url": "/app/generated/representatives/floating_city_punk.png",
+        "source_page_url": "/app/generated/representatives/floating_city_punk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "水上都市の生成代表画像。水上都市, 橋, 水路, 木材, 鉄",
+        "notes": "Generated replacement: stronger floating city with raft platforms, stilt houses, water walkways, boats, and harbor life."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "submerged_city_punk",
+      "name": "水没都市",
+      "reading": "すいぼつとし",
+      "english_name": "Submerged City",
+      "short_description": "水没した都市、水中建築、海底ドーム、沈んだビル群を主役にした視覚カテゴリ。",
+      "visual_features": [
+        "建物が水中に沈んでいる",
+        "水中光と気泡が都市を包む",
+        "ドームや耐圧窓が生活圏を守る"
+      ],
+      "common_motifs": [
+        "水没都市",
+        "海底ドーム",
+        "沈んだビル",
+        "潜水艇",
+        "耐圧窓",
+        "海藻"
+      ],
+      "color_tendencies": [
+        "青",
+        "緑",
+        "黒",
+        "コバルトブルー"
+      ],
+      "material_feel": [
+        "ガラス",
+        "鋼鉄",
+        "コンクリート",
+        "植物"
+      ],
+      "light_air": "水中光、暗い青、浮遊感、圧力のある静けさ。",
+      "worldview_direction": "海面上昇、海底開発、失われた都市を水中建築として見せる。",
+      "near_terms": [
+        "floating_city_punk",
+        "solarpunk",
+        "cosmic_horror"
+      ],
+      "confusable_terms": [
+        {
+          "id": "floating_city_punk",
+          "difference": "水上都市は水面上の生活。水没都市は水中や沈んだ建物が中心。"
+        },
+        {
+          "id": "cosmic_horror",
+          "difference": "深海の異界感が恐怖の主役ならコズミックホラー。建築と都市が主なら水没都市。"
+        }
+      ],
+      "difference_notes": [
+        "水中光、耐圧構造、沈んだビルがそろうと判定しやすい。"
+      ],
+      "ai_keywords": [
+        "水没都市",
+        "Submerged City",
+        "水没都市パンク",
+        "Submerged City Punk",
+        "submerged city",
+        "underwater city architecture",
+        "flooded skyscrapers",
+        "undersea dome habitat",
+        "海底ドーム"
+      ],
+      "tags": {
+        "visual_elements": [
+          "水没都市",
+          "ドーム",
+          "巨大建築"
+        ],
+        "materials": [
+          "ガラス",
+          "鋼鉄",
+          "コンクリート"
+        ],
+        "lighting_air": [
+          "水中光",
+          "低照度",
+          "湿気"
+        ],
+        "mood": [
+          "神秘的",
+          "孤独",
+          "不穏"
+        ],
+        "settings": [
+          "水没都市",
+          "海底",
+          "都市"
+        ],
+        "era_technology": [
+          "近未来",
+          "崩壊後"
+        ],
+        "colors": [
+          "青",
+          "緑",
+          "黒",
+          "コバルトブルー"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "水没都市",
+          "海底ドーム",
+          "沈んだビル",
+          "水中光"
+        ],
+        "secondary_cues": [
+          "潜水艇",
+          "耐圧窓",
+          "海藻"
+        ],
+        "avoid_confusing_with": [
+          "水面上に住むなら水上都市"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "underwater city architecture",
+        "submerged skyscrapers",
+        "undersea dome habitat",
+        "flooded city buildings"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/submerged_city_punk.png",
+        "image_url": "/app/generated/representatives/submerged_city_punk.png",
+        "source_page_url": "/app/generated/representatives/submerged_city_punk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "水没都市の生成代表画像。水没都市, ドーム, 巨大建築, ガラス, 鋼鉄",
+        "notes": "Generated replacement: stronger submerged city image with flooded avenues, drowned buildings, and waterline perspective."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "skycitypunk",
+      "name": "空中都市",
+      "reading": "くうちゅうとし",
+      "english_name": "Sky City",
+      "short_description": "浮遊都市、空中基盤、雲上の居住区を主役にした空の都市イメージ。",
+      "visual_features": [
+        "都市が地面から離れている",
+        "空中回廊や飛行船が交通になる",
+        "雲、浮遊基盤、反重力装置が見える"
+      ],
+      "common_motifs": [
+        "空中都市",
+        "浮遊基盤",
+        "空中回廊",
+        "飛行船",
+        "雲上庭園",
+        "ドック"
+      ],
+      "color_tendencies": [
+        "白",
+        "青",
+        "金",
+        "銀"
+      ],
+      "material_feel": [
+        "ガラス",
+        "鋼鉄",
+        "石材"
+      ],
+      "light_air": "高所の風、雲、強い日差し、空の広さ。",
+      "worldview_direction": "地上から切り離された階級、楽園、または孤立を建築で見せる。",
+      "near_terms": [
+        "towerpunk",
+        "steampunk",
+        "space_opera"
+      ],
+      "confusable_terms": [
+        {
+          "id": "towerpunk",
+          "difference": "垂直都市は地上から伸びる塔。空中都市は都市自体が浮遊・雲上にある。"
+        },
+        {
+          "id": "steampunk",
+          "difference": "飛行船があっても、蒸気機械より空中居住区が主役なら空中都市。"
+        }
+      ],
+      "difference_notes": [
+        "空を飛ぶ乗り物ではなく、都市や建築基盤が空にあるかを見る。"
+      ],
+      "ai_keywords": [
+        "空中都市",
+        "Sky City",
+        "空中都市パンク",
+        "Skycitypunk",
+        "sky city",
+        "floating city in the clouds",
+        "aerial city architecture",
+        "skybridge city",
+        "雲上都市"
+      ],
+      "tags": {
+        "visual_elements": [
+          "空中都市",
+          "空中回廊",
+          "巨大建築"
+        ],
+        "materials": [
+          "ガラス",
+          "鋼鉄",
+          "石材"
+        ],
+        "lighting_air": [
+          "高所の風",
+          "自然光",
+          "強い逆光"
+        ],
+        "mood": [
+          "荘厳",
+          "未来的",
+          "孤独"
+        ],
+        "settings": [
+          "空中",
+          "都市",
+          "塔"
+        ],
+        "era_technology": [
+          "近未来",
+          "未来都市"
+        ],
+        "colors": [
+          "白",
+          "青",
+          "金",
+          "銀"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "空中都市",
+          "浮遊基盤",
+          "雲上",
+          "空中回廊"
+        ],
+        "secondary_cues": [
+          "飛行船",
+          "ドック",
+          "雲上庭園"
+        ],
+        "avoid_confusing_with": [
+          "地上から伸びる垂直建築なら垂直都市"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "floating city in the clouds",
+        "aerial city architecture",
+        "sky city concept",
+        "city above the clouds"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/skycitypunk.png",
+        "image_url": "/app/generated/representatives/skycitypunk.png",
+        "source_page_url": "/app/generated/representatives/skycitypunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "空中都市の生成代表画像。空中都市, 空中回廊, 巨大建築, ガラス, 鋼鉄",
+        "notes": "Generated replacement: clearer sky city with floating platforms, bridges, gardens, and cloud-layer scale."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "modularpunk",
+      "name": "モジュラー建築",
+      "reading": "モジュラーけんちく",
+      "english_name": "Modular Architecture",
+      "short_description": "モジュール建築、増築ユニット、交換可能な居住ブロックを主役にした建築の視覚カテゴリ。",
+      "visual_features": [
+        "同じ形のユニットが反復する",
+        "増築や交換の痕跡が見える",
+        "建物が組み替え可能なシステムに見える"
+      ],
+      "common_motifs": [
+        "居住モジュール",
+        "プレハブ",
+        "接続ジョイント",
+        "ユニット住宅",
+        "通路",
+        "配線"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "青",
+        "オリーブ"
+      ],
+      "material_feel": [
+        "鋼鉄",
+        "プラスチック",
+        "ガラス",
+        "セラミック"
+      ],
+      "light_air": "白く平坦な光、機能的な清潔さ、少し仮設的な空気。",
+      "worldview_direction": "都市や住居を固定物ではなく、交換・拡張できる部品として扱う。",
+      "near_terms": [
+        "arcologypunk",
+        "containerpunk",
+        "military_sf"
+      ],
+      "confusable_terms": [
+        {
+          "id": "containerpunk",
+          "difference": "コンテナ建築は輸送コンテナの再利用感。モジュラー建築は規格化された建築ユニット全般。"
+        },
+        {
+          "id": "arcologypunk",
+          "difference": "アーコロジーは都市機能の巨大統合。モジュラー建築は小さなユニットの集合と交換性。"
+        }
+      ],
+      "difference_notes": [
+        "同じパーツが反復し、建物が後から増減できそうに見えるかを見る。"
+      ],
+      "ai_keywords": [
+        "モジュラー建築",
+        "Modular Architecture",
+        "モジュラーパンク",
+        "Modularpunk",
+        "modularpunk",
+        "modular habitat",
+        "prefab architecture modules",
+        "stacked housing units",
+        "モジュール建築",
+        "プレハブ都市"
+      ],
+      "tags": {
+        "visual_elements": [
+          "モジュール建築",
+          "プレハブ",
+          "空中回廊"
+        ],
+        "materials": [
+          "鋼鉄",
+          "プラスチック",
+          "ガラス",
+          "セラミック"
+        ],
+        "lighting_air": [
+          "白く平坦な光",
+          "自然光",
+          "乾いた空気"
+        ],
+        "mood": [
+          "未来的",
+          "清潔",
+          "無機質"
+        ],
+        "settings": [
+          "居住区",
+          "都市",
+          "宇宙"
+        ],
+        "era_technology": [
+          "近未来",
+          "未来都市"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "居住モジュール",
+          "プレハブ",
+          "反復ユニット",
+          "接続ジョイント"
+        ],
+        "secondary_cues": [
+          "通路",
+          "配線",
+          "仮設感"
+        ],
+        "avoid_confusing_with": [
+          "輸送コンテナの再利用が強ければコンテナ建築"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "modular habitat architecture",
+        "prefab housing modules",
+        "stacked modular housing",
+        "modular city architecture"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/modularpunk.png",
+        "image_url": "/app/generated/representatives/modularpunk.png",
+        "source_page_url": "/app/generated/representatives/modularpunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "モジュラー建築の生成代表画像。モジュール建築, プレハブ, 空中回廊, 鋼鉄, プラスチック",
+        "notes": "Generated replacement: stronger modular architecture with stacked prefab units, visible seams, plug-in balconies, and service cores."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "containerpunk",
+      "name": "コンテナ建築",
+      "reading": "コンテナけんちく",
+      "english_name": "Container Architecture",
+      "short_description": "輸送コンテナ、港湾、再利用された箱型居住区を主役にした建築の視覚カテゴリ。",
+      "visual_features": [
+        "コンテナが積み上がって建物になる",
+        "港湾や倉庫の質感が生活空間に残る",
+        "仮設、低コスト、再利用の雰囲気が強い"
+      ],
+      "common_motifs": [
+        "コンテナ",
+        "港湾",
+        "クレーン",
+        "仮設住宅",
+        "倉庫",
+        "落書き"
+      ],
+      "color_tendencies": [
+        "錆色",
+        "赤",
+        "青",
+        "灰色"
+      ],
+      "material_feel": [
+        "鋼鉄",
+        "鉄",
+        "再生素材"
+      ],
+      "light_air": "潮風、錆、工業地帯の乾いた空気。",
+      "worldview_direction": "物流の箱を生活や都市へ転用する、再利用と荒さの建築感。",
+      "near_terms": [
+        "modularpunk",
+        "post_apocalyptic",
+        "factorypunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "modularpunk",
+          "difference": "モジュラー建築は規格化建築全般。コンテナ建築は輸送コンテナの素材感と港湾性が中心。"
+        },
+        {
+          "id": "post_apocalyptic",
+          "difference": "コンテナ利用が崩壊後サバイバルならポストアポカリプスにも寄る。"
+        }
+      ],
+      "difference_notes": [
+        "箱型ユニットがコンテナ由来に見えるか、港湾・物流の痕跡があるかを見る。"
+      ],
+      "ai_keywords": [
+        "コンテナ建築",
+        "Container Architecture",
+        "コンテナパンク",
+        "Containerpunk",
+        "containerpunk",
+        "shipping container city",
+        "container housing stack",
+        "industrial container architecture",
+        "港湾居住区"
+      ],
+      "tags": {
+        "visual_elements": [
+          "コンテナ",
+          "廃工場",
+          "モジュール建築"
+        ],
+        "materials": [
+          "鋼鉄",
+          "鉄",
+          "再生素材"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "自然光",
+          "霧"
+        ],
+        "mood": [
+          "退廃的",
+          "共同体的",
+          "無機質"
+        ],
+        "settings": [
+          "港湾",
+          "居住区",
+          "都市"
+        ],
+        "era_technology": [
+          "現代",
+          "崩壊後"
+        ],
+        "colors": [
+          "錆色",
+          "赤",
+          "青",
+          "灰色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "コンテナ",
+          "港湾",
+          "クレーン",
+          "仮設住宅"
+        ],
+        "secondary_cues": [
+          "倉庫",
+          "落書き",
+          "錆"
+        ],
+        "avoid_confusing_with": [
+          "規格化された清潔なユニットならモジュラー建築"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "shipping container city",
+        "container housing stack",
+        "industrial container architecture",
+        "container village"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/containerpunk.png",
+        "image_url": "/app/generated/representatives/containerpunk.png",
+        "source_page_url": "/app/generated/representatives/containerpunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "コンテナ建築の生成代表画像。コンテナ, 廃工場, モジュール建築, 鋼鉄, 鉄",
+        "notes": "Generated replacement: clearer container architecture with stacked shipping containers, corrugated steel, stairs, rooftop gardens, and port context."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "factorypunk",
+      "name": "インダストリアル建築",
+      "reading": "インダストリアルけんちく",
+      "english_name": "Industrial Architecture",
+      "short_description": "工場、配管、煙突、ベルトコンベア、産業設備を建築の主役にする視覚カテゴリ。",
+      "visual_features": [
+        "建物より配管や機械設備が目立つ",
+        "煙突、タンク、梁、クレーンが景観を支配する",
+        "作業動線がそのまま空間の美学になる"
+      ],
+      "common_motifs": [
+        "廃工場",
+        "煙突",
+        "配管",
+        "タンク",
+        "ベルトコンベア",
+        "クレーン"
+      ],
+      "color_tendencies": [
+        "錆色",
+        "灰色",
+        "黒",
+        "琥珀色"
+      ],
+      "material_feel": [
+        "鉄",
+        "鋼鉄",
+        "コンクリート",
+        "煉瓦"
+      ],
+      "light_air": "煤けた空気、火花、低照度、油の匂い。",
+      "worldview_direction": "生産、労働、機械の反復を建築空間として見せる。",
+      "near_terms": [
+        "dieselpunk",
+        "steampunk",
+        "containerpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dieselpunk",
+          "difference": "ディーゼルパンクは戦間期と内燃機関の世界観。インダストリアル建築は工場建築と生産設備が中心。"
+        },
+        {
+          "id": "steampunk",
+          "difference": "スチームパンクは蒸気と真鍮の発明感。インダストリアル建築は工業設備全般。"
+        }
+      ],
+      "difference_notes": [
+        "工場が背景ではなく、配管・設備・作業動線が画面の主役ならインダストリアル建築。"
+      ],
+      "ai_keywords": [
+        "インダストリアル建築",
+        "Industrial Architecture",
+        "ファクトリーパンク",
+        "Factorypunk",
+        "factorypunk",
+        "industrial factory interior",
+        "abandoned factory pipes",
+        "industrial complex architecture",
+        "廃工場",
+        "工業地帯"
+      ],
+      "tags": {
+        "visual_elements": [
+          "廃工場",
+          "配管",
+          "黒煙",
+          "発電施設"
+        ],
+        "materials": [
+          "鉄",
+          "鋼鉄",
+          "コンクリート",
+          "煉瓦"
+        ],
+        "lighting_air": [
+          "煤けた空気",
+          "低照度",
+          "非常灯"
+        ],
+        "mood": [
+          "退廃的",
+          "無機質",
+          "暴力的"
+        ],
+        "settings": [
+          "工場",
+          "発電所",
+          "都市"
+        ],
+        "era_technology": [
+          "産業革命",
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "錆色",
+          "灰色",
+          "黒",
+          "琥珀色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "廃工場",
+          "煙突",
+          "配管",
+          "ベルトコンベア"
+        ],
+        "secondary_cues": [
+          "タンク",
+          "クレーン",
+          "火花"
+        ],
+        "avoid_confusing_with": [
+          "戦間期軍事感が強ければディーゼルパンク"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "industrial factory interior",
+        "abandoned factory pipes",
+        "industrial complex architecture",
+        "factory machinery hall"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/ee9c03e7-1376-4e17-bd9a-1275662d5914/thumb/",
+        "image_url": "https://live.staticflickr.com/1781/42231201844_ecb82478b5_b.jpg",
+        "source_page_url": "https://www.flickr.com/photos/159630537@N08/42231201844",
+        "source": "Openverse",
+        "creator": "Homedust",
+        "license": "by 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "インダストリアル建築の参考画像。廃工場, 配管, 黒煙, 発電施設, 鉄",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "railpunk",
+      "name": "鉄道建築",
+      "reading": "てつどうけんちく",
+      "english_name": "Railway Architecture",
+      "short_description": "駅舎、線路、高架、車庫、鉄道インフラを主役にした建築の視覚カテゴリ。",
+      "visual_features": [
+        "線路やホームが空間の軸になる",
+        "駅舎や車庫が巨大な公共建築として見える",
+        "高架やトラスが都市を貫く"
+      ],
+      "common_motifs": [
+        "駅舎",
+        "線路",
+        "ホーム",
+        "高架",
+        "車庫",
+        "時計"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "錆色",
+        "黒",
+        "白"
+      ],
+      "material_feel": [
+        "鉄",
+        "鋼鉄",
+        "煉瓦",
+        "ガラス"
+      ],
+      "light_air": "朝霧、構内放送が聞こえそうな空気、鉄と油の匂い。",
+      "worldview_direction": "移動、接続、時刻表、都市の流れを鉄道建築で見せる。",
+      "near_terms": [
+        "dieselpunk",
+        "bridgepunk",
+        "liminal_space"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dieselpunk",
+          "difference": "ディーゼルパンクは重工業と軍事感。鉄道建築は駅と鉄道インフラが中心。"
+        },
+        {
+          "id": "liminal_space",
+          "difference": "無人駅の不気味さが主ならリミナルスペース。鉄道構造が主なら鉄道建築。"
+        }
+      ],
+      "difference_notes": [
+        "列車そのものより、駅、線路、高架、車庫が景観の中心になっているかを見る。"
+      ],
+      "ai_keywords": [
+        "鉄道建築",
+        "Railway Architecture",
+        "レールパンク",
+        "Railpunk",
+        "railpunk",
+        "massive train station architecture",
+        "railway depot",
+        "elevated rail city",
+        "駅舎",
+        "鉄道高架"
+      ],
+      "tags": {
+        "visual_elements": [
+          "駅舎",
+          "橋",
+          "巨大建築"
+        ],
+        "materials": [
+          "鉄",
+          "鋼鉄",
+          "煉瓦",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "霧",
+          "自然光",
+          "低照度"
+        ],
+        "mood": [
+          "記念碑的",
+          "孤独",
+          "産業革命風"
+        ],
+        "settings": [
+          "駅",
+          "都市",
+          "橋梁"
+        ],
+        "era_technology": [
+          "産業革命",
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "灰色",
+          "錆色",
+          "黒"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "駅舎",
+          "線路",
+          "ホーム",
+          "鉄道高架"
+        ],
+        "secondary_cues": [
+          "車庫",
+          "時計",
+          "トラス"
+        ],
+        "avoid_confusing_with": [
+          "空っぽの駅の違和感だけならリミナルスペース"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "massive train station architecture",
+        "railway depot interior",
+        "elevated rail city",
+        "historic train station hall"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/railpunk.png",
+        "image_url": "/app/generated/representatives/railpunk.png",
+        "source_page_url": "/app/generated/representatives/railpunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "鉄道建築の生成代表画像。駅舎, 橋, 巨大建築, 鉄, 鋼鉄",
+        "notes": "Generated replacement: clearer railway architecture with vaulted station roof, tracks, platforms, and rail infrastructure."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "templepunk",
+      "name": "神殿建築",
+      "reading": "しんでんけんちく",
+      "english_name": "Temple Architecture",
+      "short_description": "古代神殿、祭壇、列柱、遺跡都市を主役にした神殿建築の視覚カテゴリ。",
+      "visual_features": [
+        "列柱や階段状の祭壇が目立つ",
+        "古代遺跡と儀式空間が同居する",
+        "石造建築が神話的スケールを持つ"
+      ],
+      "common_motifs": [
+        "神殿",
+        "祭壇",
+        "列柱",
+        "古代遺跡",
+        "聖域",
+        "供物"
+      ],
+      "color_tendencies": [
+        "白",
+        "黄土色",
+        "金",
+        "灰色"
+      ],
+      "material_feel": [
+        "石材",
+        "土",
+        "金",
+        "木材"
+      ],
+      "light_air": "強い日差し、砂塵、神秘的な静けさ、儀式の煙。",
+      "worldview_direction": "信仰、古代文明、儀式、失われた技術を建築で見せる。",
+      "near_terms": [
+        "cathedralpunk",
+        "dungeonpunk",
+        "cosmic_horror"
+      ],
+      "confusable_terms": [
+        {
+          "id": "cathedralpunk",
+          "difference": "大聖堂ゴシックは西洋聖堂的。神殿建築は古代神殿や遺跡の水平・列柱感が中心。"
+        },
+        {
+          "id": "cosmic_horror",
+          "difference": "理解不能な古代神が恐怖の主役ならコズミックホラー。神殿建築が主なら神殿建築。"
+        }
+      ],
+      "difference_notes": [
+        "聖堂ではなく、列柱、祭壇、遺跡、神殿都市として読めるかを見る。"
+      ],
+      "ai_keywords": [
+        "神殿建築",
+        "Temple Architecture",
+        "テンプルパンク",
+        "Templepunk",
+        "templepunk",
+        "ancient temple city",
+        "stone temple ruins",
+        "mythic temple architecture",
+        "古代神殿",
+        "遺跡都市"
+      ],
+      "tags": {
+        "visual_elements": [
+          "古代遺跡",
+          "宗教建築",
+          "アーチ",
+          "巨大建築"
+        ],
+        "materials": [
+          "石材",
+          "土",
+          "木材"
+        ],
+        "lighting_air": [
+          "自然光",
+          "砂塵",
+          "強い逆光"
+        ],
+        "mood": [
+          "神秘的",
+          "荘厳",
+          "記念碑的"
+        ],
+        "settings": [
+          "古城",
+          "砂漠",
+          "森"
+        ],
+        "era_technology": [
+          "古代"
+        ],
+        "colors": [
+          "白",
+          "黄土色",
+          "金",
+          "灰色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "神殿",
+          "祭壇",
+          "列柱",
+          "古代遺跡"
+        ],
+        "secondary_cues": [
+          "供物",
+          "聖域",
+          "儀式"
+        ],
+        "avoid_confusing_with": [
+          "尖塔とステンドグラスなら大聖堂ゴシック"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "ancient temple city",
+        "stone temple ruins",
+        "mythic temple architecture",
+        "ancient ritual altar"
+      ],
+      "representative_image": {
+        "thumbnail_url": "https://api.openverse.org/v1/images/72d6e561-9a83-448d-8361-b762f6fa432b/thumb/",
+        "image_url": "https://live.staticflickr.com/55/112244853_9498000d83_b.jpg",
+        "source_page_url": "https://www.flickr.com/photos/21203533@N00/112244853",
+        "source": "Openverse",
+        "creator": "jimg944",
+        "license": "by 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "神殿建築の参考画像。古代遺跡, 宗教建築, アーチ, 巨大建築, 石材",
+        "notes": "Representative reference selected from Openverse/Wikimedia API candidates for the building-punk expansion."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "monumentpunk",
+      "name": "記念碑建築",
+      "reading": "きねんひけんちく",
+      "english_name": "Monumental Architecture",
+      "short_description": "巨大記念碑、慰霊建築、国家的モニュメントを主役にした記念碑性の強い建築カテゴリ。",
+      "visual_features": [
+        "人間より巨大な記念碑が中心にある",
+        "左右対称、広場、長い階段が多い",
+        "権力や歴史の重さを感じさせる"
+      ],
+      "common_motifs": [
+        "巨大記念碑",
+        "広場",
+        "階段",
+        "慰霊碑",
+        "旗",
+        "銅像"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "黒",
+        "金"
+      ],
+      "material_feel": [
+        "石材",
+        "コンクリート",
+        "金",
+        "鋼鉄"
+      ],
+      "light_air": "強い逆光、広い空、静けさ、式典の緊張感。",
+      "worldview_direction": "国家、記憶、権威、英雄化を巨大な建築で見せる。",
+      "near_terms": [
+        "art_deco",
+        "megastructure_punk",
+        "cathedralpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "art_deco",
+          "difference": "アールデコは装飾様式。記念碑建築は記念碑性と国家的スケールが中心。"
+        },
+        {
+          "id": "megastructure_punk",
+          "difference": "メガストラクチャーは巨大構造物全般。記念碑建築は記憶や権威の象徴性が強い。"
+        }
+      ],
+      "difference_notes": [
+        "巨大さだけでなく、記念、追悼、権威、式典の気配があるかを見る。"
+      ],
+      "ai_keywords": [
+        "記念碑建築",
+        "Monumental Architecture",
+        "モニュメントパンク",
+        "Monumentpunk",
+        "monumentpunk",
+        "colossal monument architecture",
+        "memorial plaza",
+        "authoritarian monument",
+        "巨大記念碑"
+      ],
+      "tags": {
+        "visual_elements": [
+          "記念碑",
+          "巨大建築",
+          "巨大壁"
+        ],
+        "materials": [
+          "石材",
+          "コンクリート",
+          "金",
+          "鋼鉄"
+        ],
+        "lighting_air": [
+          "強い逆光",
+          "自然光",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "記念碑的",
+          "荘厳",
+          "不穏"
+        ],
+        "settings": [
+          "都市",
+          "塔",
+          "要塞"
+        ],
+        "era_technology": [
+          "近代",
+          "現代",
+          "戦間期"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "黒",
+          "金"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "巨大記念碑",
+          "広場",
+          "慰霊碑",
+          "階段"
+        ],
+        "secondary_cues": [
+          "旗",
+          "銅像",
+          "式典"
+        ],
+        "avoid_confusing_with": [
+          "装飾様式が主ならアールデコ"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "colossal monument architecture",
+        "memorial plaza",
+        "authoritarian monument",
+        "giant civic monument"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/monumentpunk.png",
+        "image_url": "/app/generated/representatives/monumentpunk.png",
+        "source_page_url": "/app/generated/representatives/monumentpunk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "記念碑建築の生成代表画像。記念碑, 巨大建築, 巨大壁, 石材, コンクリート",
+        "notes": "Generated replacement: stronger monumental architecture with broad stairs, memorial plaza, monolithic pillars, and imposing scale."
+      },
+      "selected_images": []
+    },
+    {
+      "id": "subterranean_punk",
+      "name": "地下都市美学",
+      "reading": "ちかとしびがく",
+      "english_name": "Subterranean Urbanism",
+      "short_description": "地下都市、地下居住区、地下鉄網、採掘空間を主役にした地下インフラの視覚カテゴリ。",
+      "visual_features": [
+        "地上光が届かない階層都市",
+        "換気塔、地下鉄、配管、居住区が重なる",
+        "天井の低さと都市機能の密度が同居する"
+      ],
+      "common_motifs": [
+        "地下都市",
+        "地下鉄",
+        "換気塔",
+        "採掘坑",
+        "配管",
+        "居住区"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "黒",
+        "琥珀色",
+        "緑"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鉄",
+        "鋼鉄",
+        "タイル"
+      ],
+      "light_air": "蛍光灯、非常灯、湿気、換気音、地下の重い空気。",
+      "worldview_direction": "地上を失った社会、密集した生活、インフラ依存を地下建築で見せる。",
+      "near_terms": [
+        "dungeonpunk",
+        "bunkerpunk",
+        "liminal_space"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dungeonpunk",
+          "difference": "ダンジョン美学は罠と探索の迷宮。地下都市美学は地下都市や地下生活のインフラが中心。"
+        },
+        {
+          "id": "bunkerpunk",
+          "difference": "バンカー美学は防護施設。地下都市美学は生活都市としての地下空間。"
+        }
+      ],
+      "difference_notes": [
+        "地下であるだけでなく、交通、居住、換気、配管など都市機能が見えるかを見る。"
+      ],
+      "ai_keywords": [
+        "地下都市美学",
+        "Subterranean Urbanism",
+        "サブテラニアンパンク",
+        "Subterranean Punk",
+        "subterranean punk",
+        "underground city",
+        "subway city interior",
+        "underground habitat",
+        "地下都市",
+        "地下居住区"
+      ],
+      "tags": {
+        "visual_elements": [
+          "地下都市",
+          "配管",
+          "駅舎",
+          "無機質"
+        ],
+        "materials": [
+          "コンクリート",
+          "鉄",
+          "鋼鉄",
+          "タイル"
+        ],
+        "lighting_air": [
+          "蛍光灯",
+          "非常灯",
+          "湿気"
+        ],
+        "mood": [
+          "閉塞的",
+          "不穏",
+          "無機質"
+        ],
+        "settings": [
+          "地下",
+          "地下",
+          "居住区"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "灰色",
+          "黒",
+          "琥珀色",
+          "緑"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "地下都市",
+          "地下鉄網",
+          "換気塔",
+          "地下居住区"
+        ],
+        "secondary_cues": [
+          "配管",
+          "採掘坑",
+          "非常灯"
+        ],
+        "avoid_confusing_with": [
+          "罠と迷宮探索が主ならダンジョン美学"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "underground city",
+        "subterranean city architecture",
+        "underground habitat",
+        "subway city interior"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/subterranean_punk.png",
+        "image_url": "/app/generated/representatives/subterranean_punk.png",
+        "source_page_url": "/app/generated/representatives/subterranean_punk.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "地下都市美学の生成代表画像。地下都市, 配管, 駅舎, 無機質, コンクリート",
+        "notes": "Generated replacement: clearer underground urbanism with layered tunnels, housing, pipes, and warm artificial light."
+      },
+      "selected_images": []
+    }
+  ],
+  "comparison_groups": [
+    {
+      "id": "cyberpunk_vs_neon_noir",
+      "terms": [
+        "cyberpunk",
+        "neon_noir"
+      ],
+      "summary": "どちらもネオンと雨が似合うが、サイバーパンクは社会と技術のジャンル、ネオンノワールは犯罪劇と照明ムードの表現。",
+      "quick_check": [
+        "義体、ハッカー、巨大企業があるならサイバーパンク。",
+        "探偵、バー、路地裏、犯罪の影が中心ならネオンノワール。"
+      ]
+    },
+    {
+      "id": "steampunk_vs_dieselpunk",
+      "terms": [
+        "steampunk",
+        "dieselpunk"
+      ],
+      "summary": "スチームパンクは蒸気と真鍮の発明ロマン、ディーゼルパンクは内燃機関と黒煙の重工業・軍事感。",
+      "quick_check": [
+        "歯車、蒸気、飛行船、ヴィクトリア朝ならスチームパンク。",
+        "装甲車、黒煙、防毒マスク、戦間期風ならディーゼルパンク。"
+      ]
+    },
+    {
+      "id": "dark_fantasy_vs_gothic_fantasy",
+      "terms": [
+        "dark_fantasy",
+        "gothic_fantasy"
+      ],
+      "summary": "ダークファンタジーは暗い幻想世界全般、ゴシックファンタジーは古城や聖堂などの様式美が強い。",
+      "quick_check": [
+        "呪われた王国、黒い森、朽ちた鎧ならダークファンタジー。",
+        "尖塔、ステンドグラス、蝋燭、吸血鬼ならゴシックファンタジー。"
+      ]
+    },
+    {
+      "id": "biopunk_vs_body_horror",
+      "terms": [
+        "biopunk",
+        "body_horror"
+      ],
+      "summary": "バイオパンクは生命工学の社会や技術、ボディホラーは身体変形そのものの恐怖。",
+      "quick_check": [
+        "培養槽、遺伝子企業、クローンならバイオパンク。",
+        "皮膚、骨、器官の変形や融合が主ならボディホラー。"
+      ]
+    },
+    {
+      "id": "liminal_space_vs_ruined_city",
+      "terms": [
+        "liminal_space",
+        "ruined_city"
+      ],
+      "summary": "リミナルスペースは壊れていない日常空間の空虚さ、荒廃都市は破壊と時間経過が見える都市景観。",
+      "quick_check": [
+        "空の廊下、蛍光灯、営業中のはずの無人空間ならリミナルスペース。",
+        "割れた窓、瓦礫、植物侵食、放置車両なら荒廃都市。"
+      ]
+    },
+    {
+      "id": "space_opera_vs_military_sf",
+      "terms": [
+        "space_opera",
+        "military_sf"
+      ],
+      "summary": "スペースオペラは銀河規模の英雄譚、ミリタリーSFは未来戦争の運用と装備。",
+      "quick_check": [
+        "帝国、王族、古代文明、艦隊の壮大さならスペースオペラ。",
+        "部隊、階級、基地、兵站、作戦行動ならミリタリーSF。"
+      ]
+    },
+    {
+      "id": "castlepunk_vs_cathedralpunk",
+      "terms": [
+        "castlepunk",
+        "cathedralpunk"
+      ],
+      "summary": "どちらも石造で荘厳だが、城塞美学は防衛建築、大聖堂ゴシックは宗教建築が中心。",
+      "quick_check": [
+        "城壁、堀、門楼なら城塞美学。",
+        "尖塔、ステンドグラス、祭壇なら大聖堂ゴシック。"
+      ]
+    },
+    {
+      "id": "arcologypunk_vs_megastructure_punk",
+      "terms": [
+        "arcologypunk",
+        "megastructure_punk"
+      ],
+      "summary": "アーコロジーは都市機能が巨大建築内に完結し、メガストラクチャーは巨大構造物のスケールそのものを重視する。",
+      "quick_check": [
+        "住居、農業、交通が建物内にあるならアーコロジー。",
+        "用途より圧倒的な大きさが主ならメガストラクチャー。"
+      ]
+    },
+    {
+      "id": "floating_vs_submerged_city_punk",
+      "terms": [
+        "floating_city_punk",
+        "submerged_city_punk"
+      ],
+      "summary": "水上都市は水面上で生活し、水没都市は水中や沈んだ都市を見せる。",
+      "quick_check": [
+        "浮桟橋や船上住宅なら水上都市。",
+        "海底ドームや沈んだビルなら水没都市。"
+      ]
+    },
+    {
+      "id": "modularpunk_vs_containerpunk",
+      "terms": [
+        "modularpunk",
+        "containerpunk"
+      ],
+      "summary": "どちらも箱型ユニットだが、モジュラー建築は規格建築全般、コンテナ建築は輸送コンテナの転用感が中心。",
+      "quick_check": [
+        "清潔で交換可能なユニットならモジュラー建築。",
+        "港湾、錆、輸送コンテナならコンテナ建築。"
+      ]
+    },
+    {
+      "id": "glasspunk_vs_greenhousepunk",
+      "terms": [
+        "glasspunk",
+        "greenhousepunk"
+      ],
+      "summary": "ガラス建築は透明素材と反射、温室建築は植物栽培と湿った温室空間を重視する。",
+      "quick_check": [
+        "反射するガラス都市ならガラス建築。",
+        "ガラス屋根と植物生産なら温室建築。"
+      ]
+    },
+    {
+      "id": "bridgepunk_vs_railpunk",
+      "terms": [
+        "bridgepunk",
+        "railpunk"
+      ],
+      "summary": "橋梁都市は接続構造としての橋、鉄道建築は駅と鉄道インフラが中心。",
+      "quick_check": [
+        "巨大橋や橋上都市なら橋梁都市。",
+        "駅舎、線路、ホームなら鉄道建築。"
+      ]
+    }
+  ],
+  "reverse_lookup_examples": [
+    {
+      "query_tags": [
+        "ネオン",
+        "雨",
+        "探偵",
+        "路地裏"
+      ],
+      "likely_terms": [
+        "neon_noir",
+        "cyberpunk"
+      ],
+      "reason": "ネオンと雨だけなら両方あり得るが、探偵と犯罪ムードが入るとネオンノワールが優先。"
+    },
+    {
+      "query_tags": [
+        "歯車",
+        "真鍮",
+        "蒸気",
+        "飛行船"
+      ],
+      "likely_terms": [
+        "steampunk"
+      ],
+      "reason": "蒸気機関とヴィクトリア朝系の機械ロマンが強い。"
+    },
+    {
+      "query_tags": [
+        "蛍光灯",
+        "学校",
+        "誰もいない",
+        "不穏"
+      ],
+      "likely_terms": [
+        "liminal_space"
+      ],
+      "reason": "日常の通過空間から人だけが消えた不気味さが中心。"
+    },
+    {
+      "query_tags": [
+        "コンクリート",
+        "巨大建築",
+        "無機質",
+        "幾何学"
+      ],
+      "likely_terms": [
+        "brutalism"
+      ],
+      "reason": "打ち放しコンクリートと量塊感が最重要の手がかり。"
+    }
+  ]
+}
