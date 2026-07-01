@@ -6652,15 +6652,17 @@
       "english_name": "Cliff Dwelling Architecture",
       "short_description": "崖や岩壁に住居が埋め込まれ、垂直地形そのものを生活空間にする建築。",
       "visual_features": [
-        "岩壁に窓や入口が並ぶ",
-        "階段やはしごが垂直移動を作る",
-        "建物と地形の境界が曖昧になる"
+        "垂直の岩壁に住居・窓・入口が外から見える",
+        "階段、はしご、吊り橋が崖面の上下移動を作る",
+        "建物が崖に張り付き、地形と外壁の境界が曖昧になる"
       ],
       "common_motifs": [
         "崖住居",
         "岩壁の窓",
-        "階段",
-        "吊り橋"
+        "外付け階段",
+        "木のはしご",
+        "吊り橋",
+        "峡谷"
       ],
       "color_tendencies": [
         "黄土色",
@@ -6682,11 +6684,11 @@
       "confusable_terms": [
         {
           "id": "cave_city_architecture",
-          "difference": "洞窟都市は内部空間の穴ぐら感が中心。崖住居は外から見える垂直の住居群が手がかり。"
+          "difference": "洞窟都市は内側の掘削空間が中心。崖住居は外から見える崖面、窓、階段、はしごの垂直生活感が中心。"
         }
       ],
       "difference_notes": [
-        "外壁のような崖面に住居が見えるなら崖住居。"
+        "外壁のような崖面に住居が見えるなら崖住居。洞窟の内部通路や穴ぐらが主役なら洞窟都市。"
       ],
       "ai_keywords": [
         "Cliff Dwelling Architecture",
@@ -6699,7 +6701,12 @@
         "吊り橋",
         "岩壁に窓や入口が並ぶ",
         "階段やはしごが垂直移動を作る",
-        "建物と地形の境界が曖昧になる"
+        "建物と地形の境界が曖昧になる",
+        "cliff face dwellings exterior",
+        "vertical canyon homes",
+        "ladders on cliff wall",
+        "balconies in sandstone cliff",
+        "not cave interior"
       ],
       "tags": {
         "visual_elements": [
@@ -6767,15 +6774,15 @@
         "ancient cliff houses"
       ],
       "representative_image": {
-        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Balcony_House_Tour_at_Mesa_Verde_National_Park_%284851540885%29.jpg/960px-Balcony_House_Tour_at_Mesa_Verde_National_Park_%284851540885%29.jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Balcony_House_Tour_at_Mesa_Verde_National_Park_%284851540885%29.jpg",
-        "source_page_url": "https://commons.wikimedia.org/wiki/File:Balcony_House_Tour_at_Mesa_Verde_National_Park_(4851540885).jpg",
-        "source": "Wikimedia Commons",
-        "creator": "Ken Lund from Las Vegas, Nevada, USA",
-        "license": "CC BY-SA 2.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-        "alt": "崖住居の参考代表画像。古代遺跡, 塔, 橋, 要塞, 石材",
-        "notes": "Representative reference selected from licensed API search for the structure-focused expansion."
+        "thumbnail_url": "/app/generated/representatives/cliff_dwelling_architecture.png",
+        "image_url": "/app/generated/representatives/cliff_dwelling_architecture.png",
+        "source_page_url": "/app/generated/representatives/cliff_dwelling_architecture.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "垂直の砂岩崖に住居、窓、はしご、吊り橋が張り付く崖住居。",
+        "notes": "Generated replacement to distinguish cliff dwelling from cave city; emphasizes exterior cliff-face homes and vertical access."
       },
       "selected_images": []
     },
@@ -6784,11 +6791,11 @@
       "name": "洞窟都市",
       "reading": "どうくつとし",
       "english_name": "Cave City Architecture",
-      "short_description": "岩山や地下空間を掘り抜き、住居・礼拝・通路を内側に作る都市様式。",
+      "short_description": "岩山や地下空間を内側から掘り抜き、住居・礼拝・通路を洞窟状に連ねる都市様式。",
       "visual_features": [
-        "丸い穴や洞窟入口が反復する",
-        "内部は低い天井と曲がった通路が多い",
-        "石や土の質感が画面を支配する"
+        "丸い穴や洞窟入口が内部空間の中で反復する",
+        "低い天井、曲がった通路、採光穴が多い",
+        "外観よりも掘削された岩の内側が画面を支配する"
       ],
       "common_motifs": [
         "洞窟住居",
@@ -6815,12 +6822,16 @@
       ],
       "confusable_terms": [
         {
+          "id": "cliff_dwelling_architecture",
+          "difference": "崖住居は外から見える垂直の崖面住居が手がかり。洞窟都市は岩の内側に入った穴ぐら、通路、部屋の連続が手がかり。"
+        },
+        {
           "id": "subterranean_punk",
           "difference": "地下都市は近代インフラや配管も含む。洞窟都市は掘削された岩と土の住居感が中心。"
         }
       ],
       "difference_notes": [
-        "岩を掘った丸い穴や土色の内部が主役。"
+        "内部の穴ぐら、採光穴、岩をくり抜いた部屋が主役なら洞窟都市。外の崖面に住居が張り付くなら崖住居。"
       ],
       "ai_keywords": [
         "Cave City Architecture",
@@ -6833,7 +6844,11 @@
         "採光穴",
         "丸い穴や洞窟入口が反復する",
         "内部は低い天井と曲がった通路が多い",
-        "石や土の質感が画面を支配する"
+        "石や土の質感が画面を支配する",
+        "rock cut interior city",
+        "carved cave rooms",
+        "ventilation shafts",
+        "not cliff exterior"
       ],
       "tags": {
         "visual_elements": [
@@ -6900,15 +6915,15 @@
         "rock carved city"
       ],
       "representative_image": {
-        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CAPPADOCIA_G%C3%B6reme_National_Park_and_the_Rock_Sites._World_Heritage_List._Turkey._Hot_Air_Ballooning_Cappadocia.jpg/960px-CAPPADOCIA_G%C3%B6reme_National_Park_and_the_Rock_Sites._World_Heritage_List._Turkey._Hot_Air_Ballooning_Cappadocia.jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/CAPPADOCIA_G%C3%B6reme_National_Park_and_the_Rock_Sites._World_Heritage_List._Turkey._Hot_Air_Ballooning_Cappadocia.jpg",
-        "source_page_url": "https://commons.wikimedia.org/wiki/File:CAPPADOCIA_G%C3%B6reme_National_Park_and_the_Rock_Sites._World_Heritage_List._Turkey._Hot_Air_Ballooning_Cappadocia.jpg",
-        "source": "Wikimedia Commons",
-        "creator": "Feridun F. Alkaya",
-        "license": "CC0",
-        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "alt": "洞窟都市の参考代表画像。地下都市, 迷宮, 古代遺跡, 石材, 土",
-        "notes": "Representative reference selected from licensed API search for the structure-focused expansion."
+        "thumbnail_url": "/app/generated/representatives/cave_city_architecture.png",
+        "image_url": "/app/generated/representatives/cave_city_architecture.png",
+        "source_page_url": "/app/generated/representatives/cave_city_architecture.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "岩の内側に掘られた部屋と通路が連なる洞窟都市の内部空間。",
+        "notes": "Generated replacement to distinguish cave city from cliff dwelling; emphasizes interior rock-cut chambers and tunnels."
       },
       "selected_images": []
     },
@@ -7346,11 +7361,11 @@
       "confusable_terms": [
         {
           "id": "pyramid_city_architecture",
-          "difference": "ピラミッドは三角の量塊。ジッグラトは段状の基壇と頂上神殿が特徴。"
+          "difference": "ピラミッド都市は滑らかな三角錐の量塊と参道が主役。ジッグラトは段状の基壇、水平層、頂部神殿が主役。"
         }
       ],
       "difference_notes": [
-        "階段状の人工山と頂部神殿。"
+        "階段状の人工山と頂部神殿が見えるならジッグラト。滑らかな三角錐と長い参道が主役ならピラミッド都市。"
       ],
       "ai_keywords": [
         "Ziggurat Architecture",
@@ -7446,17 +7461,18 @@
       "name": "ピラミッド都市",
       "reading": "ピラミッドとし",
       "english_name": "Pyramid City Architecture",
-      "short_description": "ピラミッド状の巨大建築や神殿群が都市の中心を作る、古代的な記念碑都市。",
+      "short_description": "滑らかな三角錐のピラミッド群と参道・広場が都市の中心軸を作る、古代的な記念碑都市。",
       "visual_features": [
-        "三角形の量塊が遠景から目立つ",
-        "広場や参道が建物へ向かう",
-        "都市全体が儀式軸で整理される"
+        "滑らかな三角錐の量塊が遠景から目立つ",
+        "広場や長い参道がピラミッドへ直線的に向かう",
+        "都市全体が儀式軸と記念碑の配置で整理される"
       ],
       "common_motifs": [
-        "ピラミッド",
+        "滑らかなピラミッド",
         "参道",
-        "石段",
-        "巨大広場"
+        "石畳の広場",
+        "オベリスク",
+        "砂漠都市"
       ],
       "color_tendencies": [
         "黄土色",
@@ -7476,11 +7492,11 @@
       "confusable_terms": [
         {
           "id": "ziggurat_architecture",
-          "difference": "ジッグラトは段状基壇、ピラミッド都市は三角錐の量塊と儀式軸が中心。"
+          "difference": "ジッグラトは水平に積まれた段状基壇と頂上神殿が主役。ピラミッド都市は滑らかな三角錐の量塊、参道、広場の儀式軸が主役。"
         }
       ],
       "difference_notes": [
-        "三角錐の巨大建築が都市を支配する。"
+        "段々の祭壇に見えるならジッグラト。滑らかな三角錐のピラミッド群と参道が主役ならピラミッド都市。"
       ],
       "ai_keywords": [
         "Pyramid City Architecture",
@@ -7493,7 +7509,12 @@
         "巨大広場",
         "三角形の量塊が遠景から目立つ",
         "広場や参道が建物へ向かう",
-        "都市全体が儀式軸で整理される"
+        "都市全体が儀式軸で整理される",
+        "smooth sided pyramids",
+        "ancient desert pyramid city",
+        "processional avenue",
+        "ceremonial pyramid complex",
+        "not ziggurat"
       ],
       "tags": {
         "visual_elements": [
@@ -7558,15 +7579,15 @@
         "fantasy pyramid city"
       ],
       "representative_image": {
-        "thumbnail_url": "https://live.staticflickr.com/2906/14179854288_edff33dfe9_b.jpg",
-        "image_url": "https://live.staticflickr.com/2906/14179854288_edff33dfe9_b.jpg",
-        "source_page_url": "https://www.flickr.com/photos/67769030@N07/14179854288",
-        "source": "Openverse",
-        "creator": "Arian Zwegers",
-        "license": "by 2.0",
-        "license_url": "https://creativecommons.org/licenses/by/2.0/",
-        "alt": "ピラミッド都市の参考代表画像。古代遺跡, 巨大建築, 記念碑, 石材, 土",
-        "notes": "Representative reference selected from licensed API search for the structure-focused expansion."
+        "thumbnail_url": "/app/generated/representatives/pyramid_city_architecture.png",
+        "image_url": "/app/generated/representatives/pyramid_city_architecture.png",
+        "source_page_url": "/app/generated/representatives/pyramid_city_architecture.png",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "AI-generated local project asset",
+        "license_url": "https://openai.com/policies/terms-of-use",
+        "alt": "滑らかな三角錐のピラミッド群と参道が都市軸を作る砂漠の記念碑都市。",
+        "notes": "Generated replacement to distinguish pyramid city from ziggurat architecture; emphasizes smooth triangular masses instead of stepped platforms."
       },
       "selected_images": []
     },
@@ -14103,10 +14124,10 @@
         "cave_city_architecture",
         "terraced_city_architecture"
       ],
-      "summary": "崖住居は外から見える垂直の住居群、洞窟都市は岩や地下の内部空間、段丘都市は地形に沿った水平段の反復で見分ける。",
+      "summary": "崖住居は外から見える垂直の住居群、洞窟都市は岩や地下をくり抜いた内部空間、段丘都市は地形に沿った水平段の反復で見分ける。",
       "quick_check": [
-        "崖面に窓が並ぶなら崖住居。",
-        "穴や洞窟の内部が主役なら洞窟都市。",
+        "外の崖面に窓・はしご・住居が並ぶなら崖住居。",
+        "内部の穴ぐら・通路・採光穴が主役なら洞窟都市。",
         "山腹に水平段が重なるなら段丘都市。"
       ]
     },
