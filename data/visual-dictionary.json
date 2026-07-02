@@ -13970,6 +13970,2648 @@
         "notes": "Representative reference selected from licensed API search for the structure-focused expansion."
       },
       "selected_images": []
+    },
+    {
+      "id": "lighthouse_architecture",
+      "name": "灯台建築",
+      "reading": "とうだいけんちく",
+      "english_name": "Lighthouse Architecture",
+      "short_description": "海岸や岬に立つ細長い塔と灯火で、航路・孤独・嵐の気配を示す建築。",
+      "visual_features": [
+        "海や崖のそばに単独で立つ",
+        "頂部に灯室や回廊がある",
+        "縦長の白い塔が遠景の目印になる"
+      ],
+      "common_motifs": [
+        "灯室",
+        "岬",
+        "荒波",
+        "螺旋階段"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "青"
+      ],
+      "material_feel": [
+        "石材",
+        "コンクリート",
+        "ガラス"
+      ],
+      "light_air": "霧、雨、強い逆光、灯火の円錐状の光が中心。",
+      "worldview_direction": "人里離れた境界で、海と都市をつなぐ孤独な標識。",
+      "near_terms": [
+        "telecom_tower_architecture",
+        "observatory_architecture",
+        "water_tower_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "telecom_tower_architecture",
+          "difference": "通信塔はアンテナや鉄骨が主役。灯台は海辺の灯室と航路標識の印象が中心。"
+        }
+      ],
+      "difference_notes": [
+        "海岸・灯室・光のビームが揃うと灯台建築。"
+      ],
+      "ai_keywords": [
+        "Lighthouse Architecture",
+        "lighthouse architecture storm coast",
+        "white lighthouse cliff",
+        "lighthouse beam fog",
+        "灯室",
+        "岬",
+        "荒波",
+        "螺旋階段",
+        "海や崖のそばに単独で立つ",
+        "頂部に灯室や回廊がある",
+        "縦長の白い塔が遠景の目印になる"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "巨大建築"
+        ],
+        "materials": [
+          "石材",
+          "コンクリート",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "霧",
+          "雨",
+          "強い逆光"
+        ],
+        "mood": [
+          "孤独",
+          "神秘的"
+        ],
+        "settings": [
+          "港湾",
+          "塔"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "灯室",
+          "海や崖のそばに単独で立つ",
+          "塔",
+          "霧"
+        ],
+        "secondary_cues": [
+          "岬",
+          "荒波",
+          "螺旋階段",
+          "港湾"
+        ],
+        "avoid_confusing_with": [
+          "telecom_tower_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "lighthouse architecture storm coast",
+        "white lighthouse cliff",
+        "lighthouse beam fog"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/lighthouse_architecture.png",
+        "image_url": "/app/generated/representatives/lighthouse_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "荒れた海岸の崖に白い灯台が立ち、霧の中へ光を放っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "clocktower_architecture",
+      "name": "時計塔建築",
+      "reading": "とけいとうけんちく",
+      "english_name": "Clocktower Architecture",
+      "short_description": "大きな時計盤を掲げた塔が、街の中心・時間・公共性を象徴する建築。",
+      "visual_features": [
+        "塔の上部に大きな時計盤がある",
+        "広場や駅前のランドマークになりやすい",
+        "垂直性と都市の秩序を強調する"
+      ],
+      "common_motifs": [
+        "時計盤",
+        "尖塔",
+        "市庁舎",
+        "広場"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "白",
+        "錆色"
+      ],
+      "material_feel": [
+        "石材",
+        "煉瓦",
+        "鉄"
+      ],
+      "light_air": "夕方の都市光、街灯、時計盤を照らす暖色光が中心。",
+      "worldview_direction": "街の時間を支配する公共的なランドマーク。",
+      "near_terms": [
+        "bell_tower_architecture",
+        "victorian",
+        "transit_hub_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "bell_tower_architecture",
+          "difference": "鐘楼は鐘の開口部や宗教施設が主役。時計塔は大きな時計盤が視覚的な決め手。"
+        }
+      ],
+      "difference_notes": [
+        "時計盤が最初に目に入る塔なら時計塔建築。"
+      ],
+      "ai_keywords": [
+        "Clocktower Architecture",
+        "clock tower architecture city square",
+        "historic clocktower landmark",
+        "large clock face tower",
+        "時計盤",
+        "尖塔",
+        "市庁舎",
+        "広場",
+        "塔の上部に大きな時計盤がある",
+        "広場や駅前のランドマークになりやすい",
+        "垂直性と都市の秩序を強調する"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "記念碑",
+          "アーチ"
+        ],
+        "materials": [
+          "石材",
+          "煉瓦",
+          "鉄"
+        ],
+        "lighting_air": [
+          "夕焼け",
+          "自然光"
+        ],
+        "mood": [
+          "記念碑的",
+          "荘厳"
+        ],
+        "settings": [
+          "都市",
+          "塔",
+          "駅"
+        ],
+        "era_technology": [
+          "近代",
+          "ヴィクトリア朝"
+        ],
+        "colors": [
+          "灰色",
+          "白",
+          "錆色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "時計盤",
+          "塔の上部に大きな時計盤がある",
+          "塔",
+          "記念碑"
+        ],
+        "secondary_cues": [
+          "尖塔",
+          "市庁舎",
+          "広場",
+          "都市"
+        ],
+        "avoid_confusing_with": [
+          "bell_tower_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "clock tower architecture city square",
+        "historic clocktower landmark",
+        "large clock face tower"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/clocktower_architecture.png",
+        "image_url": "/app/generated/representatives/clocktower_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "都市の広場に大きな時計盤を持つ石造りの時計塔がそびえている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "bell_tower_architecture",
+      "name": "鐘楼建築",
+      "reading": "しょうろうけんちく",
+      "english_name": "Bell Tower Architecture",
+      "short_description": "鐘を収めた開口部のある塔が、宗教・共同体・音の記憶を示す建築。",
+      "visual_features": [
+        "上部に鐘が見える開口部がある",
+        "教会や寺院のそばに立つ",
+        "時計盤よりも鐘と空洞が目立つ"
+      ],
+      "common_motifs": [
+        "鐘",
+        "開口部",
+        "教会",
+        "石段"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "白",
+        "錆色"
+      ],
+      "material_feel": [
+        "石材",
+        "煉瓦",
+        "鉄"
+      ],
+      "light_air": "朝夕の斜光、静かな空気、石に当たる柔らかい光が中心。",
+      "worldview_direction": "共同体に時刻や儀式を知らせる音の塔。",
+      "near_terms": [
+        "clocktower_architecture",
+        "minaret_architecture",
+        "gothic_fantasy"
+      ],
+      "confusable_terms": [
+        {
+          "id": "clocktower_architecture",
+          "difference": "時計塔は時計盤が中心。鐘楼は鐘や開いた鐘室が中心。"
+        }
+      ],
+      "difference_notes": [
+        "鐘が見える、または鐘を鳴らすための開口が主役。"
+      ],
+      "ai_keywords": [
+        "Bell Tower Architecture",
+        "bell tower architecture bells",
+        "church campanile bell openings",
+        "stone belfry tower",
+        "鐘",
+        "開口部",
+        "教会",
+        "石段",
+        "上部に鐘が見える開口部がある",
+        "教会や寺院のそばに立つ",
+        "時計盤よりも鐘と空洞が目立つ"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "宗教建築",
+          "アーチ"
+        ],
+        "materials": [
+          "石材",
+          "煉瓦",
+          "鉄"
+        ],
+        "lighting_air": [
+          "自然光",
+          "夕焼け"
+        ],
+        "mood": [
+          "荘厳",
+          "共同体的"
+        ],
+        "settings": [
+          "都市",
+          "塔"
+        ],
+        "era_technology": [
+          "中世",
+          "近世"
+        ],
+        "colors": [
+          "灰色",
+          "白",
+          "錆色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "鐘",
+          "上部に鐘が見える開口部がある",
+          "塔",
+          "宗教建築"
+        ],
+        "secondary_cues": [
+          "開口部",
+          "教会",
+          "石段",
+          "アーチ"
+        ],
+        "avoid_confusing_with": [
+          "clocktower_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "bell tower architecture bells",
+        "church campanile bell openings",
+        "stone belfry tower"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/bell_tower_architecture.png",
+        "image_url": "/app/generated/representatives/bell_tower_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "石造りの鐘楼の上部に大きな鐘が見え、周囲に宗教建築の気配がある",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "minaret_architecture",
+      "name": "ミナレット建築",
+      "reading": "ミナレットけんちく",
+      "english_name": "Minaret Architecture",
+      "short_description": "モスクに伴う細長い塔とバルコニーが、祈りと都市の水平線を作る建築。",
+      "visual_features": [
+        "非常に細い塔が空へ伸びる",
+        "途中に張り出したバルコニーがある",
+        "ドームや中庭と組み合わさりやすい"
+      ],
+      "common_motifs": [
+        "細塔",
+        "バルコニー",
+        "ドーム",
+        "中庭"
+      ],
+      "color_tendencies": [
+        "白",
+        "黄土色",
+        "青"
+      ],
+      "material_feel": [
+        "石材",
+        "タイル",
+        "セラミック"
+      ],
+      "light_air": "乾いた空気、強い日差し、夕暮れの金色の光が中心。",
+      "worldview_direction": "都市に祈りの垂直線を刻む宗教的ランドマーク。",
+      "near_terms": [
+        "bell_tower_architecture",
+        "dome_city_architecture",
+        "templepunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "bell_tower_architecture",
+          "difference": "鐘楼は鐘の開口部が中心。ミナレットは細い塔、バルコニー、モスク的なドームとの組み合わせで見分ける。"
+        }
+      ],
+      "difference_notes": [
+        "細い塔とバルコニー、周辺のドームが揃うとミナレット建築。"
+      ],
+      "ai_keywords": [
+        "Minaret Architecture",
+        "minaret architecture mosque tower",
+        "slender minaret balcony",
+        "islamic architecture minaret dome",
+        "細塔",
+        "バルコニー",
+        "ドーム",
+        "中庭",
+        "非常に細い塔が空へ伸びる",
+        "途中に張り出したバルコニーがある",
+        "ドームや中庭と組み合わさりやすい"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "宗教建築",
+          "ドーム"
+        ],
+        "materials": [
+          "石材",
+          "タイル",
+          "セラミック"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "夕焼け",
+          "自然光"
+        ],
+        "mood": [
+          "神秘的",
+          "荘厳"
+        ],
+        "settings": [
+          "都市",
+          "塔"
+        ],
+        "era_technology": [
+          "中世",
+          "近世"
+        ],
+        "colors": [
+          "白",
+          "黄土色",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "細塔",
+          "非常に細い塔が空へ伸びる",
+          "宗教建築",
+          "ドーム"
+        ],
+        "secondary_cues": [
+          "バルコニー",
+          "ドーム",
+          "中庭",
+          "乾いた空気"
+        ],
+        "avoid_confusing_with": [
+          "bell_tower_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "minaret architecture mosque tower",
+        "slender minaret balcony",
+        "islamic architecture minaret dome"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/minaret_architecture.png",
+        "image_url": "/app/generated/representatives/minaret_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "白いドームのそばに細長いミナレットが立ち、塔の途中にバルコニーがある",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "pagoda_architecture",
+      "name": "仏塔建築",
+      "reading": "ぶっとうけんちく",
+      "english_name": "Pagoda Architecture",
+      "short_description": "層状に重なる屋根と中心軸が、寺院・祈り・東アジア的な垂直性を示す建築。",
+      "visual_features": [
+        "何層もの屋根が上へ重なる",
+        "屋根の反りや軒が強調される",
+        "寺院境内や庭園と結びつく"
+      ],
+      "common_motifs": [
+        "重層屋根",
+        "相輪",
+        "寺院",
+        "石灯籠"
+      ],
+      "color_tendencies": [
+        "赤",
+        "黒",
+        "緑"
+      ],
+      "material_feel": [
+        "木材",
+        "石材",
+        "瓦"
+      ],
+      "light_air": "自然光、霧、木陰の落ち着いた空気が中心。",
+      "worldview_direction": "祈りを上へ積み重ねるような寺院の象徴塔。",
+      "near_terms": [
+        "stupa_architecture",
+        "templepunk",
+        "monastery_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "stupa_architecture",
+          "difference": "ストゥーパは丸い塚やドーム状の量塊。仏塔建築は重層屋根と軒の反復が主役。"
+        }
+      ],
+      "difference_notes": [
+        "段ではなく、屋根が何層にも重なる塔。"
+      ],
+      "ai_keywords": [
+        "Pagoda Architecture",
+        "pagoda architecture tiered roof",
+        "wooden pagoda temple",
+        "east asian pagoda tower",
+        "重層屋根",
+        "相輪",
+        "寺院",
+        "石灯籠",
+        "何層もの屋根が上へ重なる",
+        "屋根の反りや軒が強調される",
+        "寺院境内や庭園と結びつく"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "宗教建築",
+          "庭園"
+        ],
+        "materials": [
+          "木材",
+          "石材"
+        ],
+        "lighting_air": [
+          "自然光",
+          "霧"
+        ],
+        "mood": [
+          "神秘的",
+          "荘厳"
+        ],
+        "settings": [
+          "庭園",
+          "塔",
+          "森"
+        ],
+        "era_technology": [
+          "古代",
+          "中世"
+        ],
+        "colors": [
+          "赤",
+          "黒",
+          "緑"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "重層屋根",
+          "何層もの屋根が上へ重なる",
+          "宗教建築",
+          "塔"
+        ],
+        "secondary_cues": [
+          "相輪",
+          "寺院",
+          "石灯籠",
+          "庭園"
+        ],
+        "avoid_confusing_with": [
+          "stupa_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "pagoda architecture tiered roof",
+        "wooden pagoda temple",
+        "east asian pagoda tower"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/pagoda_architecture.png",
+        "image_url": "/app/generated/representatives/pagoda_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "寺院の庭に層状の屋根を重ねた木造の仏塔が立っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "stupa_architecture",
+      "name": "ストゥーパ建築",
+      "reading": "ストゥーパけんちく",
+      "english_name": "Stupa Architecture",
+      "short_description": "半球状の塚や尖塔が、巡礼・聖遺物・沈黙した祈りを象徴する建築。",
+      "visual_features": [
+        "丸いドーム状の塚が中心になる",
+        "上部に小さな塔や尖塔が載る",
+        "周囲を巡る参道や祈りの動線がある"
+      ],
+      "common_motifs": [
+        "半球ドーム",
+        "尖塔",
+        "祈りの旗",
+        "巡礼路"
+      ],
+      "color_tendencies": [
+        "白",
+        "金",
+        "黄土色"
+      ],
+      "material_feel": [
+        "石材",
+        "土",
+        "金"
+      ],
+      "light_air": "乾いた光、静かな自然光、聖地の澄んだ空気が中心。",
+      "worldview_direction": "内部よりも外形と巡礼動線で聖性を示す記念碑。",
+      "near_terms": [
+        "pagoda_architecture",
+        "mausoleum_architecture",
+        "ziggurat_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "pagoda_architecture",
+          "difference": "仏塔建築は屋根の層が主役。ストゥーパは丸い塚と上部の尖塔が主役。"
+        }
+      ],
+      "difference_notes": [
+        "半球形の量塊と巡礼の道が見えたらストゥーパ。"
+      ],
+      "ai_keywords": [
+        "Stupa Architecture",
+        "stupa architecture white dome",
+        "buddhist stupa monument",
+        "hemispherical stupa shrine",
+        "半球ドーム",
+        "尖塔",
+        "祈りの旗",
+        "巡礼路",
+        "丸いドーム状の塚が中心になる",
+        "上部に小さな塔や尖塔が載る",
+        "周囲を巡る参道や祈りの動線がある"
+      ],
+      "tags": {
+        "visual_elements": [
+          "ドーム",
+          "宗教建築",
+          "記念碑"
+        ],
+        "materials": [
+          "石材",
+          "土",
+          "金"
+        ],
+        "lighting_air": [
+          "自然光",
+          "乾いた空気"
+        ],
+        "mood": [
+          "神秘的",
+          "荘厳"
+        ],
+        "settings": [
+          "庭園",
+          "砂漠"
+        ],
+        "era_technology": [
+          "古代",
+          "中世"
+        ],
+        "colors": [
+          "白",
+          "金",
+          "黄土色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "半球ドーム",
+          "丸いドーム状の塚が中心になる",
+          "宗教建築",
+          "記念碑"
+        ],
+        "secondary_cues": [
+          "尖塔",
+          "祈りの旗",
+          "巡礼路",
+          "乾いた空気"
+        ],
+        "avoid_confusing_with": [
+          "pagoda_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "stupa architecture white dome",
+        "buddhist stupa monument",
+        "hemispherical stupa shrine"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/stupa_architecture.png",
+        "image_url": "/app/generated/representatives/stupa_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "白い半球状のストゥーパが静かな参道の中央にあり、上部に尖塔が立っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "mausoleum_architecture",
+      "name": "霊廟建築",
+      "reading": "れいびょうけんちく",
+      "english_name": "Mausoleum Architecture",
+      "short_description": "死者や権力者を記念する閉じた記念建築で、墓・庭園・荘厳な対称性を持つ。",
+      "visual_features": [
+        "墓としての建物が単体で強く立つ",
+        "軸線や左右対称が目立つ",
+        "ドームや列柱で荘厳さを出す"
+      ],
+      "common_motifs": [
+        "墓室",
+        "ドーム",
+        "列柱",
+        "参道"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "金"
+      ],
+      "material_feel": [
+        "石材",
+        "大理石",
+        "金"
+      ],
+      "light_air": "静かな自然光、冷たい月光、追悼的な空気が中心。",
+      "worldview_direction": "死者の記憶を建築として固定する静かな権威。",
+      "near_terms": [
+        "necropolis_architecture",
+        "stupa_architecture",
+        "monumentpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "necropolis_architecture",
+          "difference": "霊廟は単体の墓建築。墓地都市は墓や霊廟が都市のように集積する。"
+        }
+      ],
+      "difference_notes": [
+        "単体の記念墓なら霊廟。墓が街のように並ぶなら墓地都市。"
+      ],
+      "ai_keywords": [
+        "Mausoleum Architecture",
+        "mausoleum architecture monumental tomb",
+        "domed mausoleum garden",
+        "stone mausoleum columns",
+        "墓室",
+        "ドーム",
+        "列柱",
+        "参道",
+        "墓としての建物が単体で強く立つ",
+        "軸線や左右対称が目立つ",
+        "ドームや列柱で荘厳さを出す"
+      ],
+      "tags": {
+        "visual_elements": [
+          "記念碑",
+          "ドーム",
+          "アーチ"
+        ],
+        "materials": [
+          "石材",
+          "金"
+        ],
+        "lighting_air": [
+          "自然光",
+          "冷たい月光"
+        ],
+        "mood": [
+          "荘厳",
+          "神秘的",
+          "孤独"
+        ],
+        "settings": [
+          "庭園",
+          "都市"
+        ],
+        "era_technology": [
+          "古代",
+          "近世"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "金"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "墓室",
+          "墓としての建物が単体で強く立つ",
+          "記念碑",
+          "ドーム"
+        ],
+        "secondary_cues": [
+          "列柱",
+          "参道",
+          "庭園",
+          "冷たい月光"
+        ],
+        "avoid_confusing_with": [
+          "necropolis_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "mausoleum architecture monumental tomb",
+        "domed mausoleum garden",
+        "stone mausoleum columns"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/mausoleum_architecture.png",
+        "image_url": "/app/generated/representatives/mausoleum_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "左右対称の庭園の奥に、ドームと列柱を持つ白い霊廟が静かに立っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "necropolis_architecture",
+      "name": "墓地都市",
+      "reading": "ぼちとし",
+      "english_name": "Necropolis Architecture",
+      "short_description": "墓・霊廟・石碑が都市の街路のように連なり、死者のための街に見える空間。",
+      "visual_features": [
+        "墓や小建築が密集して街路を作る",
+        "石碑や霊廟が反復する",
+        "生活都市ではなく死者の都市に見える"
+      ],
+      "common_motifs": [
+        "墓標",
+        "霊廟",
+        "石畳",
+        "糸杉"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "白",
+        "黒"
+      ],
+      "material_feel": [
+        "石材",
+        "煉瓦",
+        "鉄"
+      ],
+      "light_air": "霧、冷たい月光、低照度の静かな空気が中心。",
+      "worldview_direction": "死者の住む都市として、記憶と退廃が街区化した空間。",
+      "near_terms": [
+        "mausoleum_architecture",
+        "catacomb_architecture",
+        "gothic_fantasy"
+      ],
+      "confusable_terms": [
+        {
+          "id": "mausoleum_architecture",
+          "difference": "霊廟は単体の記念墓。墓地都市は墓や霊廟の集積が都市的に見える。"
+        }
+      ],
+      "difference_notes": [
+        "墓が一つではなく、街路や区画を作るほど並ぶ。"
+      ],
+      "ai_keywords": [
+        "Necropolis Architecture",
+        "necropolis architecture city of tombs",
+        "cemetery city mausoleums",
+        "stone tomb streets",
+        "墓標",
+        "霊廟",
+        "石畳",
+        "糸杉",
+        "墓や小建築が密集して街路を作る",
+        "石碑や霊廟が反復する",
+        "生活都市ではなく死者の都市に見える"
+      ],
+      "tags": {
+        "visual_elements": [
+          "記念碑",
+          "宗教建築",
+          "迷宮"
+        ],
+        "materials": [
+          "石材",
+          "煉瓦",
+          "鉄"
+        ],
+        "lighting_air": [
+          "霧",
+          "冷たい月光",
+          "低照度"
+        ],
+        "mood": [
+          "退廃的",
+          "不穏",
+          "荘厳"
+        ],
+        "settings": [
+          "都市",
+          "迷宮"
+        ],
+        "era_technology": [
+          "近世",
+          "近代"
+        ],
+        "colors": [
+          "灰色",
+          "白",
+          "黒"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "墓標",
+          "墓や小建築が密集して街路を作る",
+          "記念碑",
+          "迷宮"
+        ],
+        "secondary_cues": [
+          "霊廟",
+          "石畳",
+          "糸杉",
+          "霧"
+        ],
+        "avoid_confusing_with": [
+          "mausoleum_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "necropolis architecture city of tombs",
+        "cemetery city mausoleums",
+        "stone tomb streets"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/necropolis_architecture.png",
+        "image_url": "/app/generated/representatives/necropolis_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "石の墓標と小さな霊廟が街路のように連なり、霧の中に墓地都市が広がっている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "catacomb_architecture",
+      "name": "カタコンベ建築",
+      "reading": "カタコンベけんちく",
+      "english_name": "Catacomb Architecture",
+      "short_description": "地下の墓室・通路・壁龕が迷路状に続く、閉塞した死者の地下空間。",
+      "visual_features": [
+        "地下の狭い通路が連続する",
+        "壁に墓室や小さな窪みが並ぶ",
+        "低い天井と反復するアーチで迷宮感が出る"
+      ],
+      "common_motifs": [
+        "地下通路",
+        "壁龕",
+        "石壁",
+        "蝋燭"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "黒",
+        "琥珀色"
+      ],
+      "material_feel": [
+        "石材",
+        "土",
+        "煉瓦"
+      ],
+      "light_air": "蝋燭光、低照度、湿気、地下の重い空気が中心。",
+      "worldview_direction": "死者の記憶が地中に折り畳まれた閉塞的な迷宮。",
+      "near_terms": [
+        "necropolis_architecture",
+        "dungeonpunk",
+        "cave_city_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "cave_city_architecture",
+          "difference": "洞窟都市は居住や生活の洞窟空間。カタコンベは地下墓地と壁龕が中心。"
+        }
+      ],
+      "difference_notes": [
+        "居住ではなく、墓室や壁龕が通路に反復する。"
+      ],
+      "ai_keywords": [
+        "Catacomb Architecture",
+        "catacomb architecture underground tomb corridor",
+        "stone catacombs candlelight",
+        "underground burial niches",
+        "地下通路",
+        "壁龕",
+        "石壁",
+        "蝋燭",
+        "地下の狭い通路が連続する",
+        "壁に墓室や小さな窪みが並ぶ",
+        "低い天井と反復するアーチで迷宮感が出る"
+      ],
+      "tags": {
+        "visual_elements": [
+          "地下都市",
+          "迷宮",
+          "蝋燭"
+        ],
+        "materials": [
+          "石材",
+          "土",
+          "煉瓦"
+        ],
+        "lighting_air": [
+          "蝋燭光",
+          "低照度",
+          "湿気"
+        ],
+        "mood": [
+          "不穏",
+          "閉塞的",
+          "退廃的"
+        ],
+        "settings": [
+          "地下",
+          "迷宮"
+        ],
+        "era_technology": [
+          "古代",
+          "中世"
+        ],
+        "colors": [
+          "灰色",
+          "黒",
+          "琥珀色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "地下通路",
+          "地下の狭い通路が連続する",
+          "地下都市",
+          "迷宮"
+        ],
+        "secondary_cues": [
+          "壁龕",
+          "石壁",
+          "蝋燭",
+          "湿気"
+        ],
+        "avoid_confusing_with": [
+          "cave_city_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "catacomb architecture underground tomb corridor",
+        "stone catacombs candlelight",
+        "underground burial niches"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/catacomb_architecture.png",
+        "image_url": "/app/generated/representatives/catacomb_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "蝋燭に照らされた石造りの地下通路の壁に、小さな墓室の窪みが連続している",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "sanatorium_architecture",
+      "name": "サナトリウム建築",
+      "reading": "サナトリウムけんちく",
+      "english_name": "Sanatorium Architecture",
+      "short_description": "療養のための白い長い建物、バルコニー、山林の空気が清潔さと不穏さを併せ持つ建築。",
+      "visual_features": [
+        "森や山の中に白い横長の建物が立つ",
+        "日光浴用のバルコニーやテラスが並ぶ",
+        "病院より静養施設らしい距離感がある"
+      ],
+      "common_motifs": [
+        "長いバルコニー",
+        "白い病棟",
+        "山林",
+        "寝椅子"
+      ],
+      "color_tendencies": [
+        "白",
+        "緑",
+        "灰色"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "ガラス",
+        "タイル"
+      ],
+      "light_air": "白く平坦な光、冷たい自然光、清潔で少し不穏な空気が中心。",
+      "worldview_direction": "健康と隔離が同居する、静かな療養の建築。",
+      "near_terms": [
+        "liminal_space",
+        "research_station_architecture",
+        "brutalism"
+      ],
+      "confusable_terms": [
+        {
+          "id": "liminal_space",
+          "difference": "リミナルスペースは用途不明の空虚さが主役。サナトリウム建築は療養施設の白い建物とバルコニーが主役。"
+        }
+      ],
+      "difference_notes": [
+        "白い長い療養棟と自然の中の隔離感が鍵。"
+      ],
+      "ai_keywords": [
+        "Sanatorium Architecture",
+        "sanatorium architecture white balconies forest",
+        "modernist sanatorium building",
+        "mountain sanatorium terraces",
+        "長いバルコニー",
+        "白い病棟",
+        "山林",
+        "寝椅子",
+        "森や山の中に白い横長の建物が立つ",
+        "日光浴用のバルコニーやテラスが並ぶ",
+        "病院より静養施設らしい距離感がある"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大建築",
+          "無機質"
+        ],
+        "materials": [
+          "コンクリート",
+          "ガラス",
+          "タイル"
+        ],
+        "lighting_air": [
+          "白く平坦な光",
+          "自然光"
+        ],
+        "mood": [
+          "清潔",
+          "不穏",
+          "孤独"
+        ],
+        "settings": [
+          "病院",
+          "森",
+          "雪原"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "白",
+          "緑",
+          "灰色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "長いバルコニー",
+          "森や山の中に白い横長の建物が立つ",
+          "清潔",
+          "病院"
+        ],
+        "secondary_cues": [
+          "白い病棟",
+          "山林",
+          "寝椅子",
+          "白く平坦な光"
+        ],
+        "avoid_confusing_with": [
+          "liminal_space"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "sanatorium architecture white balconies forest",
+        "modernist sanatorium building",
+        "mountain sanatorium terraces"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/sanatorium_architecture.png",
+        "image_url": "/app/generated/representatives/sanatorium_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "山林の中に白い横長の療養施設が立ち、長いバルコニーが静かに並んでいる",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "bathhouse_architecture",
+      "name": "浴場建築",
+      "reading": "よくじょうけんちく",
+      "english_name": "Bathhouse Architecture",
+      "short_description": "湯気、タイル、浴槽、アーチが重なり、身体性と公共性を感じさせる入浴空間。",
+      "visual_features": [
+        "大きな浴槽や水盤が中心になる",
+        "タイルや石の床が濡れて反射する",
+        "湯気とアーチで奥行きがぼやける"
+      ],
+      "common_motifs": [
+        "浴槽",
+        "湯気",
+        "タイル",
+        "アーチ"
+      ],
+      "color_tendencies": [
+        "白",
+        "青",
+        "灰色"
+      ],
+      "material_feel": [
+        "タイル",
+        "石材",
+        "セラミック"
+      ],
+      "light_air": "湿気、湯気、柔らかい自然光や天窓の光が中心。",
+      "worldview_direction": "清潔さと身体性が混ざる公共の水の建築。",
+      "near_terms": [
+        "thermal_spa_architecture",
+        "liminal_space",
+        "templepunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "thermal_spa_architecture",
+          "difference": "温泉保養地建築は自然地形や屋外リゾートが中心。浴場建築は浴槽、タイル、室内の湯気が中心。"
+        }
+      ],
+      "difference_notes": [
+        "室内の水盤、タイル、湯気が主役なら浴場建築。"
+      ],
+      "ai_keywords": [
+        "Bathhouse Architecture",
+        "bathhouse architecture steam tile arches",
+        "public bath interior pools",
+        "thermal bathhouse vaulted ceiling",
+        "浴槽",
+        "湯気",
+        "タイル",
+        "アーチ",
+        "大きな浴槽や水盤が中心になる",
+        "タイルや石の床が濡れて反射する",
+        "湯気とアーチで奥行きがぼやける"
+      ],
+      "tags": {
+        "visual_elements": [
+          "アーチ",
+          "水路"
+        ],
+        "materials": [
+          "タイル",
+          "石材",
+          "セラミック"
+        ],
+        "lighting_air": [
+          "湿気",
+          "自然光",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "清潔",
+          "神秘的"
+        ],
+        "settings": [
+          "商業施設",
+          "水上"
+        ],
+        "era_technology": [
+          "古代",
+          "現代"
+        ],
+        "colors": [
+          "白",
+          "青",
+          "灰色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "浴槽",
+          "大きな浴槽や水盤が中心になる",
+          "タイル",
+          "湿気"
+        ],
+        "secondary_cues": [
+          "湯気",
+          "アーチ",
+          "水路",
+          "自然光"
+        ],
+        "avoid_confusing_with": [
+          "thermal_spa_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "bathhouse architecture steam tile arches",
+        "public bath interior pools",
+        "thermal bathhouse vaulted ceiling"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/bathhouse_architecture.png",
+        "image_url": "/app/generated/representatives/bathhouse_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "タイル張りの大きな浴場に湯気が漂い、アーチの奥に水面が反射している",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "thermal_spa_architecture",
+      "name": "温泉保養地建築",
+      "reading": "おんせんほようちけんちく",
+      "english_name": "Thermal Spa Architecture",
+      "short_description": "自然地形と湯けむり、露天風呂、保養施設が組み合わさる温泉リゾート的な建築。",
+      "visual_features": [
+        "屋外の湯やプールが自然地形とつながる",
+        "湯けむりが風景全体に漂う",
+        "保養施設や回廊が水辺に沿って並ぶ"
+      ],
+      "common_motifs": [
+        "露天風呂",
+        "湯けむり",
+        "岩場",
+        "保養棟"
+      ],
+      "color_tendencies": [
+        "白",
+        "緑",
+        "青"
+      ],
+      "material_feel": [
+        "石材",
+        "木材",
+        "タイル"
+      ],
+      "light_air": "湿気、自然光、朝霧、湯けむりの柔らかい空気が中心。",
+      "worldview_direction": "自然と療養が一体化した、水と蒸気の保養風景。",
+      "near_terms": [
+        "bathhouse_architecture",
+        "oasis_city_architecture",
+        "solarpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "bathhouse_architecture",
+          "difference": "浴場建築は室内や公共浴場の構成。温泉保養地建築は自然地形と屋外の湯が中心。"
+        }
+      ],
+      "difference_notes": [
+        "屋外の湯、岩場、保養地の景色が見える。"
+      ],
+      "ai_keywords": [
+        "Thermal Spa Architecture",
+        "thermal spa architecture outdoor hot springs",
+        "hot spring resort architecture steam",
+        "terraced thermal pools nature",
+        "露天風呂",
+        "湯けむり",
+        "岩場",
+        "保養棟",
+        "屋外の湯やプールが自然地形とつながる",
+        "湯けむりが風景全体に漂う",
+        "保養施設や回廊が水辺に沿って並ぶ"
+      ],
+      "tags": {
+        "visual_elements": [
+          "水路",
+          "庭園",
+          "蒸気"
+        ],
+        "materials": [
+          "石材",
+          "木材",
+          "タイル"
+        ],
+        "lighting_air": [
+          "湿気",
+          "自然光",
+          "霧"
+        ],
+        "mood": [
+          "牧歌的",
+          "神秘的",
+          "清潔"
+        ],
+        "settings": [
+          "森",
+          "庭園",
+          "水上"
+        ],
+        "era_technology": [
+          "現代",
+          "近世"
+        ],
+        "colors": [
+          "白",
+          "緑",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "露天風呂",
+          "屋外の湯やプールが自然地形とつながる",
+          "水路",
+          "湿気"
+        ],
+        "secondary_cues": [
+          "湯けむり",
+          "岩場",
+          "保養棟",
+          "森"
+        ],
+        "avoid_confusing_with": [
+          "bathhouse_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "thermal spa architecture outdoor hot springs",
+        "hot spring resort architecture steam",
+        "terraced thermal pools nature"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/thermal_spa_architecture.png",
+        "image_url": "/app/generated/representatives/thermal_spa_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "森と岩場の中に露天の温泉プールと保養棟があり、湯けむりが朝霧のように漂っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "green_roof_architecture",
+      "name": "屋上緑化建築",
+      "reading": "おくじょうりょっかけんちく",
+      "english_name": "Green Roof Architecture",
+      "short_description": "屋根やテラスに植物を載せ、建築の水平面を庭園化する都市型の緑化表現。",
+      "visual_features": [
+        "屋根面や段状テラスが植物で覆われる",
+        "建物の輪郭と緑の層が同時に見える",
+        "都市の中に庭園の水平面が浮かぶ"
+      ],
+      "common_motifs": [
+        "屋上庭園",
+        "植栽テラス",
+        "雨水利用",
+        "ガラス外壁"
+      ],
+      "color_tendencies": [
+        "緑",
+        "白",
+        "灰色"
+      ],
+      "material_feel": [
+        "植物",
+        "コンクリート",
+        "ガラス"
+      ],
+      "light_air": "自然光、温室光、清潔な都市の空気が中心。",
+      "worldview_direction": "都市の硬い構造を植物でやわらげる実用的な緑の建築。",
+      "near_terms": [
+        "solarpunk",
+        "arcologypunk",
+        "terraced_city_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "solarpunk",
+          "difference": "ソーラーパンクは社会像や再生可能エネルギーまで含む。屋上緑化建築は屋根やテラスの植栽そのものが中心。"
+        }
+      ],
+      "difference_notes": [
+        "太陽光や理想社会より、屋根面の緑化に注目する。"
+      ],
+      "ai_keywords": [
+        "Green Roof Architecture",
+        "green roof architecture rooftop garden",
+        "building with planted terraces",
+        "urban green roof design",
+        "屋上庭園",
+        "植栽テラス",
+        "雨水利用",
+        "ガラス外壁",
+        "屋根面や段状テラスが植物で覆われる",
+        "建物の輪郭と緑の層が同時に見える",
+        "都市の中に庭園の水平面が浮かぶ"
+      ],
+      "tags": {
+        "visual_elements": [
+          "庭園",
+          "温室",
+          "高層ビル"
+        ],
+        "materials": [
+          "植物",
+          "コンクリート",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "自然光",
+          "温室光"
+        ],
+        "mood": [
+          "牧歌的",
+          "清潔",
+          "未来的"
+        ],
+        "settings": [
+          "都市",
+          "庭園"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "緑",
+          "白",
+          "灰色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "屋上庭園",
+          "屋根面や段状テラスが植物で覆われる",
+          "庭園",
+          "植物"
+        ],
+        "secondary_cues": [
+          "植栽テラス",
+          "雨水利用",
+          "ガラス外壁",
+          "都市"
+        ],
+        "avoid_confusing_with": [
+          "solarpunk"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "green roof architecture rooftop garden",
+        "building with planted terraces",
+        "urban green roof design"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/green_roof_architecture.png",
+        "image_url": "/app/generated/representatives/green_roof_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "都市の建物の屋根と段状テラスが植栽で覆われ、上から見ると庭園の層になっている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "treehouse_architecture",
+      "name": "ツリーハウス建築",
+      "reading": "ツリーハウスけんちく",
+      "english_name": "Treehouse Architecture",
+      "short_description": "樹木に支えられた小屋や歩廊が、森の中の空中居住と手作り感を示す建築。",
+      "visual_features": [
+        "大きな樹木の幹や枝に建物が絡む",
+        "木製の足場や吊橋で部屋がつながる",
+        "地面から浮いた居住空間に見える"
+      ],
+      "common_motifs": [
+        "大樹",
+        "木の小屋",
+        "吊橋",
+        "縄梯子"
+      ],
+      "color_tendencies": [
+        "緑",
+        "錆色",
+        "アースカラー"
+      ],
+      "material_feel": [
+        "木材",
+        "布",
+        "植物"
+      ],
+      "light_air": "木漏れ日、自然光、森の湿った空気が中心。",
+      "worldview_direction": "森と住居が混ざる、軽く浮いた生活の建築。",
+      "near_terms": [
+        "greenhousepunk",
+        "green_roof_architecture",
+        "solarpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "green_roof_architecture",
+          "difference": "屋上緑化建築は建物の上に植物が載る。ツリーハウス建築は樹木そのものが構造や足場になる。"
+        }
+      ],
+      "difference_notes": [
+        "植物が飾りではなく、建物を支える大樹として見える。"
+      ],
+      "ai_keywords": [
+        "Treehouse Architecture",
+        "treehouse architecture forest bridges",
+        "tree dwelling wooden platforms",
+        "large treehouse village",
+        "大樹",
+        "木の小屋",
+        "吊橋",
+        "縄梯子",
+        "大きな樹木の幹や枝に建物が絡む",
+        "木製の足場や吊橋で部屋がつながる",
+        "地面から浮いた居住空間に見える"
+      ],
+      "tags": {
+        "visual_elements": [
+          "空中回廊",
+          "庭園",
+          "橋"
+        ],
+        "materials": [
+          "木材",
+          "布",
+          "植物"
+        ],
+        "lighting_air": [
+          "自然光",
+          "湿気"
+        ],
+        "mood": [
+          "牧歌的",
+          "冒険的"
+        ],
+        "settings": [
+          "森",
+          "空中",
+          "居住区"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "緑",
+          "錆色",
+          "アースカラー"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "大樹",
+          "大きな樹木の幹や枝に建物が絡む",
+          "木材",
+          "森"
+        ],
+        "secondary_cues": [
+          "木の小屋",
+          "吊橋",
+          "縄梯子",
+          "空中回廊"
+        ],
+        "avoid_confusing_with": [
+          "green_roof_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "treehouse architecture forest bridges",
+        "tree dwelling wooden platforms",
+        "large treehouse village"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/treehouse_architecture.png",
+        "image_url": "/app/generated/representatives/treehouse_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "巨大な樹木の枝に木製の小屋が複数つながり、吊橋が森の中を渡っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "suspension_bridge_architecture",
+      "name": "吊橋建築",
+      "reading": "つりばしけんちく",
+      "english_name": "Suspension Bridge Architecture",
+      "short_description": "主塔、ケーブル、長い橋桁が大きな弧を描き、谷や水域を越える構造美を持つ橋梁。",
+      "visual_features": [
+        "高い主塔から太いケーブルが垂れる",
+        "橋桁が長く水平に伸びる",
+        "谷や海峡をまたぐスケール感が強い"
+      ],
+      "common_motifs": [
+        "主塔",
+        "メインケーブル",
+        "吊り材",
+        "橋桁"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "赤",
+        "白"
+      ],
+      "material_feel": [
+        "鋼鉄",
+        "コンクリート",
+        "ワイヤー"
+      ],
+      "light_air": "高所の風、霧、夕焼け、強い逆光が中心。",
+      "worldview_direction": "距離や断絶を巨大な線でつなぐインフラの象徴。",
+      "near_terms": [
+        "viaduct_architecture",
+        "bridgepunk",
+        "megastructure_punk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "viaduct_architecture",
+          "difference": "高架橋は橋脚の反復が主役。吊橋建築は主塔とケーブルの大きな曲線が主役。"
+        }
+      ],
+      "difference_notes": [
+        "ケーブルが垂れ、主塔から橋桁を吊る構造が見える。"
+      ],
+      "ai_keywords": [
+        "Suspension Bridge Architecture",
+        "suspension bridge architecture cables",
+        "large suspension bridge towers",
+        "bridge cables fog",
+        "主塔",
+        "メインケーブル",
+        "吊り材",
+        "橋桁",
+        "高い主塔から太いケーブルが垂れる",
+        "橋桁が長く水平に伸びる",
+        "谷や海峡をまたぐスケール感が強い"
+      ],
+      "tags": {
+        "visual_elements": [
+          "橋",
+          "巨大建築",
+          "空中回廊"
+        ],
+        "materials": [
+          "鋼鉄",
+          "コンクリート",
+          "鉄"
+        ],
+        "lighting_air": [
+          "高所の風",
+          "霧",
+          "夕焼け"
+        ],
+        "mood": [
+          "記念碑的",
+          "冒険的"
+        ],
+        "settings": [
+          "橋梁",
+          "港湾",
+          "空中"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "灰色",
+          "赤",
+          "白"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "主塔",
+          "高い主塔から太いケーブルが垂れる",
+          "橋",
+          "巨大建築"
+        ],
+        "secondary_cues": [
+          "メインケーブル",
+          "吊り材",
+          "橋桁",
+          "高所の風"
+        ],
+        "avoid_confusing_with": [
+          "viaduct_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "suspension bridge architecture cables",
+        "large suspension bridge towers",
+        "bridge cables fog"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/suspension_bridge_architecture.png",
+        "image_url": "/app/generated/representatives/suspension_bridge_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "巨大な吊橋の主塔から太いケーブルが大きな弧を描き、海峡を越えて伸びている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "dam_spillway_architecture",
+      "name": "放水路建築",
+      "reading": "ほうすいろけんちく",
+      "english_name": "Dam Spillway Architecture",
+      "short_description": "ダムの巨大なコンクリート面と水の落下・排水が、圧倒的な土木スケールを見せる構造。",
+      "visual_features": [
+        "巨大な壁面や水門が水を受け止める",
+        "放水路を白い水が流れ落ちる",
+        "人間のスケールが極端に小さく見える"
+      ],
+      "common_motifs": [
+        "水門",
+        "放水路",
+        "落水",
+        "監視通路"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "白",
+        "青"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "水"
+      ],
+      "light_air": "水しぶき、強い逆光、湿気、轟音を感じる空気が中心。",
+      "worldview_direction": "水の力を巨大な土木構造で制御する圧倒的なインフラ。",
+      "near_terms": [
+        "dampunk",
+        "power_plant_architecture",
+        "brutalism"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dampunk",
+          "difference": "ダムパンクはダム都市や世界観まで含む。放水路建築は水門・放水・落水の構造そのものが中心。"
+        }
+      ],
+      "difference_notes": [
+        "都市ではなく、放水路と落水の見た目を逆引きしたい時に使う。"
+      ],
+      "ai_keywords": [
+        "Dam Spillway Architecture",
+        "dam spillway architecture water release",
+        "concrete spillway massive dam",
+        "hydroelectric dam spillway",
+        "水門",
+        "放水路",
+        "落水",
+        "監視通路",
+        "巨大な壁面や水門が水を受け止める",
+        "放水路を白い水が流れ落ちる",
+        "人間のスケールが極端に小さく見える"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大ダム",
+          "水路",
+          "巨大建築"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄"
+        ],
+        "lighting_air": [
+          "湿気",
+          "強い逆光"
+        ],
+        "mood": [
+          "記念碑的",
+          "無機質"
+        ],
+        "settings": [
+          "ダム",
+          "発電所"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "灰色",
+          "白",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "水門",
+          "巨大な壁面や水門が水を受け止める",
+          "巨大ダム",
+          "水路"
+        ],
+        "secondary_cues": [
+          "放水路",
+          "落水",
+          "監視通路",
+          "湿気"
+        ],
+        "avoid_confusing_with": [
+          "dampunk"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "dam spillway architecture water release",
+        "concrete spillway massive dam",
+        "hydroelectric dam spillway"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/dam_spillway_architecture.png",
+        "image_url": "/app/generated/representatives/dam_spillway_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "巨大なコンクリートダムの水門から白い水が放水路へ勢いよく流れ落ちている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "cooling_tower_architecture",
+      "name": "冷却塔建築",
+      "reading": "れいきゃくとうけんちく",
+      "english_name": "Cooling Tower Architecture",
+      "short_description": "くびれた巨大な双曲面の塔と白い蒸気が、発電所や工業地帯の記号になる建築。",
+      "visual_features": [
+        "腰のくびれた巨大な筒状塔が立つ",
+        "上部から白い蒸気が上がる",
+        "発電所の低い建屋と組み合わさる"
+      ],
+      "common_motifs": [
+        "双曲面塔",
+        "白い蒸気",
+        "発電所",
+        "配管"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "白",
+        "青"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "配管"
+      ],
+      "light_air": "白い蒸気、低い雲、工業地帯の湿った空気が中心。",
+      "worldview_direction": "巨大なエネルギー施設の存在を空に描く産業的ランドマーク。",
+      "near_terms": [
+        "power_plant_architecture",
+        "gasometer_architecture",
+        "brutalism"
+      ],
+      "confusable_terms": [
+        {
+          "id": "gasometer_architecture",
+          "difference": "ガスタンクは円筒タンクや外部フレームが中心。冷却塔はくびれた双曲面塔と蒸気が中心。"
+        }
+      ],
+      "difference_notes": [
+        "くびれた巨大筒と白い蒸気で見分ける。"
+      ],
+      "ai_keywords": [
+        "Cooling Tower Architecture",
+        "cooling tower architecture steam",
+        "hyperboloid cooling towers power plant",
+        "industrial cooling tower silhouette",
+        "双曲面塔",
+        "白い蒸気",
+        "発電所",
+        "配管",
+        "腰のくびれた巨大な筒状塔が立つ",
+        "上部から白い蒸気が上がる",
+        "発電所の低い建屋と組み合わさる"
+      ],
+      "tags": {
+        "visual_elements": [
+          "発電施設",
+          "塔",
+          "配管"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄",
+          "鉄"
+        ],
+        "lighting_air": [
+          "煤けた空気",
+          "湿気",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "無機質",
+          "不穏",
+          "記念碑的"
+        ],
+        "settings": [
+          "発電所",
+          "工場",
+          "塔"
+        ],
+        "era_technology": [
+          "現代",
+          "冷戦期"
+        ],
+        "colors": [
+          "灰色",
+          "白",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "双曲面塔",
+          "腰のくびれた巨大な筒状塔が立つ",
+          "発電施設",
+          "塔"
+        ],
+        "secondary_cues": [
+          "白い蒸気",
+          "発電所",
+          "配管",
+          "煤けた空気"
+        ],
+        "avoid_confusing_with": [
+          "gasometer_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "cooling tower architecture steam",
+        "hyperboloid cooling towers power plant",
+        "industrial cooling tower silhouette"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/cooling_tower_architecture.png",
+        "image_url": "/app/generated/representatives/cooling_tower_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "発電所の敷地にくびれた巨大な冷却塔が並び、上部から白い蒸気が立ち上っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "gasometer_architecture",
+      "name": "ガスタンク建築",
+      "reading": "ガスタンクけんちく",
+      "english_name": "Gasometer Architecture",
+      "short_description": "大きな円筒タンクや鉄骨フレームが、都市の縁にある産業遺産のような存在感を作る建築。",
+      "visual_features": [
+        "巨大な円筒形のタンクが主役になる",
+        "外周に鉄骨フレームやリベットが見える",
+        "工業地帯や都市の端に単独で立つ"
+      ],
+      "common_motifs": [
+        "円筒タンク",
+        "鉄骨フレーム",
+        "配管",
+        "工業フェンス"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "錆色",
+        "黒"
+      ],
+      "material_feel": [
+        "鋼鉄",
+        "鉄",
+        "配管"
+      ],
+      "light_air": "煤けた空気、曇天、夕焼け、工業地帯の乾いた空気が中心。",
+      "worldview_direction": "都市インフラの裏側が巨大な容器として露出した風景。",
+      "near_terms": [
+        "cooling_tower_architecture",
+        "harbor_industrial_architecture",
+        "factorypunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "cooling_tower_architecture",
+          "difference": "冷却塔はくびれた塔と蒸気。ガスタンクは円筒タンクと外部鉄骨フレームが主役。"
+        }
+      ],
+      "difference_notes": [
+        "くびれず、円筒タンクや骨組みが見えたらガスタンク建築。"
+      ],
+      "ai_keywords": [
+        "Gasometer Architecture",
+        "gasometer architecture industrial gas holder",
+        "gas tank iron frame",
+        "urban gasometer structure",
+        "円筒タンク",
+        "鉄骨フレーム",
+        "配管",
+        "工業フェンス",
+        "巨大な円筒形のタンクが主役になる",
+        "外周に鉄骨フレームやリベットが見える",
+        "工業地帯や都市の端に単独で立つ"
+      ],
+      "tags": {
+        "visual_elements": [
+          "廃工場",
+          "配管",
+          "塔"
+        ],
+        "materials": [
+          "鋼鉄",
+          "鉄"
+        ],
+        "lighting_air": [
+          "煤けた空気",
+          "夕焼け",
+          "乾いた空気"
+        ],
+        "mood": [
+          "無機質",
+          "退廃的",
+          "産業革命風"
+        ],
+        "settings": [
+          "工場",
+          "都市",
+          "港湾"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "灰色",
+          "錆色",
+          "黒"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "円筒タンク",
+          "巨大な円筒形のタンクが主役になる",
+          "廃工場",
+          "鋼鉄"
+        ],
+        "secondary_cues": [
+          "鉄骨フレーム",
+          "配管",
+          "工業フェンス",
+          "煤けた空気"
+        ],
+        "avoid_confusing_with": [
+          "cooling_tower_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "gasometer architecture industrial gas holder",
+        "gas tank iron frame",
+        "urban gasometer structure"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/gasometer_architecture.png",
+        "image_url": "/app/generated/representatives/gasometer_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "都市の端に巨大な円筒形のガスタンクが立ち、外周を鉄骨フレームが囲んでいる",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "grain_silo_architecture",
+      "name": "穀物サイロ建築",
+      "reading": "こくもつサイロけんちく",
+      "english_name": "Grain Silo Architecture",
+      "short_description": "縦長の円筒サイロ群、搬送設備、穀物倉庫が反復する農業インフラの建築。",
+      "visual_features": [
+        "複数の細長い円筒が束になって立つ",
+        "上部に搬送橋やコンベヤがある",
+        "農村と工業の中間のように見える"
+      ],
+      "common_motifs": [
+        "円筒サイロ",
+        "穀物倉庫",
+        "コンベヤ",
+        "貨車"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "錆色"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "鉄"
+      ],
+      "light_air": "乾いた空気、夕焼け、粉っぽい白い光が中心。",
+      "worldview_direction": "食料の大量保管が塔の反復として現れる農業工業風景。",
+      "near_terms": [
+        "factorypunk",
+        "gasometer_architecture",
+        "water_tower_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "gasometer_architecture",
+          "difference": "ガスタンクは単体の巨大円筒が多い。穀物サイロは細い円筒が束になり、搬送設備が付く。"
+        }
+      ],
+      "difference_notes": [
+        "円筒が複数束になり、穀物搬送の設備が見える。"
+      ],
+      "ai_keywords": [
+        "Grain Silo Architecture",
+        "grain silo architecture concrete cylinders",
+        "industrial grain elevator silos",
+        "rural grain silo complex",
+        "円筒サイロ",
+        "穀物倉庫",
+        "コンベヤ",
+        "貨車",
+        "複数の細長い円筒が束になって立つ",
+        "上部に搬送橋やコンベヤがある",
+        "農村と工業の中間のように見える"
+      ],
+      "tags": {
+        "visual_elements": [
+          "廃工場",
+          "塔",
+          "配管"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄",
+          "鉄"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "夕焼け"
+        ],
+        "mood": [
+          "無機質",
+          "牧歌的",
+          "産業革命風"
+        ],
+        "settings": [
+          "工場",
+          "荒野",
+          "駅"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "錆色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "円筒サイロ",
+          "複数の細長い円筒が束になって立つ",
+          "塔",
+          "乾いた空気"
+        ],
+        "secondary_cues": [
+          "穀物倉庫",
+          "コンベヤ",
+          "貨車",
+          "荒野"
+        ],
+        "avoid_confusing_with": [
+          "gasometer_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "grain silo architecture concrete cylinders",
+        "industrial grain elevator silos",
+        "rural grain silo complex"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/grain_silo_architecture.png",
+        "image_url": "/app/generated/representatives/grain_silo_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "細長いコンクリートの穀物サイロが束になって並び、上部にコンベヤの構造が渡っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "water_tower_architecture",
+      "name": "給水塔建築",
+      "reading": "きゅうすいとうけんちく",
+      "english_name": "Water Tower Architecture",
+      "short_description": "脚の上に載った水槽や高いタンクが、小さな町や施設の生活インフラを象徴する建築。",
+      "visual_features": [
+        "高い脚や塔の上に水槽が載る",
+        "球形や円筒形のタンクが遠くから見える",
+        "住宅地や工場の上に単独で立つ"
+      ],
+      "common_motifs": [
+        "高架水槽",
+        "鉄脚",
+        "梯子",
+        "配管"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "錆色"
+      ],
+      "material_feel": [
+        "鋼鉄",
+        "鉄",
+        "コンクリート"
+      ],
+      "light_air": "乾いた空気、夕焼け、郊外の静かな光が中心。",
+      "worldview_direction": "日常のインフラが街の小さなランドマークとして立ち上がる風景。",
+      "near_terms": [
+        "lighthouse_architecture",
+        "telecom_tower_architecture",
+        "grain_silo_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "lighthouse_architecture",
+          "difference": "灯台は海辺の灯室が主役。給水塔は脚の上の水槽やタンクが主役。"
+        }
+      ],
+      "difference_notes": [
+        "光を出す塔ではなく、水槽を高所に置く構造。"
+      ],
+      "ai_keywords": [
+        "Water Tower Architecture",
+        "water tower architecture elevated tank",
+        "small town water tower steel legs",
+        "industrial water tower silhouette",
+        "高架水槽",
+        "鉄脚",
+        "梯子",
+        "配管",
+        "高い脚や塔の上に水槽が載る",
+        "球形や円筒形のタンクが遠くから見える",
+        "住宅地や工場の上に単独で立つ"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "配管",
+          "巨大建築"
+        ],
+        "materials": [
+          "鋼鉄",
+          "鉄",
+          "コンクリート"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "夕焼け"
+        ],
+        "mood": [
+          "孤独",
+          "無機質",
+          "共同体的"
+        ],
+        "settings": [
+          "都市",
+          "工場",
+          "塔"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "錆色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "高架水槽",
+          "高い脚や塔の上に水槽が載る",
+          "塔",
+          "配管"
+        ],
+        "secondary_cues": [
+          "鉄脚",
+          "梯子",
+          "配管",
+          "乾いた空気"
+        ],
+        "avoid_confusing_with": [
+          "lighthouse_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "water tower architecture elevated tank",
+        "small town water tower steel legs",
+        "industrial water tower silhouette"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/water_tower_architecture.png",
+        "image_url": "/app/generated/representatives/water_tower_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "鉄脚の上に白い水槽を載せた給水塔が、夕暮れの小さな町の上に立っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
     }
   ],
   "comparison_groups": [
@@ -14221,6 +16863,98 @@
         "保管棚ならアーカイブ。",
         "回廊と居室があれば修道院。",
         "アーチ通路そのものなら回廊。"
+      ]
+    },
+    {
+      "id": "vertical_landmark_towers",
+      "terms": [
+        "lighthouse_architecture",
+        "clocktower_architecture",
+        "bell_tower_architecture",
+        "minaret_architecture",
+        "telecom_tower_architecture",
+        "water_tower_architecture"
+      ],
+      "summary": "灯台は海辺の灯室、時計塔は時計盤、鐘楼は鐘室、ミナレットは細塔とバルコニー、通信塔はアンテナ、給水塔は高架水槽で見分ける。",
+      "quick_check": [
+        "海辺で光を放つなら灯台。",
+        "大きな時計盤なら時計塔。",
+        "鐘が見えるなら鐘楼。",
+        "細塔とバルコニーならミナレット。",
+        "アンテナなら通信塔。",
+        "脚上の水槽なら給水塔。"
+      ]
+    },
+    {
+      "id": "sacred_and_funeral_monuments",
+      "terms": [
+        "pagoda_architecture",
+        "stupa_architecture",
+        "mausoleum_architecture",
+        "necropolis_architecture",
+        "ziggurat_architecture",
+        "pyramid_city_architecture"
+      ],
+      "summary": "仏塔は重層屋根、ストゥーパは半球塚、霊廟は単体の墓建築、墓地都市は墓の集積、ジッグラトは階段状神殿、ピラミッド都市は滑らかな巨大三角量塊で見分ける。",
+      "quick_check": [
+        "屋根が何層も重なるなら仏塔。",
+        "丸い塚ならストゥーパ。",
+        "単体の墓建築なら霊廟。",
+        "墓が街路のように並ぶなら墓地都市。",
+        "階段状神殿ならジッグラト。",
+        "滑らかなピラミッド量塊ならピラミッド都市。"
+      ]
+    },
+    {
+      "id": "burial_underground_spaces",
+      "terms": [
+        "necropolis_architecture",
+        "catacomb_architecture",
+        "mausoleum_architecture",
+        "cave_city_architecture",
+        "dungeonpunk"
+      ],
+      "summary": "墓地都市は地上の墓の街、カタコンベは地下墓地の通路、霊廟は単体墓、洞窟都市は生活空間、ダンジョンパンクは冒険用の地下迷宮として見分ける。",
+      "quick_check": [
+        "墓が地上に街のように並ぶなら墓地都市。",
+        "壁龕の地下通路ならカタコンベ。",
+        "単体の墓建築なら霊廟。",
+        "洞窟内に居住の痕跡があるなら洞窟都市。",
+        "罠や探索感が強ければダンジョンパンク。"
+      ]
+    },
+    {
+      "id": "industrial_cylindrical_infrastructure",
+      "terms": [
+        "cooling_tower_architecture",
+        "gasometer_architecture",
+        "grain_silo_architecture",
+        "water_tower_architecture",
+        "power_plant_architecture"
+      ],
+      "summary": "冷却塔はくびれた塔と蒸気、ガスタンクは円筒タンクと鉄骨、穀物サイロは細い円筒の束、給水塔は脚上の水槽、発電所は設備群全体で見分ける。",
+      "quick_check": [
+        "くびれた巨大筒と蒸気なら冷却塔。",
+        "円筒タンクを鉄骨が囲むならガスタンク。",
+        "細いサイロが束になれば穀物サイロ。",
+        "高い脚の上に水槽があれば給水塔。",
+        "タービン建屋や送電設備まで含めるなら発電所建築。"
+      ]
+    },
+    {
+      "id": "wellness_and_bathing_architecture",
+      "terms": [
+        "sanatorium_architecture",
+        "bathhouse_architecture",
+        "thermal_spa_architecture",
+        "liminal_space"
+      ],
+      "summary": "サナトリウムは白い療養棟、浴場は室内の浴槽とタイル、温泉保養地は自然地形と屋外の湯、リミナルスペースは用途より空虚さが中心。",
+      "quick_check": [
+        "白い療養棟とバルコニーならサナトリウム。",
+        "室内の浴槽とタイルなら浴場建築。",
+        "自然の中の露天湯なら温泉保養地建築。",
+        "用途より空虚さが目立つならリミナルスペース。"
       ]
     }
   ],
