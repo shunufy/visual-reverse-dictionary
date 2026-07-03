@@ -16612,6 +16612,2637 @@
         "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
       },
       "selected_images": []
+    },
+    {
+      "id": "watchtower_architecture",
+      "name": "監視塔建築",
+      "reading": "かんしとうけんちく",
+      "english_name": "Watchtower Architecture",
+      "short_description": "見張り台、狭い窓、周囲を見渡す高所性で、警戒と境界を示す塔建築。",
+      "visual_features": [
+        "周囲を見渡すための高い塔になる",
+        "上部に見張り台や小さな開口がある",
+        "城壁や荒野の境界に単独で立つ"
+      ],
+      "common_motifs": [
+        "見張り台",
+        "狭間窓",
+        "外階段",
+        "旗"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "錆色",
+        "黄土色"
+      ],
+      "material_feel": [
+        "石材",
+        "木材",
+        "鉄"
+      ],
+      "light_air": "乾いた空気、夕焼け、高所の風が中心。",
+      "worldview_direction": "境界を監視し、外部からの侵入を予感させる警戒の建築。",
+      "near_terms": [
+        "lighthouse_architecture",
+        "telecom_tower_architecture",
+        "citadel_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "telecom_tower_architecture",
+          "difference": "通信塔はアンテナ設備が主役。監視塔建築は人が見張るための台や窓が主役。"
+        }
+      ],
+      "difference_notes": [
+        "信号や水槽ではなく、見張るための人間的な台がある。"
+      ],
+      "ai_keywords": [
+        "Watchtower Architecture",
+        "watchtower architecture lookout tower",
+        "stone watchtower frontier",
+        "medieval watch tower",
+        "見張り台",
+        "狭間窓",
+        "外階段",
+        "旗",
+        "周囲を見渡すための高い塔になる",
+        "上部に見張り台や小さな開口がある",
+        "城壁や荒野の境界に単独で立つ"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "要塞"
+        ],
+        "materials": [
+          "石材",
+          "木材",
+          "鉄"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "夕焼け",
+          "高所の風"
+        ],
+        "mood": [
+          "軍事的",
+          "孤独",
+          "不穏"
+        ],
+        "settings": [
+          "要塞",
+          "荒野",
+          "塔"
+        ],
+        "era_technology": [
+          "中世",
+          "近代"
+        ],
+        "colors": [
+          "灰色",
+          "錆色",
+          "黄土色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "見張り台",
+          "周囲を見渡すための高い塔になる",
+          "塔",
+          "要塞"
+        ],
+        "secondary_cues": [
+          "狭間窓",
+          "外階段",
+          "旗",
+          "荒野"
+        ],
+        "avoid_confusing_with": [
+          "telecom_tower_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "watchtower architecture lookout tower",
+        "stone watchtower frontier",
+        "medieval watch tower"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/watchtower_architecture.png",
+        "image_url": "/app/generated/representatives/watchtower_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "荒野の境界に石造りの監視塔が立ち、上部の見張り台から周囲を見渡せる",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "gatehouse_architecture",
+      "name": "門楼建築",
+      "reading": "もんろうけんちく",
+      "english_name": "Gatehouse Architecture",
+      "short_description": "城門や都市門の上に部屋や塔を載せ、入口を守る構えを見せる建築。",
+      "visual_features": [
+        "大きな門口と上部の建物が一体化する",
+        "左右に塔や厚い壁が付く",
+        "通過点であり防御点でもある"
+      ],
+      "common_motifs": [
+        "門口",
+        "落とし格子",
+        "双塔",
+        "城壁"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "黄土色",
+        "錆色"
+      ],
+      "material_feel": [
+        "石材",
+        "木材",
+        "鉄"
+      ],
+      "light_air": "低い影、門の奥の暗がり、石の冷たい空気が中心。",
+      "worldview_direction": "内と外を切り分け、入場の緊張感を作る境界建築。",
+      "near_terms": [
+        "walled_city_architecture",
+        "fortress_city_architecture",
+        "citadel_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "triumphal_arch_architecture",
+          "difference": "凱旋門は記念碑性が中心。門楼建築は防御と通過管理が中心。"
+        }
+      ],
+      "difference_notes": [
+        "門の上に守備用の建物や塔が載る。"
+      ],
+      "ai_keywords": [
+        "Gatehouse Architecture",
+        "gatehouse architecture castle gate",
+        "fortified gatehouse towers",
+        "medieval city gate architecture",
+        "門口",
+        "落とし格子",
+        "双塔",
+        "城壁",
+        "大きな門口と上部の建物が一体化する",
+        "左右に塔や厚い壁が付く",
+        "通過点であり防御点でもある"
+      ],
+      "tags": {
+        "visual_elements": [
+          "要塞",
+          "アーチ",
+          "巨大壁"
+        ],
+        "materials": [
+          "石材",
+          "木材",
+          "鉄"
+        ],
+        "lighting_air": [
+          "低照度",
+          "自然光"
+        ],
+        "mood": [
+          "軍事的",
+          "荘厳",
+          "不穏"
+        ],
+        "settings": [
+          "要塞",
+          "都市"
+        ],
+        "era_technology": [
+          "中世",
+          "近世"
+        ],
+        "colors": [
+          "灰色",
+          "黄土色",
+          "錆色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "門口",
+          "大きな門口と上部の建物が一体化する",
+          "要塞",
+          "アーチ"
+        ],
+        "secondary_cues": [
+          "落とし格子",
+          "双塔",
+          "城壁",
+          "低照度"
+        ],
+        "avoid_confusing_with": [
+          "triumphal_arch_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "gatehouse architecture castle gate",
+        "fortified gatehouse towers",
+        "medieval city gate architecture"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/gatehouse_architecture.png",
+        "image_url": "/app/generated/representatives/gatehouse_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "厚い城壁の中央に大きな門楼があり、左右の塔と落とし格子が入口を守っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "triumphal_arch_architecture",
+      "name": "凱旋門建築",
+      "reading": "がいせんもんけんちく",
+      "english_name": "Triumphal Arch Architecture",
+      "short_description": "大きなアーチと彫刻的な量感で、勝利・記念・都市軸を象徴する門型記念碑。",
+      "visual_features": [
+        "巨大な単独アーチが都市軸に立つ",
+        "上部に彫刻や碑文帯のような装飾がある",
+        "通過機能より記念碑性が強い"
+      ],
+      "common_motifs": [
+        "大アーチ",
+        "レリーフ",
+        "都市広場",
+        "記念碑"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "金"
+      ],
+      "material_feel": [
+        "石材",
+        "大理石",
+        "金"
+      ],
+      "light_air": "強い逆光、晴天、広場の開放感が中心。",
+      "worldview_direction": "都市の記憶や勝利を門の形で固定する記念碑。",
+      "near_terms": [
+        "monumentpunk",
+        "gatehouse_architecture",
+        "art_deco"
+      ],
+      "confusable_terms": [
+        {
+          "id": "gatehouse_architecture",
+          "difference": "門楼建築は防御施設。凱旋門建築は独立した記念碑で、守備設備は弱い。"
+        }
+      ],
+      "difference_notes": [
+        "防御より記念・式典・都市軸が主役。"
+      ],
+      "ai_keywords": [
+        "Triumphal Arch Architecture",
+        "triumphal arch architecture monument",
+        "large ceremonial arch city square",
+        "stone victory arch",
+        "大アーチ",
+        "レリーフ",
+        "都市広場",
+        "記念碑",
+        "巨大な単独アーチが都市軸に立つ",
+        "上部に彫刻や碑文帯のような装飾がある",
+        "通過機能より記念碑性が強い"
+      ],
+      "tags": {
+        "visual_elements": [
+          "アーチ",
+          "記念碑",
+          "巨大建築"
+        ],
+        "materials": [
+          "石材",
+          "金"
+        ],
+        "lighting_air": [
+          "強い逆光",
+          "自然光"
+        ],
+        "mood": [
+          "記念碑的",
+          "荘厳"
+        ],
+        "settings": [
+          "都市"
+        ],
+        "era_technology": [
+          "古代",
+          "近世"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "金"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "大アーチ",
+          "巨大な単独アーチが都市軸に立つ",
+          "記念碑",
+          "アーチ"
+        ],
+        "secondary_cues": [
+          "レリーフ",
+          "都市広場",
+          "記念碑",
+          "強い逆光"
+        ],
+        "avoid_confusing_with": [
+          "gatehouse_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "triumphal arch architecture monument",
+        "large ceremonial arch city square",
+        "stone victory arch"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/triumphal_arch_architecture.png",
+        "image_url": "/app/generated/representatives/triumphal_arch_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "広い都市広場の軸線上に、彫刻を備えた巨大な石の凱旋門が単独で立っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "obelisk_monument",
+      "name": "オベリスク記念碑",
+      "reading": "オベリスクきねんひ",
+      "english_name": "Obelisk Monument",
+      "short_description": "細長い四角錐の石柱が、古代性・記念性・空へ向かう垂直線を作る記念碑。",
+      "visual_features": [
+        "細く高い石柱が垂直に立つ",
+        "上部がピラミッド状に尖る",
+        "広場や神殿軸の中心に置かれる"
+      ],
+      "common_motifs": [
+        "石柱",
+        "尖頂",
+        "台座",
+        "広場"
+      ],
+      "color_tendencies": [
+        "黄土色",
+        "灰色",
+        "金"
+      ],
+      "material_feel": [
+        "石材",
+        "金",
+        "コンクリート"
+      ],
+      "light_air": "乾いた空気、強い日差し、長い影が中心。",
+      "worldview_direction": "古代的な権威や追悼を、細い垂直線として空に刻む記念碑。",
+      "near_terms": [
+        "monumentpunk",
+        "templepunk",
+        "pyramid_city_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "monumentpunk",
+          "difference": "記念碑建築は広い総称。オベリスクは細長い四角錐の石柱に限定した形。"
+        }
+      ],
+      "difference_notes": [
+        "塔ではなく、内部空間のない尖った石柱。"
+      ],
+      "ai_keywords": [
+        "Obelisk Monument",
+        "obelisk monument architecture",
+        "tall stone obelisk plaza",
+        "ancient obelisk monument",
+        "石柱",
+        "尖頂",
+        "台座",
+        "広場",
+        "細く高い石柱が垂直に立つ",
+        "上部がピラミッド状に尖る",
+        "広場や神殿軸の中心に置かれる"
+      ],
+      "tags": {
+        "visual_elements": [
+          "モノリス",
+          "記念碑",
+          "塔"
+        ],
+        "materials": [
+          "石材",
+          "金",
+          "コンクリート"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "強い逆光",
+          "自然光"
+        ],
+        "mood": [
+          "記念碑的",
+          "荘厳",
+          "神秘的"
+        ],
+        "settings": [
+          "都市",
+          "砂漠"
+        ],
+        "era_technology": [
+          "古代",
+          "近代"
+        ],
+        "colors": [
+          "黄土色",
+          "灰色",
+          "金"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "石柱",
+          "細く高い石柱が垂直に立つ",
+          "モノリス",
+          "記念碑"
+        ],
+        "secondary_cues": [
+          "尖頂",
+          "台座",
+          "広場",
+          "乾いた空気"
+        ],
+        "avoid_confusing_with": [
+          "monumentpunk"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "obelisk monument architecture",
+        "tall stone obelisk plaza",
+        "ancient obelisk monument"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/obelisk_monument.png",
+        "image_url": "/app/generated/representatives/obelisk_monument.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "広場の中央に細長い石のオベリスクが立ち、尖った頂部が空へ伸びている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "colonnade_architecture",
+      "name": "列柱廊建築",
+      "reading": "れっちゅうろうけんちく",
+      "english_name": "Colonnade Architecture",
+      "short_description": "柱が規則的に並ぶ回廊や前庭で、秩序・荘厳さ・透けた境界を作る建築。",
+      "visual_features": [
+        "同じ柱が長く反復する",
+        "柱間から奥の空間が見える",
+        "広場や神殿の縁を形作る"
+      ],
+      "common_motifs": [
+        "列柱",
+        "柱頭",
+        "石床",
+        "前庭"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "黄土色"
+      ],
+      "material_feel": [
+        "石材",
+        "大理石",
+        "コンクリート"
+      ],
+      "light_air": "斜光、柱の長い影、静かな自然光が中心。",
+      "worldview_direction": "柱の反復で空間に秩序と儀式性を与える建築表現。",
+      "near_terms": [
+        "cloister_architecture",
+        "templepunk",
+        "museum_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "cloister_architecture",
+          "difference": "回廊建築は中庭を囲む通路が中心。列柱廊建築は柱の反復そのものが主役。"
+        }
+      ],
+      "difference_notes": [
+        "中庭より、柱が連続する見た目を逆引きしたい時に使う。"
+      ],
+      "ai_keywords": [
+        "Colonnade Architecture",
+        "colonnade architecture repeated columns",
+        "classical colonnade stone columns",
+        "long colonnade shadows",
+        "列柱",
+        "柱頭",
+        "石床",
+        "前庭",
+        "同じ柱が長く反復する",
+        "柱間から奥の空間が見える",
+        "広場や神殿の縁を形作る"
+      ],
+      "tags": {
+        "visual_elements": [
+          "アーチ",
+          "宗教建築",
+          "記念碑"
+        ],
+        "materials": [
+          "石材",
+          "コンクリート"
+        ],
+        "lighting_air": [
+          "自然光",
+          "強い逆光"
+        ],
+        "mood": [
+          "荘厳",
+          "記念碑的"
+        ],
+        "settings": [
+          "都市",
+          "庭園"
+        ],
+        "era_technology": [
+          "古代",
+          "近世"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "黄土色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "列柱",
+          "同じ柱が長く反復する",
+          "記念碑",
+          "宗教建築"
+        ],
+        "secondary_cues": [
+          "柱頭",
+          "石床",
+          "前庭",
+          "自然光"
+        ],
+        "avoid_confusing_with": [
+          "cloister_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "colonnade architecture repeated columns",
+        "classical colonnade stone columns",
+        "long colonnade shadows"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/colonnade_architecture.png",
+        "image_url": "/app/generated/representatives/colonnade_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "白い石の柱が長く連続し、柱間から広場の光が差し込む列柱廊",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "rotunda_architecture",
+      "name": "円堂建築",
+      "reading": "えんどうけんちく",
+      "english_name": "Rotunda Architecture",
+      "short_description": "円形平面とドーム天井で、中心性・記念性・包まれる感覚を作る建築。",
+      "visual_features": [
+        "円形の建物やホールが中心になる",
+        "ドーム屋根や円形天井を持つ",
+        "中央に視線が集まる構成になる"
+      ],
+      "common_motifs": [
+        "円形ホール",
+        "ドーム",
+        "円柱",
+        "天窓"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "金"
+      ],
+      "material_feel": [
+        "石材",
+        "コンクリート",
+        "ガラス"
+      ],
+      "light_air": "天窓から落ちる自然光、静かな反響、荘厳な空気が中心。",
+      "worldview_direction": "人を中心へ集める、記念性の高い円形空間。",
+      "near_terms": [
+        "dome_city_architecture",
+        "museum_architecture",
+        "planetarium_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dome_city_architecture",
+          "difference": "ドーム都市は都市を覆う外殻。円堂建築は単体建築やホールの円形空間が中心。"
+        }
+      ],
+      "difference_notes": [
+        "都市全体ではなく、円形の建物・部屋の中心性が主役。"
+      ],
+      "ai_keywords": [
+        "Rotunda Architecture",
+        "rotunda architecture domed circular hall",
+        "circular rotunda interior skylight",
+        "domed round building architecture",
+        "円形ホール",
+        "ドーム",
+        "円柱",
+        "天窓",
+        "円形の建物やホールが中心になる",
+        "ドーム屋根や円形天井を持つ",
+        "中央に視線が集まる構成になる"
+      ],
+      "tags": {
+        "visual_elements": [
+          "ドーム",
+          "記念碑",
+          "巨大建築"
+        ],
+        "materials": [
+          "石材",
+          "コンクリート",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "自然光",
+          "白く平坦な光"
+        ],
+        "mood": [
+          "荘厳",
+          "記念碑的",
+          "神秘的"
+        ],
+        "settings": [
+          "都市",
+          "商業施設"
+        ],
+        "era_technology": [
+          "古代",
+          "現代"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "金"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "円形ホール",
+          "円形の建物やホールが中心になる",
+          "ドーム",
+          "記念碑"
+        ],
+        "secondary_cues": [
+          "円柱",
+          "天窓",
+          "石材",
+          "自然光"
+        ],
+        "avoid_confusing_with": [
+          "dome_city_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "rotunda architecture domed circular hall",
+        "circular rotunda interior skylight",
+        "domed round building architecture"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/rotunda_architecture.png",
+        "image_url": "/app/generated/representatives/rotunda_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "円形の石造ホールにドーム天井と天窓があり、中央へ光が落ちている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "amphitheater_architecture",
+      "name": "円形劇場建築",
+      "reading": "えんけいげきじょうけんちく",
+      "english_name": "Amphitheater Architecture",
+      "short_description": "階段状の観客席が円形や半円形に囲み、古代的な集団視線を作る劇場建築。",
+      "visual_features": [
+        "階段状の観客席が弧を描く",
+        "中央に舞台やアリーナがある",
+        "石造の反復座席で古代遺跡感が出る"
+      ],
+      "common_motifs": [
+        "階段席",
+        "アリーナ",
+        "石段",
+        "舞台"
+      ],
+      "color_tendencies": [
+        "黄土色",
+        "灰色",
+        "白"
+      ],
+      "material_feel": [
+        "石材",
+        "コンクリート",
+        "土"
+      ],
+      "light_air": "強い日差し、乾いた空気、屋外の開放感が中心。",
+      "worldview_direction": "観客の視線を中央へ集める、古代的な公共娯楽の建築。",
+      "near_terms": [
+        "stadium_architecture",
+        "opera_house_architecture",
+        "monumentpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "stadium_architecture",
+          "difference": "スタジアムは現代競技施設や大屋根が主役。円形劇場建築は石の階段席と中央舞台が主役。"
+        }
+      ],
+      "difference_notes": [
+        "近代スポーツより、古代的な石段と舞台の印象が強い。"
+      ],
+      "ai_keywords": [
+        "Amphitheater Architecture",
+        "amphitheater architecture stone seats",
+        "ancient amphitheater arena",
+        "outdoor amphitheater architecture",
+        "階段席",
+        "アリーナ",
+        "石段",
+        "舞台",
+        "階段状の観客席が弧を描く",
+        "中央に舞台やアリーナがある",
+        "石造の反復座席で古代遺跡感が出る"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大建築",
+          "記念碑",
+          "アーチ"
+        ],
+        "materials": [
+          "石材",
+          "コンクリート",
+          "土"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "自然光",
+          "強い逆光"
+        ],
+        "mood": [
+          "記念碑的",
+          "共同体的"
+        ],
+        "settings": [
+          "都市",
+          "砂漠"
+        ],
+        "era_technology": [
+          "古代",
+          "現代"
+        ],
+        "colors": [
+          "黄土色",
+          "灰色",
+          "白"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "階段席",
+          "階段状の観客席が弧を描く",
+          "巨大建築",
+          "記念碑"
+        ],
+        "secondary_cues": [
+          "アリーナ",
+          "石段",
+          "舞台",
+          "乾いた空気"
+        ],
+        "avoid_confusing_with": [
+          "stadium_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "amphitheater architecture stone seats",
+        "ancient amphitheater arena",
+        "outdoor amphitheater architecture"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/amphitheater_architecture.png",
+        "image_url": "/app/generated/representatives/amphitheater_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "石造りの階段席が円形に中央アリーナを囲む、乾いた光の円形劇場",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "opera_house_architecture",
+      "name": "歌劇場建築",
+      "reading": "かげきじょうけんちく",
+      "english_name": "Opera House Architecture",
+      "short_description": "舞台、客席、豪華なホワイエや外観が、祝祭性と格式を持つ劇場建築。",
+      "visual_features": [
+        "劇場のファサードや大階段が目立つ",
+        "内部に客席と舞台の強い軸がある",
+        "装飾や曲面で祝祭感が出る"
+      ],
+      "common_motifs": [
+        "大階段",
+        "客席",
+        "舞台",
+        "シャンデリア"
+      ],
+      "color_tendencies": [
+        "金",
+        "白",
+        "赤"
+      ],
+      "material_feel": [
+        "石材",
+        "金",
+        "布"
+      ],
+      "light_air": "暖色の照明、華やかな反射、夜の都市光が中心。",
+      "worldview_direction": "都市の文化的格式と祝祭性を凝縮した劇場建築。",
+      "near_terms": [
+        "exhibition_hall_architecture",
+        "museum_architecture",
+        "art_deco"
+      ],
+      "confusable_terms": [
+        {
+          "id": "exhibition_hall_architecture",
+          "difference": "展示会場建築は大空間と展示動線が中心。歌劇場建築は舞台・客席・装飾的な格式が中心。"
+        }
+      ],
+      "difference_notes": [
+        "鑑賞対象が舞台で、客席と豪華な公共空間が主役。"
+      ],
+      "ai_keywords": [
+        "Opera House Architecture",
+        "opera house architecture grand staircase",
+        "ornate theater interior",
+        "opera house facade night",
+        "大階段",
+        "客席",
+        "舞台",
+        "シャンデリア",
+        "劇場のファサードや大階段が目立つ",
+        "内部に客席と舞台の強い軸がある",
+        "装飾や曲面で祝祭感が出る"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大建築",
+          "アーチ",
+          "記念碑"
+        ],
+        "materials": [
+          "石材",
+          "金",
+          "布"
+        ],
+        "lighting_air": [
+          "低照度",
+          "夕焼け"
+        ],
+        "mood": [
+          "荘厳",
+          "記念碑的"
+        ],
+        "settings": [
+          "都市",
+          "商業施設"
+        ],
+        "era_technology": [
+          "近世",
+          "現代"
+        ],
+        "colors": [
+          "金",
+          "白",
+          "赤"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "大階段",
+          "劇場のファサードや大階段が目立つ",
+          "金",
+          "荘厳"
+        ],
+        "secondary_cues": [
+          "客席",
+          "舞台",
+          "シャンデリア",
+          "都市"
+        ],
+        "avoid_confusing_with": [
+          "exhibition_hall_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "opera house architecture grand staircase",
+        "ornate theater interior",
+        "opera house facade night"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/opera_house_architecture.png",
+        "image_url": "/app/generated/representatives/opera_house_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "豪華な歌劇場の大階段と客席空間が暖色の照明で輝いている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "control_tower_architecture",
+      "name": "管制塔建築",
+      "reading": "かんせいとうけんちく",
+      "english_name": "Control Tower Architecture",
+      "short_description": "空港や基地の上部ガラス室が、監視・指示・交通制御を象徴する塔建築。",
+      "visual_features": [
+        "塔の上部に広いガラスの管制室がある",
+        "滑走路や広い施設を見下ろす",
+        "通信設備と細い支柱が組み合わさる"
+      ],
+      "common_motifs": [
+        "管制室",
+        "滑走路",
+        "アンテナ",
+        "展望窓"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "青"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "ガラス",
+        "鋼鉄"
+      ],
+      "light_air": "白く平坦な光、夜間誘導灯、広い空の光が中心。",
+      "worldview_direction": "巨大な交通システムを上から制御する視線の塔。",
+      "near_terms": [
+        "airport_city_architecture",
+        "telecom_tower_architecture",
+        "observatory_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "observatory_architecture",
+          "difference": "天文台は空を観測するドームが中心。管制塔建築は施設全体を見渡すガラス室が中心。"
+        }
+      ],
+      "difference_notes": [
+        "望遠鏡やドームではなく、滑走路や交通を監視する部屋。"
+      ],
+      "ai_keywords": [
+        "Control Tower Architecture",
+        "airport control tower architecture",
+        "glass control tower runway",
+        "modern control tower building",
+        "管制室",
+        "滑走路",
+        "アンテナ",
+        "展望窓",
+        "塔の上部に広いガラスの管制室がある",
+        "滑走路や広い施設を見下ろす",
+        "通信設備と細い支柱が組み合わさる"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "高層ビル",
+          "空中回廊"
+        ],
+        "materials": [
+          "コンクリート",
+          "ガラス",
+          "鋼鉄"
+        ],
+        "lighting_air": [
+          "白く平坦な光",
+          "自然光"
+        ],
+        "mood": [
+          "無機質",
+          "未来的",
+          "清潔"
+        ],
+        "settings": [
+          "空港",
+          "塔"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "管制室",
+          "塔の上部に広いガラスの管制室がある",
+          "塔",
+          "空港"
+        ],
+        "secondary_cues": [
+          "滑走路",
+          "アンテナ",
+          "展望窓",
+          "白く平坦な光"
+        ],
+        "avoid_confusing_with": [
+          "observatory_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "airport control tower architecture",
+        "glass control tower runway",
+        "modern control tower building"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/control_tower_architecture.png",
+        "image_url": "/app/generated/representatives/control_tower_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "滑走路のそばに細い管制塔が立ち、上部のガラス張り管制室が空港全体を見渡している",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "fire_lookout_tower_architecture",
+      "name": "火の見櫓建築",
+      "reading": "ひのみやぐらけんちく",
+      "english_name": "Fire Lookout Tower Architecture",
+      "short_description": "森や町を見渡す細い櫓と小屋が、防災・見張り・高所の孤独を感じさせる建築。",
+      "visual_features": [
+        "細い脚の上に小さな小屋が載る",
+        "外階段や梯子が高所まで続く",
+        "森や小さな町を見渡す場所に立つ"
+      ],
+      "common_motifs": [
+        "高脚の小屋",
+        "外階段",
+        "梯子",
+        "見張り窓"
+      ],
+      "color_tendencies": [
+        "錆色",
+        "緑",
+        "白"
+      ],
+      "material_feel": [
+        "木材",
+        "鉄",
+        "布"
+      ],
+      "light_air": "乾いた空気、森の自然光、夕焼けが中心。",
+      "worldview_direction": "小さな人間の見張りが広い自然や町を監視する防災の塔。",
+      "near_terms": [
+        "watchtower_architecture",
+        "lighthouse_architecture",
+        "treehouse_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "watchtower_architecture",
+          "difference": "監視塔建築は城壁や軍事境界も含む。火の見櫓建築は高脚の小屋と防災・森の見張りが中心。"
+        }
+      ],
+      "difference_notes": [
+        "小屋が脚の上に載り、森や町を見張る用途が見える。"
+      ],
+      "ai_keywords": [
+        "Fire Lookout Tower Architecture",
+        "fire lookout tower architecture forest",
+        "wooden lookout tower cabin",
+        "forest fire watch tower",
+        "高脚の小屋",
+        "外階段",
+        "梯子",
+        "見張り窓",
+        "細い脚の上に小さな小屋が載る",
+        "外階段や梯子が高所まで続く",
+        "森や小さな町を見渡す場所に立つ"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "空中回廊"
+        ],
+        "materials": [
+          "木材",
+          "鉄",
+          "布"
+        ],
+        "lighting_air": [
+          "自然光",
+          "乾いた空気",
+          "夕焼け"
+        ],
+        "mood": [
+          "孤独",
+          "共同体的"
+        ],
+        "settings": [
+          "森",
+          "塔",
+          "荒野"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "錆色",
+          "緑",
+          "白"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "高脚の小屋",
+          "細い脚の上に小さな小屋が載る",
+          "塔",
+          "森"
+        ],
+        "secondary_cues": [
+          "外階段",
+          "梯子",
+          "見張り窓",
+          "乾いた空気"
+        ],
+        "avoid_confusing_with": [
+          "watchtower_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "fire lookout tower architecture forest",
+        "wooden lookout tower cabin",
+        "forest fire watch tower"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/fire_lookout_tower_architecture.png",
+        "image_url": "/app/generated/representatives/fire_lookout_tower_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "森の中に細い脚の火の見櫓が立ち、上部の小さな見張り小屋へ外階段が続いている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "windmill_architecture",
+      "name": "風車建築",
+      "reading": "ふうしゃけんちく",
+      "english_name": "Windmill Architecture",
+      "short_description": "大きな羽根と塔状の本体が、牧歌的な動力・粉挽き・風の方向を示す建築。",
+      "visual_features": [
+        "建物の正面に大きな羽根が付く",
+        "塔や小屋と回転翼が一体化する",
+        "田園や丘の上に立つ"
+      ],
+      "common_motifs": [
+        "回転翼",
+        "塔屋",
+        "丘",
+        "粉挽き小屋"
+      ],
+      "color_tendencies": [
+        "白",
+        "緑",
+        "錆色"
+      ],
+      "material_feel": [
+        "木材",
+        "石材",
+        "布"
+      ],
+      "light_air": "自然光、乾いた風、牧歌的な空気が中心。",
+      "worldview_direction": "風を建築の動力として受け止める牧歌的なランドマーク。",
+      "near_terms": [
+        "watermill_architecture",
+        "wind_farm_architecture",
+        "steampunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "wind_farm_architecture",
+          "difference": "風力発電施設は現代的な細いタービン群。風車建築は建物と大きな羽根が一体化した小屋や塔。"
+        }
+      ],
+      "difference_notes": [
+        "発電用タービンではなく、建物に羽根が付いている。"
+      ],
+      "ai_keywords": [
+        "Windmill Architecture",
+        "windmill architecture rural",
+        "traditional windmill building",
+        "windmill tower blades",
+        "回転翼",
+        "塔屋",
+        "丘",
+        "粉挽き小屋",
+        "建物の正面に大きな羽根が付く",
+        "塔や小屋と回転翼が一体化する",
+        "田園や丘の上に立つ"
+      ],
+      "tags": {
+        "visual_elements": [
+          "塔",
+          "歯車"
+        ],
+        "materials": [
+          "木材",
+          "石材",
+          "布"
+        ],
+        "lighting_air": [
+          "自然光",
+          "乾いた空気"
+        ],
+        "mood": [
+          "牧歌的",
+          "産業革命風"
+        ],
+        "settings": [
+          "森",
+          "荒野"
+        ],
+        "era_technology": [
+          "近世",
+          "産業革命"
+        ],
+        "colors": [
+          "白",
+          "緑",
+          "錆色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "回転翼",
+          "建物の正面に大きな羽根が付く",
+          "塔",
+          "牧歌的"
+        ],
+        "secondary_cues": [
+          "塔屋",
+          "丘",
+          "粉挽き小屋",
+          "自然光"
+        ],
+        "avoid_confusing_with": [
+          "wind_farm_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "windmill architecture rural",
+        "traditional windmill building",
+        "windmill tower blades"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/windmill_architecture.png",
+        "image_url": "/app/generated/representatives/windmill_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "丘の上に白い風車建築が立ち、建物の正面に大きな木製の羽根が付いている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "watermill_architecture",
+      "name": "水車小屋建築",
+      "reading": "すいしゃごやけんちく",
+      "english_name": "Watermill Architecture",
+      "short_description": "川沿いの小屋と大きな水車が、流れ・粉挽き・古い生活インフラを感じさせる建築。",
+      "visual_features": [
+        "建物の側面に大きな水車が付く",
+        "水路や小川が建物に接する",
+        "木材や石材の小屋が自然に馴染む"
+      ],
+      "common_motifs": [
+        "水車",
+        "小川",
+        "木の小屋",
+        "水路"
+      ],
+      "color_tendencies": [
+        "錆色",
+        "緑",
+        "灰色"
+      ],
+      "material_feel": [
+        "木材",
+        "石材",
+        "水"
+      ],
+      "light_air": "湿気、自然光、森の涼しい空気が中心。",
+      "worldview_direction": "水の流れを生活の動力として利用する古いインフラ建築。",
+      "near_terms": [
+        "windmill_architecture",
+        "canal_city_architecture",
+        "aqueductpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "windmill_architecture",
+          "difference": "風車建築は風を受ける羽根が正面に付く。水車小屋建築は川沿いの水車が側面に付く。"
+        }
+      ],
+      "difference_notes": [
+        "水路と建物側面の大きな水車で見分ける。"
+      ],
+      "ai_keywords": [
+        "Watermill Architecture",
+        "watermill architecture water wheel",
+        "old water mill building river",
+        "waterwheel mill house",
+        "水車",
+        "小川",
+        "木の小屋",
+        "水路",
+        "建物の側面に大きな水車が付く",
+        "水路や小川が建物に接する",
+        "木材や石材の小屋が自然に馴染む"
+      ],
+      "tags": {
+        "visual_elements": [
+          "水路",
+          "歯車"
+        ],
+        "materials": [
+          "木材",
+          "石材"
+        ],
+        "lighting_air": [
+          "湿気",
+          "自然光"
+        ],
+        "mood": [
+          "牧歌的",
+          "産業革命風"
+        ],
+        "settings": [
+          "森",
+          "水上"
+        ],
+        "era_technology": [
+          "近世",
+          "産業革命"
+        ],
+        "colors": [
+          "錆色",
+          "緑",
+          "灰色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "水車",
+          "建物の側面に大きな水車が付く",
+          "水路",
+          "木材"
+        ],
+        "secondary_cues": [
+          "小川",
+          "木の小屋",
+          "水路",
+          "湿気"
+        ],
+        "avoid_confusing_with": [
+          "windmill_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "watermill architecture water wheel",
+        "old water mill building river",
+        "waterwheel mill house"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/watermill_architecture.png",
+        "image_url": "/app/generated/representatives/watermill_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "森の小川沿いに木と石の水車小屋があり、側面の大きな水車が水路に接している",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "wind_farm_architecture",
+      "name": "風力発電施設",
+      "reading": "ふうりょくはつでんしせつ",
+      "english_name": "Wind Farm Architecture",
+      "short_description": "細い白い風力タービンが群として並び、現代的な再生可能エネルギー景観を作る施設。",
+      "visual_features": [
+        "細い塔と三枚羽根のタービンが反復する",
+        "丘陵や海上に複数基が並ぶ",
+        "建物よりも白い機械の群れが主役になる"
+      ],
+      "common_motifs": [
+        "風力タービン",
+        "送電線",
+        "丘陵",
+        "海上基礎"
+      ],
+      "color_tendencies": [
+        "白",
+        "青",
+        "緑"
+      ],
+      "material_feel": [
+        "鋼鉄",
+        "プラスチック",
+        "コンクリート"
+      ],
+      "light_air": "高所の風、自然光、澄んだ空気が中心。",
+      "worldview_direction": "風景の中にエネルギー生産が反復して現れる現代インフラ。",
+      "near_terms": [
+        "windmill_architecture",
+        "solar_farm_architecture",
+        "power_plant_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "windmill_architecture",
+          "difference": "風車建築は小屋や塔に羽根が付く。風力発電施設は細い白いタービンが複数並ぶ。"
+        }
+      ],
+      "difference_notes": [
+        "伝統的な建物ではなく、現代的な発電タービン群。"
+      ],
+      "ai_keywords": [
+        "Wind Farm Architecture",
+        "wind farm architecture turbines",
+        "offshore wind farm turbines",
+        "renewable energy wind turbines landscape",
+        "風力タービン",
+        "送電線",
+        "丘陵",
+        "海上基礎",
+        "細い塔と三枚羽根のタービンが反復する",
+        "丘陵や海上に複数基が並ぶ",
+        "建物よりも白い機械の群れが主役になる"
+      ],
+      "tags": {
+        "visual_elements": [
+          "発電施設",
+          "塔"
+        ],
+        "materials": [
+          "鋼鉄",
+          "プラスチック",
+          "コンクリート"
+        ],
+        "lighting_air": [
+          "自然光",
+          "高所の風"
+        ],
+        "mood": [
+          "未来的",
+          "清潔",
+          "無機質"
+        ],
+        "settings": [
+          "荒野",
+          "水上",
+          "発電所"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "白",
+          "青",
+          "緑"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "風力タービン",
+          "細い塔と三枚羽根のタービンが反復する",
+          "発電施設",
+          "塔"
+        ],
+        "secondary_cues": [
+          "送電線",
+          "丘陵",
+          "海上基礎",
+          "高所の風"
+        ],
+        "avoid_confusing_with": [
+          "windmill_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "wind farm architecture turbines",
+        "offshore wind farm turbines",
+        "renewable energy wind turbines landscape"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/wind_farm_architecture.png",
+        "image_url": "/app/generated/representatives/wind_farm_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "丘陵地に白い風力タービンが複数並び、三枚羽根が空に反復している",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "solar_farm_architecture",
+      "name": "太陽光発電施設",
+      "reading": "たいようこうはつでんしせつ",
+      "english_name": "Solar Farm Architecture",
+      "short_description": "太陽光パネルの反復する青黒い面が、平坦な土地に幾何学的なエネルギー景観を作る施設。",
+      "visual_features": [
+        "同じ角度のソーラーパネルが広く反復する",
+        "平坦な土地や砂漠に幾何学的な列ができる",
+        "建物よりパネル面の模様が主役になる"
+      ],
+      "common_motifs": [
+        "太陽光パネル",
+        "架台",
+        "送電設備",
+        "管理通路"
+      ],
+      "color_tendencies": [
+        "青",
+        "黒",
+        "灰色"
+      ],
+      "material_feel": [
+        "ガラス",
+        "鋼鉄",
+        "コンクリート"
+      ],
+      "light_air": "強い日差し、乾いた空気、反射光が中心。",
+      "worldview_direction": "太陽光を大量に集める、低く広がる現代エネルギーインフラ。",
+      "near_terms": [
+        "solarpunk",
+        "wind_farm_architecture",
+        "power_plant_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "solarpunk",
+          "difference": "ソーラーパンクは緑化や理想社会まで含む。太陽光発電施設はパネル群と発電インフラそのものが中心。"
+        }
+      ],
+      "difference_notes": [
+        "楽観的世界観ではなく、パネルが反復する施設として扱う。"
+      ],
+      "ai_keywords": [
+        "Solar Farm Architecture",
+        "solar farm architecture panels",
+        "large solar power plant desert",
+        "photovoltaic panel field",
+        "太陽光パネル",
+        "架台",
+        "送電設備",
+        "管理通路",
+        "同じ角度のソーラーパネルが広く反復する",
+        "平坦な土地や砂漠に幾何学的な列ができる",
+        "建物よりパネル面の模様が主役になる"
+      ],
+      "tags": {
+        "visual_elements": [
+          "発電施設",
+          "幾何学"
+        ],
+        "materials": [
+          "ガラス",
+          "鋼鉄",
+          "コンクリート"
+        ],
+        "lighting_air": [
+          "強い逆光",
+          "乾いた空気",
+          "自然光"
+        ],
+        "mood": [
+          "未来的",
+          "清潔",
+          "無機質"
+        ],
+        "settings": [
+          "砂漠",
+          "発電所",
+          "荒野"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "青",
+          "黒",
+          "灰色"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "太陽光パネル",
+          "同じ角度のソーラーパネルが広く反復する",
+          "発電施設",
+          "幾何学"
+        ],
+        "secondary_cues": [
+          "架台",
+          "送電設備",
+          "管理通路",
+          "乾いた空気"
+        ],
+        "avoid_confusing_with": [
+          "solarpunk"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "solar farm architecture panels",
+        "large solar power plant desert",
+        "photovoltaic panel field"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/solar_farm_architecture.png",
+        "image_url": "/app/generated/representatives/solar_farm_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "砂漠の平坦な土地に青黒い太陽光パネルが同じ角度で幾何学的に並んでいる",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "canal_lock_architecture",
+      "name": "閘門建築",
+      "reading": "こうもんけんちく",
+      "english_name": "Canal Lock Architecture",
+      "short_description": "水位差を調整する水門、狭い水路、待機する船が、運河の機械的な節目を作る構造物。",
+      "visual_features": [
+        "細長い水槽状の水路に船が入る",
+        "前後に重い水門がある",
+        "水位差や階段状の運河が見える"
+      ],
+      "common_motifs": [
+        "水門",
+        "閘室",
+        "運河",
+        "待機船"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "青",
+        "緑"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "水"
+      ],
+      "light_air": "湿気、曇天、静かな水面の反射が中心。",
+      "worldview_direction": "水の高さを機械的に調整して移動を可能にする運河インフラ。",
+      "near_terms": [
+        "canal_city_architecture",
+        "dam_spillway_architecture",
+        "aqueductpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dam_spillway_architecture",
+          "difference": "放水路建築は水を流し落とす巨大排水。閘門建築は船を水位差に合わせて移動させる水門構造。"
+        }
+      ],
+      "difference_notes": [
+        "落水ではなく、船と水門と細長い閘室が見える。"
+      ],
+      "ai_keywords": [
+        "Canal Lock Architecture",
+        "canal lock architecture water gates",
+        "ship in canal lock chamber",
+        "industrial canal lock gates",
+        "水門",
+        "閘室",
+        "運河",
+        "待機船",
+        "細長い水槽状の水路に船が入る",
+        "前後に重い水門がある",
+        "水位差や階段状の運河が見える"
+      ],
+      "tags": {
+        "visual_elements": [
+          "水路",
+          "巨大ダム",
+          "橋"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄"
+        ],
+        "lighting_air": [
+          "湿気",
+          "自然光"
+        ],
+        "mood": [
+          "無機質",
+          "共同体的"
+        ],
+        "settings": [
+          "水上",
+          "港湾",
+          "ダム"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "灰色",
+          "青",
+          "緑"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "水門",
+          "細長い水槽状の水路に船が入る",
+          "水路",
+          "湿気"
+        ],
+        "secondary_cues": [
+          "閘室",
+          "運河",
+          "待機船",
+          "港湾"
+        ],
+        "avoid_confusing_with": [
+          "dam_spillway_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "canal lock architecture water gates",
+        "ship in canal lock chamber",
+        "industrial canal lock gates"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/canal_lock_architecture.png",
+        "image_url": "/app/generated/representatives/canal_lock_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "細長い閘室に船が入り、前後の重い水門で水位を調整している運河インフラ",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "dry_dock_architecture",
+      "name": "乾ドック建築",
+      "reading": "かんドックけんちく",
+      "english_name": "Dry Dock Architecture",
+      "short_description": "船を陸上に近い状態で整備する巨大な凹型空間とゲートが、港湾の工業感を作る施設。",
+      "visual_features": [
+        "巨大な船体を囲む深いコンクリートの溝になる",
+        "底部に作業足場や排水設備がある",
+        "海側に大きなドックゲートが付く"
+      ],
+      "common_motifs": [
+        "船体",
+        "ドックゲート",
+        "足場",
+        "クレーン"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "錆色",
+        "青"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "水"
+      ],
+      "light_air": "湿気、煤けた空気、港湾の冷たい光が中心。",
+      "worldview_direction": "巨大な船を機械として分解・整備する港湾工業の空間。",
+      "near_terms": [
+        "shipyard_architecture",
+        "harbor_industrial_architecture",
+        "oil_rig_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "shipyard_architecture",
+          "difference": "造船所建築はクレーンや組立ヤード全体。乾ドック建築は水を抜いた船用の巨大な凹型槽が中心。"
+        }
+      ],
+      "difference_notes": [
+        "船が深い槽の中に入り、周囲から整備されている。"
+      ],
+      "ai_keywords": [
+        "Dry Dock Architecture",
+        "dry dock architecture ship repair",
+        "ship in dry dock concrete basin",
+        "industrial dry dock cranes",
+        "船体",
+        "ドックゲート",
+        "足場",
+        "クレーン",
+        "巨大な船体を囲む深いコンクリートの溝になる",
+        "底部に作業足場や排水設備がある",
+        "海側に大きなドックゲートが付く"
+      ],
+      "tags": {
+        "visual_elements": [
+          "廃工場",
+          "水路",
+          "巨大建築"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄"
+        ],
+        "lighting_air": [
+          "湿気",
+          "煤けた空気"
+        ],
+        "mood": [
+          "無機質",
+          "産業革命風"
+        ],
+        "settings": [
+          "港湾",
+          "工場"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "灰色",
+          "錆色",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "船体",
+          "巨大な船体を囲む深いコンクリートの溝になる",
+          "港湾",
+          "巨大建築"
+        ],
+        "secondary_cues": [
+          "ドックゲート",
+          "足場",
+          "クレーン",
+          "湿気"
+        ],
+        "avoid_confusing_with": [
+          "shipyard_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "dry dock architecture ship repair",
+        "ship in dry dock concrete basin",
+        "industrial dry dock cranes"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/dry_dock_architecture.png",
+        "image_url": "/app/generated/representatives/dry_dock_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "巨大な船体が水を抜いたコンクリートの乾ドック内に入り、周囲に足場とクレーンが立っている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "shipyard_architecture",
+      "name": "造船所建築",
+      "reading": "ぞうせんじょけんちく",
+      "english_name": "Shipyard Architecture",
+      "short_description": "巨大クレーン、船台、鋼材、未完成の船体が並ぶ、船を作るための港湾工業空間。",
+      "visual_features": [
+        "巨大なガントリークレーンが目立つ",
+        "船体や鋼材が広いヤードに置かれる",
+        "港と工場が一体化した風景になる"
+      ],
+      "common_motifs": [
+        "ガントリークレーン",
+        "船台",
+        "鋼材",
+        "未完成船"
+      ],
+      "color_tendencies": [
+        "錆色",
+        "灰色",
+        "青"
+      ],
+      "material_feel": [
+        "鋼鉄",
+        "鉄",
+        "コンクリート"
+      ],
+      "light_air": "煤けた空気、港湾の湿気、夕焼けの工業光が中心。",
+      "worldview_direction": "海へ向かう巨大機械を組み立てる、スケールの大きな港湾工場。",
+      "near_terms": [
+        "dry_dock_architecture",
+        "harbor_industrial_architecture",
+        "factorypunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dry_dock_architecture",
+          "difference": "乾ドックは船を入れる槽。造船所建築はクレーン、船台、組立ヤード全体。"
+        }
+      ],
+      "difference_notes": [
+        "ドックの槽より、造るための広いヤードとクレーンが主役。"
+      ],
+      "ai_keywords": [
+        "Shipyard Architecture",
+        "shipyard architecture gantry cranes",
+        "industrial shipyard hull construction",
+        "shipbuilding yard cranes",
+        "ガントリークレーン",
+        "船台",
+        "鋼材",
+        "未完成船",
+        "巨大なガントリークレーンが目立つ",
+        "船体や鋼材が広いヤードに置かれる",
+        "港と工場が一体化した風景になる"
+      ],
+      "tags": {
+        "visual_elements": [
+          "廃工場",
+          "巨大建築",
+          "配管"
+        ],
+        "materials": [
+          "鋼鉄",
+          "鉄",
+          "コンクリート"
+        ],
+        "lighting_air": [
+          "煤けた空気",
+          "湿気",
+          "夕焼け"
+        ],
+        "mood": [
+          "無機質",
+          "産業革命風",
+          "記念碑的"
+        ],
+        "settings": [
+          "港湾",
+          "工場"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "錆色",
+          "灰色",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "ガントリークレーン",
+          "巨大なガントリークレーンが目立つ",
+          "港湾",
+          "廃工場"
+        ],
+        "secondary_cues": [
+          "船台",
+          "鋼材",
+          "未完成船",
+          "煤けた空気"
+        ],
+        "avoid_confusing_with": [
+          "dry_dock_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "shipyard architecture gantry cranes",
+        "industrial shipyard hull construction",
+        "shipbuilding yard cranes"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/shipyard_architecture.png",
+        "image_url": "/app/generated/representatives/shipyard_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "港湾の造船所に巨大なガントリークレーンが並び、未完成の船体と鋼材が広いヤードに置かれている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "sewage_treatment_architecture",
+      "name": "下水処理施設",
+      "reading": "げすいしょりしせつ",
+      "english_name": "Sewage Treatment Architecture",
+      "short_description": "円形沈殿池、水路、配管、無機質な管理棟が並ぶ、都市の裏側の水処理インフラ。",
+      "visual_features": [
+        "大きな円形水槽が複数並ぶ",
+        "配管や水路が施設内をつなぐ",
+        "清潔さと不穏さが同居する無人感がある"
+      ],
+      "common_motifs": [
+        "円形沈殿池",
+        "配管",
+        "水路",
+        "管理棟"
+      ],
+      "color_tendencies": [
+        "灰色",
+        "青",
+        "緑"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "水"
+      ],
+      "light_air": "白く平坦な光、湿気、無機質な空気が中心。",
+      "worldview_direction": "都市生活の裏側で水を循環させる、機能むき出しのインフラ施設。",
+      "near_terms": [
+        "utility_tunnel_architecture",
+        "canal_lock_architecture",
+        "data_center_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "utility_tunnel_architecture",
+          "difference": "共同溝建築は地下の配線・配管通路。下水処理施設は地上の水槽や沈殿池が主役。"
+        }
+      ],
+      "difference_notes": [
+        "円形の水処理槽が並んでいれば下水処理施設。"
+      ],
+      "ai_keywords": [
+        "Sewage Treatment Architecture",
+        "sewage treatment plant architecture circular tanks",
+        "wastewater treatment facility basins",
+        "water treatment plant aerial",
+        "円形沈殿池",
+        "配管",
+        "水路",
+        "管理棟",
+        "大きな円形水槽が複数並ぶ",
+        "配管や水路が施設内をつなぐ",
+        "清潔さと不穏さが同居する無人感がある"
+      ],
+      "tags": {
+        "visual_elements": [
+          "配管",
+          "水路",
+          "無機質"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄"
+        ],
+        "lighting_air": [
+          "白く平坦な光",
+          "湿気"
+        ],
+        "mood": [
+          "無機質",
+          "清潔",
+          "不穏"
+        ],
+        "settings": [
+          "都市",
+          "工場"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "灰色",
+          "青",
+          "緑"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "円形沈殿池",
+          "大きな円形水槽が複数並ぶ",
+          "配管",
+          "無機質"
+        ],
+        "secondary_cues": [
+          "水路",
+          "管理棟",
+          "湿気",
+          "都市"
+        ],
+        "avoid_confusing_with": [
+          "utility_tunnel_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "sewage treatment plant architecture circular tanks",
+        "wastewater treatment facility basins",
+        "water treatment plant aerial"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/sewage_treatment_architecture.png",
+        "image_url": "/app/generated/representatives/sewage_treatment_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "無人の下水処理施設に大きな円形沈殿池が複数並び、配管と水路が幾何学的につながっている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "desalination_plant_architecture",
+      "name": "海水淡水化施設",
+      "reading": "かいすいたんすいかしせつ",
+      "english_name": "Desalination Plant Architecture",
+      "short_description": "海岸沿いの配管、タンク、処理棟が、乾いた地域の水を作る工業的な水インフラ。",
+      "visual_features": [
+        "海岸近くに処理棟やタンクが並ぶ",
+        "太い配管や取水設備が海へ伸びる",
+        "発電所に似た工業感と水処理感が混ざる"
+      ],
+      "common_motifs": [
+        "取水管",
+        "処理棟",
+        "タンク",
+        "海岸"
+      ],
+      "color_tendencies": [
+        "白",
+        "灰色",
+        "青"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "鋼鉄",
+        "ガラス"
+      ],
+      "light_air": "強い日差し、乾いた空気、海風が中心。",
+      "worldview_direction": "乾いた土地で水を作る、海辺の工業的なライフライン。",
+      "near_terms": [
+        "harbor_industrial_architecture",
+        "power_plant_architecture",
+        "sewage_treatment_architecture"
+      ],
+      "confusable_terms": [
+        {
+          "id": "power_plant_architecture",
+          "difference": "発電所建築はエネルギー設備が中心。海水淡水化施設は海岸の取水管、処理棟、タンクが中心。"
+        }
+      ],
+      "difference_notes": [
+        "海と水処理設備の組み合わせを重視する。"
+      ],
+      "ai_keywords": [
+        "Desalination Plant Architecture",
+        "desalination plant architecture coast",
+        "seawater desalination facility pipes",
+        "industrial desalination plant tanks",
+        "取水管",
+        "処理棟",
+        "タンク",
+        "海岸",
+        "海岸近くに処理棟やタンクが並ぶ",
+        "太い配管や取水設備が海へ伸びる",
+        "発電所に似た工業感と水処理感が混ざる"
+      ],
+      "tags": {
+        "visual_elements": [
+          "配管",
+          "水路",
+          "発電施設"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄",
+          "ガラス"
+        ],
+        "lighting_air": [
+          "乾いた空気",
+          "自然光",
+          "強い逆光"
+        ],
+        "mood": [
+          "無機質",
+          "清潔",
+          "未来的"
+        ],
+        "settings": [
+          "港湾",
+          "砂漠",
+          "工場"
+        ],
+        "era_technology": [
+          "現代",
+          "近未来"
+        ],
+        "colors": [
+          "白",
+          "灰色",
+          "青"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "取水管",
+          "海岸近くに処理棟やタンクが並ぶ",
+          "配管",
+          "港湾"
+        ],
+        "secondary_cues": [
+          "処理棟",
+          "タンク",
+          "海岸",
+          "乾いた空気"
+        ],
+        "avoid_confusing_with": [
+          "power_plant_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "desalination plant architecture coast",
+        "seawater desalination facility pipes",
+        "industrial desalination plant tanks"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/desalination_plant_architecture.png",
+        "image_url": "/app/generated/representatives/desalination_plant_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "乾いた海岸沿いに海水淡水化施設の白い処理棟とタンクが並び、太い配管が海へ伸びている",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
+    },
+    {
+      "id": "reservoir_architecture",
+      "name": "貯水池インフラ",
+      "reading": "ちょすいちインフラ",
+      "english_name": "Reservoir Infrastructure",
+      "short_description": "人工湖、取水塔、堤体、管理道路が、水を蓄える巨大な静けさを作るインフラ景観。",
+      "visual_features": [
+        "大きな人工湖と堤体が一体で見える",
+        "水面に取水塔や管理橋が立つ",
+        "ダムほど放水の動きは強くなく静かな貯留感がある"
+      ],
+      "common_motifs": [
+        "人工湖",
+        "取水塔",
+        "堤体",
+        "管理橋"
+      ],
+      "color_tendencies": [
+        "青",
+        "灰色",
+        "緑"
+      ],
+      "material_feel": [
+        "コンクリート",
+        "水",
+        "鋼鉄"
+      ],
+      "light_air": "静かな自然光、湿気、山間の冷たい空気が中心。",
+      "worldview_direction": "水を溜めて都市や農地を支える、静かな巨大インフラ。",
+      "near_terms": [
+        "dampunk",
+        "dam_spillway_architecture",
+        "aqueductpunk"
+      ],
+      "confusable_terms": [
+        {
+          "id": "dam_spillway_architecture",
+          "difference": "放水路建築は水が流れ落ちる動きが主役。貯水池インフラは静かな人工湖、取水塔、堤体が主役。"
+        }
+      ],
+      "difference_notes": [
+        "水の勢いより、蓄えられた広い水面と取水設備が見える。"
+      ],
+      "ai_keywords": [
+        "Reservoir Infrastructure",
+        "reservoir infrastructure intake tower",
+        "reservoir dam intake tower",
+        "artificial lake water infrastructure",
+        "人工湖",
+        "取水塔",
+        "堤体",
+        "管理橋",
+        "大きな人工湖と堤体が一体で見える",
+        "水面に取水塔や管理橋が立つ",
+        "ダムほど放水の動きは強くなく静かな貯留感がある"
+      ],
+      "tags": {
+        "visual_elements": [
+          "巨大ダム",
+          "水路",
+          "塔"
+        ],
+        "materials": [
+          "コンクリート",
+          "鋼鉄"
+        ],
+        "lighting_air": [
+          "湿気",
+          "自然光"
+        ],
+        "mood": [
+          "無機質",
+          "牧歌的",
+          "記念碑的"
+        ],
+        "settings": [
+          "ダム",
+          "水上",
+          "森"
+        ],
+        "era_technology": [
+          "近代",
+          "現代"
+        ],
+        "colors": [
+          "青",
+          "灰色",
+          "緑"
+        ]
+      },
+      "reverse_lookup": {
+        "strong_cues": [
+          "人工湖",
+          "大きな人工湖と堤体が一体で見える",
+          "巨大ダム",
+          "水路"
+        ],
+        "secondary_cues": [
+          "取水塔",
+          "堤体",
+          "管理橋",
+          "湿気"
+        ],
+        "avoid_confusing_with": [
+          "dam_spillway_architecture"
+        ]
+      },
+      "image_refs": {
+        "representative": null,
+        "thumbnail": null,
+        "gallery": [],
+        "reference_urls": [],
+        "notes": ""
+      },
+      "image_search_tags": [
+        "reservoir infrastructure intake tower",
+        "reservoir dam intake tower",
+        "artificial lake water infrastructure"
+      ],
+      "representative_image": {
+        "thumbnail_url": "/app/generated/representatives/reservoir_architecture.png",
+        "image_url": "/app/generated/representatives/reservoir_architecture.png",
+        "source_page_url": "",
+        "source": "OpenAI image generation",
+        "creator": "OpenAI",
+        "license": "Generated image",
+        "license_url": "",
+        "alt": "山間の静かな人工湖に取水塔と管理橋が立ち、奥に低い堤体が見える貯水池インフラ",
+        "notes": "構造物系拡張の代表画像として生成。実在作品や特定建築物の再現ではなく、視覚的特徴を説明するための参考画像。"
+      },
+      "selected_images": []
     }
   ],
   "comparison_groups": [
@@ -16955,6 +19586,98 @@
         "室内の浴槽とタイルなら浴場建築。",
         "自然の中の露天湯なら温泉保養地建築。",
         "用途より空虚さが目立つならリミナルスペース。"
+      ]
+    },
+    {
+      "id": "gates_monuments_and_axes",
+      "terms": [
+        "gatehouse_architecture",
+        "triumphal_arch_architecture",
+        "obelisk_monument",
+        "monumentpunk",
+        "colonnade_architecture"
+      ],
+      "summary": "門楼は防御する入口、凱旋門は記念のアーチ、オベリスクは尖った石柱、記念碑建築は総称、列柱廊は柱の反復で見分ける。",
+      "quick_check": [
+        "守る入口なら門楼。",
+        "独立した記念アーチなら凱旋門。",
+        "尖った石柱ならオベリスク。",
+        "記念碑全般なら記念碑建築。",
+        "柱が長く連続するなら列柱廊。"
+      ]
+    },
+    {
+      "id": "performance_and_civic_spaces",
+      "terms": [
+        "amphitheater_architecture",
+        "stadium_architecture",
+        "opera_house_architecture",
+        "exhibition_hall_architecture",
+        "rotunda_architecture"
+      ],
+      "summary": "円形劇場は石の階段席と中央舞台、スタジアムは競技フィールド、歌劇場は舞台と豪華客席、展示会場は展示用大空間、円堂は中心性のある円形ホールで見分ける。",
+      "quick_check": [
+        "石段の弧と中央舞台なら円形劇場。",
+        "競技フィールドならスタジアム。",
+        "豪華客席と舞台なら歌劇場。",
+        "展示ブースや大空間なら展示会場。",
+        "ドーム付きの円形ホールなら円堂。"
+      ]
+    },
+    {
+      "id": "energy_landscape_infrastructure",
+      "terms": [
+        "windmill_architecture",
+        "watermill_architecture",
+        "wind_farm_architecture",
+        "solar_farm_architecture",
+        "power_plant_architecture"
+      ],
+      "summary": "風車は建物に羽根、水車は川沿いの水車、風力発電施設は現代タービン群、太陽光発電施設はパネル群、発電所建築はエネルギー施設全体で見分ける。",
+      "quick_check": [
+        "建物に大きな羽根なら風車。",
+        "川沿いの水車なら水車小屋。",
+        "白いタービン群なら風力発電施設。",
+        "パネルの反復なら太陽光発電施設。",
+        "発電設備全体なら発電所建築。"
+      ]
+    },
+    {
+      "id": "water_industrial_infrastructure",
+      "terms": [
+        "canal_lock_architecture",
+        "dry_dock_architecture",
+        "shipyard_architecture",
+        "sewage_treatment_architecture",
+        "desalination_plant_architecture",
+        "reservoir_architecture"
+      ],
+      "summary": "閘門は船を水位差で通す水門、乾ドックは船を入れる凹型槽、造船所はクレーンと船台、下水処理施設は円形水槽、海水淡水化施設は海岸の水処理、貯水池は静かな人工湖と取水塔で見分ける。",
+      "quick_check": [
+        "船と細長い水門なら閘門。",
+        "水を抜いた船用の槽なら乾ドック。",
+        "巨大クレーンと船台なら造船所。",
+        "円形沈殿池が並べば下水処理施設。",
+        "海岸の取水管と処理棟なら海水淡水化施設。",
+        "人工湖と取水塔なら貯水池インフラ。"
+      ]
+    },
+    {
+      "id": "human_observation_towers",
+      "terms": [
+        "watchtower_architecture",
+        "fire_lookout_tower_architecture",
+        "control_tower_architecture",
+        "observatory_architecture",
+        "lighthouse_architecture"
+      ],
+      "summary": "監視塔は境界の見張り、火の見櫓は高脚の小屋、管制塔は上部ガラス室、天文台は空を観測するドーム、灯台は海辺の灯室で見分ける。",
+      "quick_check": [
+        "城壁や境界の見張りなら監視塔。",
+        "森や町を見張る高脚の小屋なら火の見櫓。",
+        "滑走路を見下ろすガラス室なら管制塔。",
+        "望遠鏡ドームなら天文台。",
+        "海辺の灯室なら灯台。"
       ]
     }
   ],
